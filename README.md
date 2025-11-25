@@ -102,8 +102,25 @@ You can sort folders using either the Folder Menu or the Context Menu.
 Select Sort. Sort again to reverse sorting
 
 ### 2.2 Pages:
-#### 2.2.1 Import PDF Pages to a Folder
-BlueGrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu or drag-and-drop.
+#### 2.2.1 Open a page
+1. Select the page you want to open.
+2. Double-click the page or right-click to open context menu and choose Open.
+
+#### 2.2.2 Open with
+BlueGrid allows users to open a page with different applications.
+1. Select the page you want to open with a different application.
+2. Right-click to open context menu and choose Open With.
+3. In the Open With dialog, select the desired application from the list or browse to find a specific application.
+4. Click OK to open the page with the selected application.
+
+#### 2.2.3 Open version
+1. Select the page you want to open a specific version of.
+2. Right-click to open context menu and choose Open Version.
+3. In the Open Version dialog, select the desired version from the list.
+4. Click OK to open the selected version of the page.
+
+#### 2.2.4 Add PDF pages to a folder
+BlueGrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu or drag-and-drop feature.
 There are two methods:
 Method 1: Using the Page Menu
 1. Select the folder you want to import PDF pages into.
@@ -112,13 +129,44 @@ Method 1: Using the Page Menu
 4. In the file selection dialog, choose one or more PDF files to import.
 5. Click OK to begin the import process.
 
-
 Method 2: Using Drag and Drop
 1. Select the folder you want to import PDF pages into.
 2. Drag one or more PDF files from your file system.
 3. Drop them into the Page View area.
 4. The selected PDF pages will be imported into the current folder.
 
+#### 2.2.5 Replace page
+1. Select the page you want to replace.
+2. Open the Page menu or right-click to open context menu
+3. Choose Replace Page.
+4. In the file selection dialog, choose the new PDF file to replace the existing page.
+5. Click OK to confirm the replacement.
+#### 2.2.6 Duplicate a page
+1. Select the page you want to duplicate.
+2. Open the Page menu or right-click to open context menu
+3. Choose Duplicate. 
+4. A copy of the selected page will be created in the same folder.
+
+#### 2.2.7 Add version
+1. Select the page you want to add a version to.
+2. Open the Page menu or right-click to open context menu
+3. Choose Add Version.
+4. In the file selection dialog, choose the new PDF file to add as a version.
+5. Click OK to confirm the addition of the new version.
+
+#### 2.2.8 Rotate pages
+1. Select the page or pages you want to rotate.
+2. Open the Page menu or right-click to open context menu
+3. Choose Rotate.
+4. Select the desired rotation angle (90 degrees clockwise, 90 degrees counterclockwise, or 180 degrees).
+5. The selected page(s) will be rotated accordingly.
+
+#### 2.2.9 Export PDFs
+1. Select the page or pages you want to export.
+2. Open the Page menu or right-click to open context menu
+3. Choose Export PDFs.
+4. In the file selection dialog, choose the destination folder for the exported PDF files.
+5. Click OK to begin the export process.
 
 #### 2.2.2 Delete a PDF page
 1. Select the page you want to delete.
