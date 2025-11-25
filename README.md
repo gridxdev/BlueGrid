@@ -38,13 +38,15 @@
       
 
 3. [Draw / Takeoff](#3-draw--takeoff)
-    - [3.1 Materials](#31-Material-table)
-    - [3.2 Shape tools](#31-shape-tools)
-    - [3.3 Count tools](#32-count-tools)
-    - [3.4 Assign material to shapes to estimate quantities](#32-assign-material-to-shapes-to-estimate-quantities)
-    - [3.5 Annotation tools](#33-editing-drawings)
-    - [3.6 Stamps](#34-managing-layers)
-    - [3.7 Exporting Takeoff Data](#35-exporting-takeoff-data)
+    - [3.1 Scale tool](#31-Set-page-scale-with-scale-tool)
+    - [3.2 Dim tool](#32-Measure-distances-with-dim-tool)
+    - [3.3 Shape tools](#31-shape-tools)
+    - [3.4 Count tools](#32-count-tools)
+    - [3.5 Materials](#31-Material-table)
+    - [3.6 Assign material to shapes to estimate quantities](#32-assign-material-to-shapes-to-estimate-quantities)
+    - [3.7 Annotation tools](#33-editing-drawings)
+    - [3.8 Stamps](#34-managing-layers)
+    - [3.9 Exporting Takeoff Data](#35-exporting-takeoff-data)
 
 
 ---
