@@ -37,7 +37,14 @@
       
       
 
-3. Take-off 
+3. [Draw / Takeoff](#3-draw--takeoff)
+    - [3.1 Materials](#31-Material-table)
+    - [3.2 Shape tools](#31-shape-tools)
+    - [3.3 Count tools](#32-count-tools)
+    - [3.4 Assign material to shapes to estimate quantities](#32-assign-material-to-shapes-to-estimate-quantities)
+    - [3.5 Annotation tools](#33-editing-drawings)
+    - [3.6 Stamps](#34-managing-layers)
+    - [3.7 Exporting Takeoff Data](#35-exporting-takeoff-data)
 
 
 ---
