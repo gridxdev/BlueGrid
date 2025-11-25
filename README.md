@@ -6,11 +6,12 @@
     - [1.2 Opening a Project](#12-opening-a-project)
 2. [Document Management](#2-document-management)
     - [2.1 Folders](#21-folders)
-        - [2.1.1 Creating a New Folder](#211-creating-a-new-folder)
-        - [2.1.2 Renaming a Folder](#212-renaming-a-folder)
-        - [2.1.3 Deleting a Folder](#213-deleting-a-folder)
-        - [2.1.4 Moving a Folder to another Folder](#214-moving-a-folder-to-another-folder)
-        - [2.1.5 Sorting Folders](#215-sorting-folders)
+        - [2.1.1 Creating a new folder](#211-creating-a-new-folder)
+        - [2.1.2 Renaming a folder](#212-renaming-a-folder)
+        - [2.1.3 Deleting a folder](#213-deleting-a-folder)
+        - [2.1.4 Moving a folder to another Folder](#214-moving-a-folder-to-another-folder)
+        - [2.1.5 Sorting folders](#215-sorting-folders)
+        - [2.1.6 Filter folders](#216-filter-folders)
     - [2.2 Pages](#22-pages)
         - [2.2.1 Open ](#221-open-a-page)
         - [2.2.2 Open with](#222-open-with)
@@ -118,6 +119,14 @@ In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to 
 You can sort folders using either the Folder Menu or the Context Menu.
 1. Open the Folder menu.
 2. Select Sort. Sort again to reverse sorting
+
+#### 2.1.6 Filter Folders
+You can filter folders using either the Folder Menu or the Context Menu.
+1. Open the Folder menu.
+2. Select Filter.
+3. In the Filter dialog, enter the criteria to filter folders.
+4. Click OK to apply the filter.
+
 ##### Notes
 Select Sort. Sort again to reverse sorting
 
