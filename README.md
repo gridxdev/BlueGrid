@@ -6,7 +6,33 @@
     - [1.2 Opening a Project](#12-opening-a-project)
 2. [Document Management](#2-document-management)
     - [2.1 Folders](#21-folders)
+        - [2.1.1 Creating a New Folder](#211-creating-a-new-folder)
+        - [2.1.2 Renaming a Folder](#212-renaming-a-folder)
+        - [2.1.3 Deleting a Folder](#213-deleting-a-folder)
+        - [2.1.4 Moving a Folder to another Folder](#214-moving-a-folder-to-another-folder)
+        - [2.1.5 Sorting Folders](#215-sorting-folders)
     - [2.2 Pages](#22-pages)
+        - [2.2.1 Open ](#221-open-a-page)
+        - [2.2.2 Open with](#222-open-with)
+        - [2.2.3 Open version](#223-open-version)
+        - [2.2.4 Add PDF Pages to a Folder](#224-add-pdf-pages-to-a-folder)
+        - [2.2.5 Replace page](#225-replace-page)
+        - [2.2.6 Duplicate](#226-duplicate-a-page)
+        - [2.2.7 Add version](#227-add-version)
+        - [2.2.8 Rotate pages](#228-rotate-pages)
+        - [2.2.9 Export PDFs](#229-export-pages)
+        - [2.2.10 Delete](#2210-delete-pages)
+        - [2.2.11 Delete versions](#2211-delete-versions)
+        - [2.2.12 View](#2212-Change-thumbnail-size)
+        - [2.2.13 Sort](#2213-Sort pages)
+        - [2.2.14 Select all](#2213-select-all-pages)
+        - [2.2.15 Batch rename](#2214-batch-rename-pages)
+        - [2.2.16 Batch set unit](#2215-batch-set-unit)
+        - [2.2.17 Re-index pages](#2216-re-index-pages)
+        - [2.2.18 Properties](#2217-Edit-page-properties)
+      
+
+3. Take-off 
 
 
 ---
