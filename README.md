@@ -195,7 +195,6 @@ In BlueGrid, you can sort pages either by index or by name.
 #### 2.2.14 Select all pages
 1. Open the Page menu or right-click to open context menu
 2. Choose Select All.
- 
 
 #### 2.2.15 Batch rename pages
 1. Select the pages you want to batch rename.
@@ -221,7 +220,7 @@ In BlueGrid, you can sort pages either by index or by name.
 2. Drag the page to the desired folder in the folder view.
 3. Release the mouse button to complete the move.
 
-#### 2.2.19 Setting page properties
+#### 2.2.19 Edit page properties
 1. Set page name
 2. Set scale
 3. Setting page unit
