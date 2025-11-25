@@ -24,7 +24,7 @@
         - [2.2.10 Delete](#2210-delete-pages)
         - [2.2.11 Delete versions](#2211-delete-versions)
         - [2.2.12 View](#2212-Change-thumbnail-size)
-        - [2.2.13 Sort](#2213-Sort pages)
+        - [2.2.13 Sort](#2213-Sort-pages)
         - [2.2.14 Select all](#2213-select-all-pages)
         - [2.2.15 Batch rename](#2214-batch-rename-pages)
         - [2.2.16 Batch set unit](#2215-batch-set-unit)
@@ -190,7 +190,7 @@ In BlueGrid, by doing delete version, you can remove the last version of a page 
 #### 2.2.13 Sort pages
 In BlueGrid, you can sort pages either by index or by name.
 1. Open the Page menu or right-click to open context menu
-2. Choose Sort, then select either By Index or By Name. Select Sort again to reverse sorting.
+2. Choose Sort, then select either By Index or By Name. Sort again to reverse sorting.
 
 #### 2.2.14 Select all pages
 1. Open the Page menu or right-click to open context menu
