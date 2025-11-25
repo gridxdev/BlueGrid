@@ -18,7 +18,7 @@
         - [2.2.4 Add PDF Pages to a Folder](#224-add-pdf-pages-to-a-folder)
         - [2.2.5 Replace page](#225-replace-page)
         - [2.2.6 Duplicate](#226-duplicate-a-page)
-        - [2.2.7 Add version](#227-add-version)
+        - [2.2.7 Add version](#227-add-versions-to-a-page)
         - [2.2.8 Rotate pages](#228-rotate-pages)
         - [2.2.9 Export PDFs](#229-export-pages)
         - [2.2.10 Delete](#2210-delete-pages)
@@ -147,7 +147,7 @@ Method 2: Using Drag and Drop
 3. Choose Duplicate. 
 4. A copy of the selected page will be created in the same folder.
 
-#### 2.2.7 Add version
+#### 2.2.7 Add versions to a page
 1. Select the page you want to add a version to.
 2. Open the Page menu or right-click to open context menu
 3. Choose Add Version.
@@ -161,24 +161,18 @@ Method 2: Using Drag and Drop
 4. Select the desired rotation angle (90 degrees clockwise, 90 degrees counterclockwise, or 180 degrees).
 5. The selected page(s) will be rotated accordingly.
 
-#### 2.2.9 Export PDFs
+#### 2.2.9 Export pages
 1. Select the page or pages you want to export.
 2. Open the Page menu or right-click to open context menu
 3. Choose Export PDFs.
 4. In the file selection dialog, choose the destination folder for the exported PDF files.
 5. Click OK to begin the export process.
 
-#### 2.2.2 Delete a PDF page
-1. Select the page you want to delete.
+#### 2.2.10 Delete pages
+1. Select the pages you want to delete.
 2. Open the Page menu or right-click to open context menu
 3. Choose Delete.
 4. Confirm the action when prompted.
-
-#### 2.2.2 Stack versions of a page
-1. Select the page you want to stack versions for.
-2. Open the Page menu or right-click to open context menu
-3. Choose Stack Versions.
-4. The selected page will be stacked with its versions, allowing you to manage multiple iterations of the same page efficiently.
 
 #### 2.2.3 Setting page properties
 1. Set page name
