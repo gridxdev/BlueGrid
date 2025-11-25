@@ -30,10 +30,10 @@
         - [2.2.16 Batch set unit](#2215-batch-set-unit)
         - [2.2.17 Re-index pages](#2216-re-index-pages)
         - [2.2.18 Change page folder](#2218-move-a-page-to-another-folder)
-        - [2.2.19 Properties](#2217-Edit-page-properties)
-        - [2.2.19.1 Set page name](#22171-set-page-name)
-        - [2.2.19.2 Set scale](#22172-set-scale)
-        - [2.2.19.3 Setting page unit](#22173-setting-page-unit)
+        - [2.2.19 Properties](#2219-edit-page-properties)
+        - [2.2.19.1 Set page name](#22191-set-page-name)
+        - [2.2.19.2 Set scale](#22192-set-page-scale)
+        - [2.2.19.3 Set page unit](#22193-set-page-unit)
       
       
 
@@ -240,14 +240,14 @@ In BlueGrid, you can sort pages either by index or by name.
 4. In the Properties dialog, enter the new page name in the appropriate field.
 5. Click OK to confirm the change.
 
-##### 2.2.19.2 Set scale
+##### 2.2.19.2 Set page scale
 1. Select the page you want to edit properties for.
 2. Open the Page menu or right-click to open context menu
 3. Choose Properties.
 4. In the Properties dialog, enter the new scale value in the appropriate field.
 5. Click OK to confirm the change.
 
-##### 2.2.19.3 Setting page unit
+##### 2.2.19.3 Set page unit
 1. Select the page you want to edit properties for.
 2. Open the Page menu or right-click to open context menu
 3. Choose Properties.
