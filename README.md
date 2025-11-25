@@ -29,7 +29,8 @@
         - [2.2.15 Batch rename](#2214-batch-rename-pages)
         - [2.2.16 Batch set unit](#2215-batch-set-unit)
         - [2.2.17 Re-index pages](#2216-re-index-pages)
-        - [2.2.18 Properties](#2217-Edit-page-properties)
+        - [2.2.18 Change page folder](#2218-move-a-page-to-another-folder)
+        - [2.2.19 Properties](#2217-Edit-page-properties)
       
 
 3. Take-off 
@@ -215,13 +216,16 @@ In BlueGrid, you can sort pages either by index or by name.
 2. Open the Page menu or right-click to open context menu
 3. Choose Re-index.
 
+#### 2.2.18 Move a page to another folder
+1. Select and hold the page you want to move.
+2. Drag the page to the desired folder in the folder view.
+3. Release the mouse button to complete the move.
 
-#### 2.2.3 Setting page properties
+#### 2.2.19 Setting page properties
 1. Set page name
 2. Set scale
 3. Setting page unit
 
-#### 2.2.4 Move a page to another folder
 
 
 
