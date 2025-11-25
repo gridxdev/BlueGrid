@@ -174,6 +174,48 @@ Method 2: Using Drag and Drop
 3. Choose Delete.
 4. Confirm the action when prompted.
 
+#### 2.2.11 Delete versions
+In BlueGrid, by doing delete version, you can remove the last version of a page while keeping the main page intact.
+1. Select the page whose version you want to delete.
+2. Open the Page menu or right-click to open context menu    
+3. Choose Delete Version
+4. Confirm the action when prompted.
+
+#### 2.2.12 Change thumbnail size
+1. Open the Page menu or right-click to open context menu
+2. Choose View.
+3. Select the desired thumbnail size from the available options (Small, Medium, Large).
+
+#### 2.2.13 Sort pages
+In BlueGrid, you can sort pages either by index or by name.
+1. Open the Page menu or right-click to open context menu
+2. Choose Sort, then select either By Index or By Name. Select Sort again to reverse sorting.
+
+#### 2.2.14 Select all pages
+1. Open the Page menu or right-click to open context menu
+2. Choose Select All.
+ 
+
+#### 2.2.15 Batch rename pages
+1. Select the pages you want to batch rename.
+2. Open the Page menu or right-click to open context menu
+3. Choose Batch Rename.
+4. In the Batch Rename dialog, enter the new naming pattern.
+5. Click OK to apply the new names to the selected pages.
+
+#### 2.2.16 Batch set unit
+1. Select the pages you want to batch set unit.
+2. Open the Page menu or right-click to open context menu
+3. Choose Batch Set Unit.
+4. In the Batch Set Unit dialog, select the desired unit from the list.
+5. Click OK to apply the selected unit to the chosen pages.
+
+#### 2.2.17 Re-index pages
+1. Select the pages you want to re-index.
+2. Open the Page menu or right-click to open context menu
+3. Choose Re-index.
+
+
 #### 2.2.3 Setting page properties
 1. Set page name
 2. Set scale
