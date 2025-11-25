@@ -31,9 +31,20 @@
         - [2.2.17 Re-index pages](#2216-re-index-pages)
         - [2.2.18 Change page folder](#2218-move-a-page-to-another-folder)
         - [2.2.19 Properties](#2217-Edit-page-properties)
+        - [2.2.19.1 Set page name](#22171-set-page-name)
+        - [2.2.19.2 Set scale](#22172-set-scale)
+        - [2.2.19.3 Setting page unit](#22173-setting-page-unit)
+      
       
 
-3. Take-off 
+3. [Draw / Takeoff](#3-draw--takeoff)
+    - [3.1 Materials](#31-Material-table)
+    - [3.2 Shape tools](#31-shape-tools)
+    - [3.3 Count tools](#32-count-tools)
+    - [3.4 Assign material to shapes to estimate quantities](#32-assign-material-to-shapes-to-estimate-quantities)
+    - [3.5 Annotation tools](#33-editing-drawings)
+    - [3.6 Stamps](#34-managing-layers)
+    - [3.7 Exporting Takeoff Data](#35-exporting-takeoff-data)
 
 
 ---
@@ -221,9 +232,27 @@ In BlueGrid, you can sort pages either by index or by name.
 3. Release the mouse button to complete the move.
 
 #### 2.2.19 Edit page properties
-1. Set page name
-2. Set scale
-3. Setting page unit
+
+##### 2.2.19.1 Set page name
+1. Select the page you want to edit properties for.
+2. Open the Page menu or right-click to open context menu
+3. Choose Properties.
+4. In the Properties dialog, enter the new page name in the appropriate field.
+5. Click OK to confirm the change.
+
+##### 2.2.19.2 Set scale
+1. Select the page you want to edit properties for.
+2. Open the Page menu or right-click to open context menu
+3. Choose Properties.
+4. In the Properties dialog, enter the new scale value in the appropriate field.
+5. Click OK to confirm the change.
+
+##### 2.2.19.3 Setting page unit
+1. Select the page you want to edit properties for.
+2. Open the Page menu or right-click to open context menu
+3. Choose Properties.
+4. In the Properties dialog, select the desired unit from the dropdown menu.
+5. Click OK to confirm the change.
 
 
 
