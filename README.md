@@ -36,8 +36,6 @@
         - [2.2.19.2 Set scale](#22192-set-page-scale)
         - [2.2.19.3 Set page unit](#22193-set-page-unit)
       
-      
-
 3. [Draw / Takeoff](#3-draw--takeoff)
     - [3.1 Scale tool](#31-Set-page-scale-with-scale-tool)
     - [3.2 Dim tool](#32-Measure-distances-with-dim-tool)
@@ -50,6 +48,19 @@
     - [3.3.5 Others](#336-other shape tools)
     - [3.4 Count tools](#32-count-tools)
     - [3.5 Materials](#31-Material-table)
+    - [5.5.1 Adding a new material](#351-adding-a-new-material)
+    - [3.5.2 Editing a material](#352-editing-a-material)
+    - [3.5.4 Importing materials](#354-importing-materials)
+    - [3.5.6 Pull materials from catalog](#356-pull-materials-from-catalog)
+    - [3.5.3 Deleting a material](#353-deleting-a-material)
+    - [3.5.5 Exporting materials-to-csv](#355-exporting-materials-to-csv)
+    - [3.5.6 Exporting materials-to-excel](#357-exporting-materials-to-excel)
+    - [3.5.7 Dematerialize materials](#358-dematerialize-materials)
+    - [3.5.8 List valued items](#359-list-valued-items)
+    - [3.5.9 List all items](#3510-list-all-items)
+    - [3.5.10 Select tagged shapes](#3511-select-tagged-shapes)
+    - [3.5.11 Filter materials](#3511-filter-materials)
+    - [3.5.12 Sort materials](#3512-sort-materials)
     - [3.6 Assign material to shapes to estimate quantities](#32-assign-material-to-shapes-to-estimate-quantities)
     - [3.7 Annotation tools](#33-editing-drawings)
     - [3.8 Stamps](#34-managing-layers)
