@@ -6,11 +6,12 @@
     - [1.2 Opening a Project](#12-opening-a-project)
 2. [Document Management](#2-document-management)
     - [2.1 Folders](#21-folders)
-        - [2.1.1 Creating a New Folder](#211-creating-a-new-folder)
-        - [2.1.2 Renaming a Folder](#212-renaming-a-folder)
-        - [2.1.3 Deleting a Folder](#213-deleting-a-folder)
-        - [2.1.4 Moving a Folder to another Folder](#214-moving-a-folder-to-another-folder)
-        - [2.1.5 Sorting Folders](#215-sorting-folders)
+        - [2.1.1 Creating a new folder](#211-creating-a-new-folder)
+        - [2.1.2 Renaming a folder](#212-renaming-a-folder)
+        - [2.1.3 Deleting a folder](#213-deleting-a-folder)
+        - [2.1.4 Moving a folder to another Folder](#214-moving-a-folder-to-another-folder)
+        - [2.1.5 Sorting folders](#215-sorting-folders)
+        - [2.1.6 Filter folders](#216-filter-folders)
     - [2.2 Pages](#22-pages)
         - [2.2.1 Open ](#221-open-a-page)
         - [2.2.2 Open with](#222-open-with)
@@ -25,26 +26,45 @@
         - [2.2.11 Delete versions](#2211-delete-versions)
         - [2.2.12 View](#2212-Change-thumbnail-size)
         - [2.2.13 Sort](#2213-Sort-pages)
-        - [2.2.14 Select all](#2213-select-all-pages)
-        - [2.2.15 Batch rename](#2214-batch-rename-pages)
-        - [2.2.16 Batch set unit](#2215-batch-set-unit)
-        - [2.2.17 Re-index pages](#2216-re-index-pages)
+        - [2.2.14 Select all](#2214-select-all-pages)
+        - [2.2.15 Batch rename](#2215-batch-rename-pages)
+        - [2.2.16 Batch set unit](#2216-batch-set-unit)
+        - [2.2.17 Re-index pages](#2217-re-index-pages)
         - [2.2.18 Change page folder](#2218-move-a-page-to-another-folder)
-        - [2.2.19 Properties](#2217-Edit-page-properties)
-        - [2.2.19.1 Set page name](#22171-set-page-name)
-        - [2.2.19.2 Set scale](#22172-set-scale)
-        - [2.2.19.3 Setting page unit](#22173-setting-page-unit)
+        - [2.2.19 Properties](#2219-edit-page-properties)
+        - [2.2.19.1 Set page name](#22191-set-page-name)
+        - [2.2.19.2 Set scale](#22192-set-page-scale)
+        - [2.2.19.3 Set page unit](#22193-set-page-unit)
       
-      
-
 3. [Draw / Takeoff](#3-draw--takeoff)
-    - [3.1 Materials](#31-Material-table)
-    - [3.2 Shape tools](#31-shape-tools)
-    - [3.3 Count tools](#32-count-tools)
-    - [3.4 Assign material to shapes to estimate quantities](#32-assign-material-to-shapes-to-estimate-quantities)
-    - [3.5 Annotation tools](#33-editing-drawings)
-    - [3.6 Stamps](#34-managing-layers)
-    - [3.7 Exporting Takeoff Data](#35-exporting-takeoff-data)
+    - [3.1 Scale tool](#31-Set-page-scale-with-scale-tool)
+    - [3.2 Dim tool](#32-Measure-distances-with-dim-tool)
+    - [3.3 Shape tools](#31-shape-tools)
+    - [3.3.1 Rectangle](#331-rectangle)
+    - [3.3.2 Line](#332-line)
+    - [3.3.3 Polyline](#333-polyline)
+    - [3.3.3 Polygon](#334-polygon)
+    - [3.3.4 Path](#335-path)
+    - [3.3.5 Others](#336-other shape tools)
+    - [3.4 Count tools](#32-count-tools)
+    - [3.5 Materials](#31-Material-table)
+    - [5.5.1 Adding a new material](#351-adding-a-new-material)
+    - [3.5.2 Editing a material](#352-editing-a-material)
+    - [3.5.4 Importing materials](#354-importing-materials)
+    - [3.5.6 Pull materials from catalog](#356-pull-materials-from-catalog)
+    - [3.5.3 Deleting a material](#353-deleting-a-material)
+    - [3.5.5 Exporting materials-to-csv](#355-exporting-materials-to-csv)
+    - [3.5.6 Exporting materials-to-excel](#357-exporting-materials-to-excel)
+    - [3.5.7 Dematerialize materials](#358-dematerialize-materials)
+    - [3.5.8 List valued items](#359-list-valued-items)
+    - [3.5.9 List all items](#3510-list-all-items)
+    - [3.5.10 Select tagged shapes](#3511-select-tagged-shapes)
+    - [3.5.11 Filter materials](#3511-filter-materials)
+    - [3.5.12 Sort materials](#3512-sort-materials)
+    - [3.6 Assign material to shapes to estimate quantities](#36-assign-material-to-shapes-to-estimate-quantities)
+    - [3.7 Annotation tools](#337-Annotation-tools)
+    - [3.8 Stamps](#38-stamps)
+    - [3.9 Exporting Takeoff Data](#39-exporting-takeoff-data)
 
 
 ---
@@ -110,6 +130,14 @@ In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to 
 You can sort folders using either the Folder Menu or the Context Menu.
 1. Open the Folder menu.
 2. Select Sort. Sort again to reverse sorting
+
+#### 2.1.6 Filter Folders
+You can filter folders using either the Folder Menu or the Context Menu.
+1. Open the Folder menu.
+2. Select Filter.
+3. In the Filter dialog, enter the criteria to filter folders.
+4. Click OK to apply the filter.
+
 ##### Notes
 Select Sort. Sort again to reverse sorting
 
@@ -240,14 +268,14 @@ In BlueGrid, you can sort pages either by index or by name.
 4. In the Properties dialog, enter the new page name in the appropriate field.
 5. Click OK to confirm the change.
 
-##### 2.2.19.2 Set scale
+##### 2.2.19.2 Set page scale
 1. Select the page you want to edit properties for.
 2. Open the Page menu or right-click to open context menu
 3. Choose Properties.
 4. In the Properties dialog, enter the new scale value in the appropriate field.
 5. Click OK to confirm the change.
 
-##### 2.2.19.3 Setting page unit
+##### 2.2.19.3 Set page unit
 1. Select the page you want to edit properties for.
 2. Open the Page menu or right-click to open context menu
 3. Choose Properties.
