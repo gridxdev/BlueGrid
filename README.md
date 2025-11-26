@@ -83,6 +83,11 @@
     - [3.10.14 Deselect shapes](#3114-Deselect-shapes)
     - [3.10.15 Delete shapes](#3115-Delete-shapes)
 
+4. [Catalogs](#4-catalogs) 
+    - [4.1 Overview about catalogs](#41-overview-about-catalogs)
+    - [4.2 Build a catalog](#42-build-a-catalog)
+    - [4.3 Import a catalog](#43-import-a-catalog)
+    - [4.4 Export a catalog](#44-export-a-catalog)
 ---
 
 ## 1. BlueGrid Projects
