@@ -46,6 +46,7 @@
     - [3.3.3 Polygon](#334-polygon)
     - [3.3.4 Path](#335-path)
     - [3.3.5 Others](#336-other-shape-tools)
+    - [3.3.6 Snap settings](#311-snap-settings)
     - [3.4 Count tools](#32-count-tools)
     - [3.5 Materials](#31-Material-table)
     - [5.5.1 Adding a new material](#351-adding-a-new-material)
@@ -64,7 +65,13 @@
     - [3.6 Assign material to shapes to estimate quantities](#36-assign-material-to-shapes-to-estimate-quantities)
     - [3.7 Annotation tools](#337-Annotation-tools)
     - [3.8 Stamps](#38-stamps)
-    - [3.9 Exporting Takeoff Data](#39-exporting-takeoff-data)
+    - [3.9 Image tools](#39-adding-images)
+    - [3.10 Drawboard menu/functions](#310-drawboard-menu-functions)
+    - [3.10.1 Undo/Redo](#3101-undoredo)
+    - [3.10.2 Copy](#3102-copycopy)
+    - [3.10.3 Copy-displace](#3103-copy-displace)
+
+   
 
 
 ---
