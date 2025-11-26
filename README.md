@@ -61,9 +61,9 @@
     - [3.5.10 Select tagged shapes](#3511-select-tagged-shapes)
     - [3.5.11 Filter materials](#3511-filter-materials)
     - [3.5.12 Sort materials](#3512-sort-materials)
-    - [3.6 Assign material to shapes to estimate quantities](#32-assign-material-to-shapes-to-estimate-quantities)
-    - [3.7 Annotation tools](#33-editing-drawings)
-    - [3.8 Stamps](#34-managing-layers)
+    - [3.6 Assign material to shapes to estimate quantities](#36-assign-material-to-shapes-to-estimate-quantities)
+    - [3.7 Annotation tools](#33=7-Annotation-tools)
+    - [3.8 Stamps](#34-stamps)
     - [3.9 Exporting Takeoff Data](#35-exporting-takeoff-data)
 
 
