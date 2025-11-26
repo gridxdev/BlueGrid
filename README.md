@@ -45,7 +45,7 @@
     - [3.3.3 Polyline](#333-polyline)
     - [3.3.3 Polygon](#334-polygon)
     - [3.3.4 Path](#335-path)
-    - [3.3.5 Others](#336-other shape tools)
+    - [3.3.5 Others](#336-other-shape-tools)
     - [3.4 Count tools](#32-count-tools)
     - [3.5 Materials](#31-Material-table)
     - [5.5.1 Adding a new material](#351-adding-a-new-material)
