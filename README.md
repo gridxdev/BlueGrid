@@ -101,6 +101,16 @@ Follow these steps to create a new project in BlueGrid:
 3. In the *Project Type* dialog, select one of the following:
     - **BGP Project** — Stores the entire project database in a single, portable file.
     - **GDX Project** — Stores the project database across multiple files for faster read/write performance.
+4. Click **Create**.
+5. In the *Save As* dialog, choose a location and enter a name for your project file.
+6. Click **Save** to create the project.
+
+    <p><strong>Create a new project</strong></p>
+    <img src="images/create-project.png" alt="Create a new project" title="Create a new project" style="width:auto; height:auto; max-width:50%;">
+    
+    <p><strong>Select project type</strong></p>
+    <img src="images/select-project-type.png" alt="Project Type dialog" title="Select project type" style="width:auto; height:auto; max-width:50%;">
+
 
 ### 1.2 Opening a Project
 You can open an existing project using one of the following methods:
