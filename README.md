@@ -83,11 +83,17 @@
     - [3.10.14 Deselect shapes](#3114-Deselect-shapes)
     - [3.10.15 Delete shapes](#3115-Delete-shapes)
 
+4. [Catalogs](#4-catalogs) 
+    - [4.1 Overview about catalogs](#41-overview-about-catalogs)
+    - [4.2 Build a catalog](#42-build-a-catalog)
+    - [4.3 Import a catalog](#43-import-a-catalog)
+    - [4.4 Export a catalog](#44-export-a-catalog)
 ---
 
 ## 1. BlueGrid Projects
 
 ### 1.1 Creating a Project
+In BlueGrid, before executing a take-off project, you need to create or open a project.
 Follow these steps to create a new project in BlueGrid:
 
 1. Open the Starter Window.
@@ -95,31 +101,45 @@ Follow these steps to create a new project in BlueGrid:
 3. In the *Project Type* dialog, select one of the following:
     - **BGP Project** — Stores the entire project database in a single, portable file.
     - **GDX Project** — Stores the project database across multiple files for faster read/write performance.
+4. Click **Create**.
+5. In the *Save As* dialog, choose a location and enter a name for your project file.
+6. Click **Save** to create the project.
+
+    <p><strong>Create a new project</strong></p>
+    <img src="images/create-project.png" alt="Create a new project" title="Create a new project" style="width:auto; height:auto; max-width:50%;">
+    
+    <p><strong>Select project type</strong></p>
+    <img src="images/select-project-type.png" alt="Project Type dialog" title="Select project type" style="width:auto; height:auto; max-width:50%;">
+
 
 ### 1.2 Opening a Project
 You can open an existing project using one of the following methods:
 
-- Click **Open** and browse to your project file.
-- Select a project from the **Recent Projects** list.
+- Click **Open** and browse to your project file and then click Open in the file dialog.
+<p><strong>Open an existing project</strong></p>
+<img src="images/open-browse.png" alt="Open an existing project" title="Open an existing project" style="width:auto; height:auto; max-width:50%;">
+
+- Double-click on the project from the **Recent Projects** list.
+<p><strong>Open a recent project</strong></p>
+<img src="images/open-recent.png" alt="Open a recent project" title="Open a recent project" style="width:auto; height:auto; max-width:50%;">    
 
 ---
-
-### Notes
-- Choose **BGP** for portability and single-file backups.
-- Choose **GDX** for performance with large project datasets.
 
 ## 2. Document Management
 
 ### 2.1 Folders:
 **Using the Folder Menu or Context Menu by right-clicking within the folder view.**
 #### 2.1.1 Creating a New Folder
-You can create a new folder using either of the following methods:
+In BlueGrid, PDF pages are organized into folders. A folder may contain sub-folders. You can create a new folder using either of the following methods:
 
-1. Click the Folder menu.
+1. Click the Folder menu or right-click within the folder view to open the context menu.
 2. Select New.
 3. Enter the folder name in the input field.
 4. Click OK to confirm.
-
+<p><strong>Adding new a folder</strong></p>
+<img src="images/create-new-folder.png" alt="Create a new folder" title="Create a new folder" style="width:auto; height:auto; max-width:70%;">
+<p><strong>Enter folder name</strong></p>
+<img src="images/enter-folder-name.png" alt="Enter folder name" title="Enter folder name" style="width:auto; height:auto; max-width:70%;">
 #### 2.1.2 Renaming a Folder
 You can rename an existing folder using either of the following methods:
 
@@ -127,6 +147,8 @@ You can rename an existing folder using either of the following methods:
 2. Open the Folder menu and choose Rename.
 3. Enter the new folder name in the input field.
 4. Press Enter to confirm.
+<p><strong>Rename a folder</strong></p>
+<img src="images/rename-folder.png" alt="Rename a folder" title="Rename a folder" style="width:auto; height:auto; max-width:70%;">
 
 
 #### 2.1.3 Deleting a Folder
@@ -135,6 +157,8 @@ You can delete a folder using either of the following methods:
 1. Select the folder you want to delete.
 2. Open the Folder menu and choose Delete.
 3. Confirm the action when prompted.
+<p><strong>Delete a folder</strong></p>
+<img src="images/delete-folder.png" alt="Delete a folder" title="Delete a folder" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.1.4 Moving a Folder to another Folder
 In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to a different parent folder:
@@ -142,38 +166,52 @@ In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to 
 2. Drag the folder to the desired parent folder in the folder view.
 3. Release the mouse button to complete the move.
 
+<p>In the demo below, Folder-4 is moved to Folder-3</p>
+<p><strong>Move a folder to another</strong></p>
+<img src="images/move-folder.png" alt="Move a folder to another folder" title="Move a folder to another folder" style="width:auto; height:auto; max-width:70%;">
+
 #### 2.1.5 Sorting Folders
 You can sort folders using either the Folder Menu or the Context Menu.
 1. Open the Folder menu.
-2. Select Sort. Sort again to reverse sorting
+2. Select Sort. 
+<p>Sort again to reverse sorting</p>
+<p><strong>Sort folders</strong></p>
+<img src="images/sort-folders.png" alt="Sort folders" title="Sort folders" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.1.6 Filter Folders
-You can filter folders using either the Folder Menu or the Context Menu.
-1. Open the Folder menu.
-2. Select Filter.
-3. In the Filter dialog, enter the criteria to filter folders.
-4. Click OK to apply the filter.
+In BlueGrid, you can filter folders by typing the filtering text into folder filter field.
+<img src="images/filter-folders.png" alt="Filter folders" title="Filter folders" style="width:auto; height:auto; max-width:70%;">
+
 
 ##### Notes
-Select Sort. Sort again to reverse sorting
+Clear the filter text to show all folders again.
 
 ### 2.2 Pages:
 #### 2.2.1 Open a page
 1. Select the page you want to open.
 2. Double-click the page or right-click to open context menu and choose Open.
+<p><strong>Open a page</strong></p>
+<img src="images/open-page.png" alt="Open a page" title="Open a page" style="width:auto; height:auto; max-width:70%;">
+##### Notes
+By default, BlueGrid opens the latest version of a page. If you want to open a specific version, please refer to section 2.2.3 Open Version.
 
 #### 2.2.2 Open with
 BlueGrid allows users to open a page with different applications.
 1. Select the page you want to open with a different application.
-2. Right-click to open context menu and choose Open With.
+2. Right-click to open context menu, hover mouse to Open With. If the application you want to use is listed, click on it to open the page with that application. Otherwise, click Find to navigate the application...
 3. In the Open With dialog, select the desired application from the list or browse to find a specific application.
 4. Click OK to open the page with the selected application.
+##### Notes
+The applications users used to open pages will be saved in the Open With list for future use.
 
 #### 2.2.3 Open version
+<p>In BlueGrid, each page can have multiple versions, each version is a PDF page or image. By default, BlueGrid opens the latest version of a page. However, users can choose to open a specific version of a page by following these steps:</p>
 1. Select the page you want to open a specific version of.
-2. Right-click to open context menu and choose Open Version.
+2. Use the Page Menu or Right-click to open context menu and choose Open Version.
 3. In the Open Version dialog, select the desired version from the list.
 4. Click OK to open the selected version of the page.
+<p><strong>Open version</strong></p>
+<img src="images/open-version.png" alt="Open version" title="Open version" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.4 Add PDF pages to a folder
 BlueGrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu or drag-and-drop feature.
