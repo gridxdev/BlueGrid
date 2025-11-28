@@ -115,8 +115,13 @@ Follow these steps to create a new project in BlueGrid:
 ### 1.2 Opening a Project
 You can open an existing project using one of the following methods:
 
-- Click **Open** and browse to your project file.
+- Click **Open** and browse to your project file and then click Open in the file dialog.
+<p><strong>Open an existing project</strong></p>
+<img src="images/open-browse.png" alt="Open an existing project" title="Open an existing project" style="width:auto; height:auto; max-width:50%;">
+
 - Double-click on the project from the **Recent Projects** list.
+<p><strong>Open a recent project</strong></p>
+<img src="images/open-recent.png" alt="Open a recent project" title="Open a recent project" style="width:auto; height:auto; max-width:50%;">    
 
 ---
 
