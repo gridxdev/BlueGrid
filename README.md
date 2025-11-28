@@ -205,10 +205,13 @@ BlueGrid allows users to open a page with different applications.
 The applications users used to open pages will be saved in the Open With list for future use.
 
 #### 2.2.3 Open version
+<p>In BlueGrid, each page can have multiple versions, each version is a PDF page or image. By default, BlueGrid opens the latest version of a page. However, users can choose to open a specific version of a page by following these steps:</p>
 1. Select the page you want to open a specific version of.
-2. Right-click to open context menu and choose Open Version.
+2. Use the Page Menu or Right-click to open context menu and choose Open Version.
 3. In the Open Version dialog, select the desired version from the list.
 4. Click OK to open the selected version of the page.
+<p><strong>Open version</strong></p>
+<img src="images/open-version.png" alt="Open version" title="Open version" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.4 Add PDF pages to a folder
 BlueGrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu or drag-and-drop feature.
