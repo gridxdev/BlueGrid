@@ -174,6 +174,8 @@ In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to 
 You can sort folders using either the Folder Menu or the Context Menu.
 1. Open the Folder menu.
 2. Select Sort. Sort again to reverse sorting
+<p><strong>Sort folders</strong></p>
+<img src="images/sort-folders.png" alt="Sort folders" title="Sort folders" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.1.6 Filter Folders
 You can filter folders using either the Folder Menu or the Context Menu.
