@@ -147,6 +147,8 @@ You can rename an existing folder using either of the following methods:
 2. Open the Folder menu and choose Rename.
 3. Enter the new folder name in the input field.
 4. Press Enter to confirm.
+<p><strong>Rename a folder</strong></p>
+<img src="images/rename-folder.png" alt="Rename a folder" title="Rename a folder" style="width:auto; height:auto; max-width:70%;">
 
 
 #### 2.1.3 Deleting a Folder
@@ -155,12 +157,18 @@ You can delete a folder using either of the following methods:
 1. Select the folder you want to delete.
 2. Open the Folder menu and choose Delete.
 3. Confirm the action when prompted.
+<p><strong>Delete a folder</strong></p>
+<img src="images/delete-folder.png" alt="Delete a folder" title="Delete a folder" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.1.4 Moving a Folder to another Folder
 In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to a different parent folder:
 1. Select and hold the folder you want to move.
 2. Drag the folder to the desired parent folder in the folder view.
 3. Release the mouse button to complete the move.
+
+<p>In the demo below, Folder-4 is moved to Folder-3</p>
+<p><strong>Move a folder to another</strong></p>
+<img src="images/move-folder.png" alt="Move a folder to another folder" title="Move a folder to another folder" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.1.5 Sorting Folders
 You can sort folders using either the Folder Menu or the Context Menu.
