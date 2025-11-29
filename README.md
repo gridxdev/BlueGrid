@@ -328,6 +328,9 @@ In BlueGrid, you can sort pages either by index or by name.
 3. Choose Batch Rename.
 4. In the Batch Rename dialog, enter the new naming pattern.
 5. Click OK to apply the new names to the selected pages.
+<p><strong>Batch rename pages</strong></p>
+<img src="images/batch-rename-pages.png" alt="Batch rename pages" title="Batch rename pages" style="width:auto; height:auto; max-width:70%;">   
+
 
 #### 2.2.16 Batch set unit
 To set the unit for multiple pages at once:
