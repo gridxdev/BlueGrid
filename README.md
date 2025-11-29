@@ -273,26 +273,35 @@ In BlueGrid, you can add multiple versions to a page. Each version is a separate
 3. Choose Rotate.
 4. Select the desired rotation angle (90 degrees clockwise, 90 degrees counterclockwise, or 180 degrees).
 5. The selected page(s) will be rotated accordingly.
+<p><strong>Rotate a page</strong></p>
+<img src="images/rotate-pages.png" alt="Rotate a page" title="Rotate a page" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.9 Export pages
+In BlueGrid, you can export one or more pages as PDF files, the exported pages will contain all user-added shapes, markups, text, annotation... To export pages, follow these steps:
 1. Select the page or pages you want to export.
 2. Open the Page menu or right-click to open context menu
 3. Choose Export PDFs.
 4. In the file selection dialog, choose the destination folder for the exported PDF files.
 5. Click OK to begin the export process.
+<p><strong>Export pages</strong></p>
+<img src="images/export-pages.png" alt="Export pages" title="Export pages" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.10 Delete pages
 1. Select the pages you want to delete.
 2. Open the Page menu or right-click to open context menu
 3. Choose Delete.
 4. Confirm the action when prompted.
+<p><strong>Delete pages</strong></p>
+<img src="images/delete-pages.png" alt="Delete pages" title="Delete pages" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.11 Delete versions
-In BlueGrid, by doing delete version, you can remove the last version of a page while keeping the main page intact.
+In BlueGrid, by doing delete version, you can remove the last PDF version of a page while keeping the main page intact.
 1. Select the page whose version you want to delete.
 2. Open the Page menu or right-click to open context menu    
 3. Choose Delete Version
-4. Confirm the action when prompted.
+<p><strong>Delete page version</strong></p>
+<img src="images/delete-version.png" alt="Delete page version" title="Delete page version" style="width:auto; height:auto; max-width:70%;">>
+
 
 #### 2.2.12 Change thumbnail size
 1. Open the Page menu or right-click to open context menu
