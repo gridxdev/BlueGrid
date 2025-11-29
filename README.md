@@ -229,13 +229,19 @@ Method 2: Using Drag and Drop
 2. Drag one or more PDF files from your file system.
 3. Drop them into the Page View area.
 4. Confirm splitting PDF files in to pages or keep as is.
+<p><strong>Drop files to add PDFs to a folder</strong></p>
+<img src="images/drag-drop-pdf.png" alt="Drag and Drop PDF pages to a folder" title="Drag and Drop PDF pages to a folder" style="width:auto; height:auto; max-width:70%;">
+<p><strong>Confirm splitting PDFs</strong></p>
+<img src="images/confirm-split-pdf.png" alt="Confirm splitting PDF files into pages" title="Confirm splitting PDF files into pages" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.5 Replace page
 1. Select the page you want to replace.
 2. Open the Page menu or right-click to open context menu
-3. Choose Replace Page.
+3. Choose Replace.
 4. In the file selection dialog, choose the new PDF file to replace the existing page.
+5. Select the page of the new PDF file if it contains multiple pages.
 5. Click OK to confirm the replacement.
+
 #### 2.2.6 Duplicate a page
 1. Select the page you want to duplicate.
 2. Open the Page menu or right-click to open context menu
