@@ -251,13 +251,21 @@ Method 2: Using Drag and Drop
 2. Open the Page menu or right-click to open context menu
 3. Choose Duplicate. 
 4. A copy of the selected page will be created in the same folder.
+<p><strong>Duplicate a page</strong></p>
+<img src="images/duplicate-page.png" alt="Duplicate a page" title="Duplicate a page" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.7 Add versions to a page
+In BlueGrid, you can add multiple versions to a page. Each version is a separate PDF page or image associated with the main page. To add a new version to an existing page, follow these steps:
 1. Select the page you want to add a version to.
 2. Open the Page menu or right-click to open context menu
 3. Choose Add Version.
 4. In the file selection dialog, choose the new PDF file to add as a version.
 5. Click OK to confirm the addition of the new version.
+
+<p><strong>Add version to a page</strong></p>
+<img src="images/add-version.png" alt="Add version to a page" title="Add version to a page" style="width:auto; height:auto; max-width:70%;">
+<p><strong>Select the page as the new  version</strong></p>
+<img src="images/select-version-page.png" alt="Select the page as the new version" title="Select the page as the new version" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.8 Rotate pages
 1. Select the page or pages you want to rotate.
