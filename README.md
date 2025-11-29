@@ -241,6 +241,10 @@ Method 2: Using Drag and Drop
 4. In the file selection dialog, choose the new PDF file to replace the existing page.
 5. Select the page of the new PDF file if it contains multiple pages.
 5. Click OK to confirm the replacement.
+<p><strong>Replace a page</strong></p>
+<img src="images/replace-page.png" alt="Replace a page" title="Replace a page" style="width:auto; height:auto; max-width:70%;">
+<p><strong>Select page to replace with</strong></p>
+<img src="images/select-replace-page.png" alt="Select page to replace with" title="Select page to replace with" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.6 Duplicate a page
 1. Select the page you want to duplicate.
