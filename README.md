@@ -330,11 +330,15 @@ In BlueGrid, you can sort pages either by index or by name.
 5. Click OK to apply the new names to the selected pages.
 
 #### 2.2.16 Batch set unit
+To set the unit for multiple pages at once:
 1. Select the pages you want to batch set unit.
 2. Open the Page menu or right-click to open context menu
 3. Choose Batch Set Unit.
 4. In the Batch Set Unit dialog, select the desired unit from the list.
 5. Click OK to apply the selected unit to the chosen pages.
+<p><strong>Set unit to multiple pages</strong></p>
+<img src="images/batch-set-unit.png" alt="Set unit to multiple pages" title="Set unit to multiple pages" style="width:auto; height:auto; max-width:70%;">
+
 
 #### 2.2.17 Re-index pages
 1. Select the pages you want to re-index.
