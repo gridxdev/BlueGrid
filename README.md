@@ -305,13 +305,18 @@ In BlueGrid, by doing delete version, you can remove the last PDF version of a p
 
 #### 2.2.12 Change thumbnail size
 1. Open the Page menu or right-click to open context menu
-2. Choose View.
+2. Hover mouse to View
 3. Select the desired thumbnail size from the available options (Small, Medium, Large).
+<p><strong>Change thumbnail size</strong></p>
+<img src="images/change-thumbnail-size.png" alt="Change thumbnail size" title="Change thumbnail size" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.13 Sort pages
 In BlueGrid, you can sort pages either by index or by name.
 1. Open the Page menu or right-click to open context menu
 2. Choose Sort, then select either By Index or By Name. Sort again to reverse sorting.
+<p><strong>Sort pages</strong></p>
+<img src="images/sort-pages.png" alt="Sort pages" title="Sort pages" style="width:auto; height:auto; max-width:70%;">
+
 
 #### 2.2.14 Select all pages
 1. Open the Page menu or right-click to open context menu
