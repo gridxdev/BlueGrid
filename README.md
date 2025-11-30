@@ -362,8 +362,8 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 3. Choose Properties.
 4. In the Properties dialog, enter the new page name in the appropriate field.
 5. Click Apply to confirm the change.
-<p><strong>Set page name</strong></p>
-<img src="images/set-page-name.png" alt="Set page name" title="Set page name" style="width:auto; height:auto; max-width:70%;">  
+<p><strong>Change page name</strong></p>
+<img src="images/edit-page-name.png" alt="Set page name" title="Set page name" style="width:auto; height:auto; max-width:70%;">  
 
 ##### 2.2.19.2 Set page scale
 1. Select the page you want to edit properties for.
@@ -371,8 +371,8 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 3. Choose Properties.
 4. In the Properties dialog, enter the new scale value in the appropriate field.
 5. Click Apply to confirm the change.
-<p><strong>Set page scale</strong></p>  
-<img src="images/set-page-scale.png" alt="Set page scale" title="Set page scale" style="width:auto; height:auto; max-width:70%;">
+<p><strong>Change page scale</strong></p>  
+<img src="images/edit-page-scale.png" alt="Set page scale" title="Set page scale" style="width:auto; height:auto; max-width:70%;">
 
 ##### 2.2.19.3 Set page unit
 1. Select the page you want to edit properties for.
@@ -380,8 +380,8 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 3. Choose Properties.
 4. In the Properties dialog, select the desired unit from the dropdown menu.
 5. Click OK to confirm the change.
-<p><strong>Set page unit</strong></p>
-<img src="images/set-page-unit.png" alt="Set page unit" title="Set page unit" style="width:auto; height:auto; max-width:70%;">
+<p><strong>Change page unit</strong></p>
+<img src="images/edit-page-unit.png" alt="Set page unit" title="Set page unit" style="width:auto; height:auto; max-width:70%;">
 
 
 
