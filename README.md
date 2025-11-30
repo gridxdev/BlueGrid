@@ -385,4 +385,24 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 
 
 
+## 3. Draw / Takeoff
+### 3.1 Set page scale with scale tool
+In BlueGrid, setting the correct scale for your drawing is crucial for accurate measurements and takeoffs. The Scale Tool allows you to define the scale of your drawing by specifying a known distance on the page. To set the page scale using the Scale Tool, follow these steps:
+1. In  the  Draw view select the Scale Tool from the toolbar.
+2. Click on the starting point of the known distance on the drawing.
+3. Move the cursor to the endpoint of the known distance and click again.
+4. In the Scale dialog, enter the actual distance that corresponds to the drawn distance.
+5. Click OK to apply the scale to the page.
+<p><strong>Set page scale with Scale Tool</strong></p>
+<img src="images/scale-tool.png" alt="Set page scale with Scale Tool" title="Set page scale with Scale Tool" style="width:auto; height:auto; max-width:70%;">
+
+### 3.2 Measure distances with dim tool
+The Dim Tool in BlueGrid allows you to measure distances directly on your drawing. This tool is useful for verifying dimensions and ensuring accuracy in your takeoffs. To have correct distance measurement, page scale should be set in advance.
+To measure distances using the Dim Tool, follow these steps:
+1. In the Draw view, select the Dim Tool from the toolbar.
+2. Click on the starting point of the distance you want to measure.
+3. Move the cursor to the endpoint of the distance and click again.
+4. The measured distance will be displayed on the drawing.
+<p><strong>Measure distances with Dim Tool</strong></p>
+<img src="images/dim-tool.png" alt="Measure distances with Dim Tool" title="Measure distances with Dim Tool" style="width:auto; height:auto; max-width:70%;">   
 
