@@ -392,7 +392,7 @@ In BlueGrid, setting the correct scale for your drawing is crucial for accurate 
 2. Click on the starting point of the known distance on the drawing.
 3. Move the cursor to the endpoint of the known distance and click again.
 4. In the Scale dialog, enter the actual distance that corresponds to the drawn distance.
-5. Click OK to apply the scale to the page.
+5. Click Apply to apply the scale to the page.
 <p><strong>Set page scale with Scale Tool</strong></p>
 <img src="images/scale-tool.png" alt="Set page scale with Scale Tool" title="Set page scale with Scale Tool" style="width:auto; height:auto; max-width:70%;">
 
@@ -406,3 +406,5 @@ To measure distances using the Dim Tool, follow these steps:
 <p><strong>Measure distances with Dim Tool</strong></p>
 <img src="images/dim-tool.png" alt="Measure distances with Dim Tool" title="Measure distances with Dim Tool" style="width:auto; height:auto; max-width:70%;">   
 
+### 3.3 Shape tools
+BlueGrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
