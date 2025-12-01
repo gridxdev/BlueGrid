@@ -408,3 +408,25 @@ To measure distances using the Dim Tool, follow these steps:
 
 ### 3.3 Shape tools
 BlueGrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
+<p>Shape tool</p>
+<img src="images/shape-tool.png" alt="Shape tools" title="Shape tools" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.3.1 Rectangle
+The Rectangle Tool allows you to create rectangular shapes on your drawing. To use the Rectangle Tool, follow these steps:
+1. In the Draw view, select the Rectangle Tool from the toolbar.
+2. Click the left mouse button at the starting point of the rectangle.
+3. Move the mouse to define the size of the rectangle.
+4. Click the left mouse button again to complete the rectangle.
+<p><strong>Create rectangle shape</strong></p>
+<img src="images/rectangle-tool.png" alt="Create rectangle shape" title="Create rectangle shape" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.3.2 Polyline
+The Polyline Tool allows you to create a series of connected line segments. A polyline is usually used to take-off linear items. To use the Polyline Tool, follow these steps:
+1. In the Draw view, select the Polyline Tool from the toolbar.
+2. Click the left mouse button at the starting point of the polyline.
+3. Move the mouse to the next point and click again to create a line segment.
+4. Repeat step 3 to add more segments.
+5. Right-click to complete the polyline.
+
+<p><strong>Create polyline shape</strong></p>
+<img src="images/polyline-tool.png" alt="Create polyline shape" title="Create polyline shape" style="width:auto; height:auto; max-width:70%;">
