@@ -429,4 +429,4 @@ The Polyline Tool allows you to create a series of connected line segments. A po
 5. Right-click to complete the polyline.
 
 <p><strong>Create polyline shape</strong></p>
-<img src="images/polyline-tool.png" alt="Create polyline shape" title="Create polyline shape" style="width:auto; height:auto; max-width:70%;">
+<img src="images/polyline-shape.png" alt="Create polyline shape" title="Create polyline shape" style="width:auto; height:auto; max-width:70%;">
