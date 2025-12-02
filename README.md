@@ -533,6 +533,9 @@ The Cloud Tool allows you to draw cloud-shaped annotations around areas of inter
 3. Move the mouse to create the cloud shape.
 4. Release the mouse button to complete the cloud annotation.
 
+<p><strong>Cloud tool</strong></p>
+<img src="images/cloud-tool.png" alt="Add cloud annotation" title="Add cloud annotation" style="width:auto; height:auto; max-width:70%;">
+
 #### 3.5.4 Multiple point cloud tool
 The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by specifying multiple points on your drawing. To use the Multiple Point Cloud Tool, follow these steps:
 1. In the Draw view, select the Multiple Point Cloud Tool from the toolbar.
@@ -540,10 +543,6 @@ The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by spe
 3. Right-click to complete the cloud annotation.
 <p><strong>Multiple point cloud</strong></p>
 <img src="images/multiple-point-cloud.png" alt="Add multiple point cloud annotation" title="Add multiple point cloud annotation" style="width:auto; height:auto; max-width:70%;">
-
-
-<p><strong>Add cloud annotation</strong></p>
-<img src="images/cloud-tool.png" alt="Add cloud annotation" title="Add cloud annotation" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.5.4 Arrow tool
 The Arrow Tool allows you to draw arrows on your drawing to point out specific areas or items. To use the Arrow Tool, follow these steps:
@@ -553,14 +552,6 @@ The Arrow Tool allows you to draw arrows on your drawing to point out specific a
 <p><strong>Add arrow annotation</strong></p>
 <img src="images/arrow-tool.png" alt="Add arrow annotation" title="Add arrow annotation" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.5.5 Cloud tool
-The Cloud Tool allows you to draw cloud-shaped annotations around areas of interest on your drawing. To use the Cloud Tool, follow these steps:
-1. In the Draw view, select the Cloud Tool from the toolbar.
-2. Click and hold the left mouse button to start drawing the cloud shape.
-3. Move the mouse to create the cloud shape.
-4. Release the mouse button to complete the cloud annotation.
-<p><strong>Cloud annotation</strong></p>
-<img src="images/cloud-tool.png" alt="Add cloud annotation" title="Add cloud annotation" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.5.6 Callout tool
 The Callout Tool allows you to create callouts to highlight specific areas on your drawing. There are three types of callouts available: Linear Callout, Quadratic Callout, and Cubic Callout. To use the Callout Tool, follow these steps:
