@@ -50,42 +50,52 @@
     - [3.4.3 Polygon](#334-polygon)
     - [3.4.4 Path](#335-path)
     - [3.4.5 Others](#336-other-shape-tools)
-    - [3.4.6 Snap settings](#311-snap-settings)
-    - [3.5 Count tools](#32-count-tools)
-    - [3.6 Materials](#31-Material-table)
-    - [5.5.1 Adding a new material](#351-adding-a-new-material)
-    - [3.5.2 Editing a material](#352-editing-a-material)
-    - [3.5.4 Importing materials](#354-importing-materials)
-    - [3.5.6 Pull materials from catalog](#356-pull-materials-from-catalog)
-    - [3.5.3 Deleting a material](#353-deleting-a-material)
-    - [3.5.5 Exporting materials-to-csv](#355-exporting-materials-to-csv)
-    - [3.5.6 Exporting materials-to-excel](#357-exporting-materials-to-excel)
-    - [3.5.7 Dematerialize materials](#358-dematerialize-materials)
-    - [3.5.8 List valued items](#359-list-valued-items)
-    - [3.5.9 List all items](#3510-list-all-items)
-    - [3.5.10 Select tagged shapes](#3511-select-tagged-shapes)
-    - [3.5.11 Filter materials](#3511-filter-materials)
-    - [3.5.12 Sort materials](#3512-sort-materials)
-    - [3.6 Assign material to shapes to estimate quantities](#36-assign-material-to-shapes-to-estimate-quantities)
-    - [3.7 Annotation tools](#337-Annotation-tools)
-    - [3.8 Stamps](#38-stamps)
-    - [3.9 Image tools](#39-adding-images)
-    - [3.10 Drawboard menu/functions](#310-drawboard-menu-functions)
-    - [3.10.1 Undo/Redo](#3101-undoredo)
-    - [3.10.2 Copy](#3102-copycopy)
-    - [3.10.3 Copy displace](#3103-copy-displace)
-    - [3.10.4 Flip shapes](#3104-Flip-shapes)
-    - [3.10.5 Flip horizontal](#3105-Flip-horizontal)
-    - [3.10.6 Build path](#3106-Build-path)
-    - [3.10.7 Add to symbol library](#3107-Add-to-symbol-library)
-    - [3.10.8 Move shapes upward](#3108-Move-shapes-upward)
-    - [3.10.9 Move shapes downward](#3109-Move-shapes-downward)
-    - [3.10.10 Move shapes to top](#3110-Move-shapes-to-top)
-    - [3.10.11 Move shapes to bottom](#3111-Move-shapes-to-bottom)
-    - [3.10.12 Dematerialize shapes](#3112-Dematerialize-shapes)
-    - [3.10.13 Select shapes](#3113-Select-shapes)
-    - [3.10.14 Deselect shapes](#3114-Deselect-shapes)
-    - [3.10.15 Delete shapes](#3115-Delete-shapes)
+    - [3.5 Annotation tools](#37-Annotation-tools)
+    - [3.5.1 Text tool](#371-Text-tool)
+    - [3.5.2 Textbox tool](#372-Textbox-tool)
+    - [3.5.3 Cloud tool](#373-Cloud-tool)
+    - [3.5.4 Arrow tool](#374-Arrow-tool)
+    - [3.5.5 Callout tool](#375-Highlight-tool)
+    - [3.5.5.1 Linear callout](#3751-Linear-callout)
+    - [3.5.5.2 Quadratic callout](#3752-Quadratic-callout)
+    - [3.5.5.3 Cubic callout](#3753-Cubic-callout)
+   - [3.6 Stamps](#38-stamps)
+   - [3.4.6 Snap settings](#311-snap-settings)
+   - [3.5 Count tools](#32-count-tools)
+   - [3.6 Materials](#31-Material-table)
+   - [5.5.1 Adding a new material](#351-adding-a-new-material)
+   - [3.5.2 Editing a material](#352-editing-a-material)
+   - [3.5.4 Importing materials](#354-importing-materials)
+   - [3.5.6 Pull materials from catalog](#356-pull-materials-from-catalog)
+   - [3.5.3 Deleting a material](#353-deleting-a-material)
+   - [3.5.5 Exporting materials-to-csv](#355-exporting-materials-to-csv)
+   - [3.5.6 Exporting materials-to-excel](#357-exporting-materials-to-excel)
+   - [3.5.7 Dematerialize materials](#358-dematerialize-materials)
+   - [3.5.8 List valued items](#359-list-valued-items)
+   - [3.5.9 List all items](#3510-list-all-items)
+   - [3.5.10 Select tagged shapes](#3511-select-tagged-shapes)
+   - [3.5.11 Filter materials](#3511-filter-materials)
+   - [3.5.12 Sort materials](#3512-sort-materials)
+   - [3.6 Assign material to shapes to estimate quantities](#36-assign-material-to-shapes-to-estimate-quantities)
+   - [3.7 Annotation tools](#337-Annotation-tools)
+   - [3.8 Stamps](#38-stamps)
+   - [3.9 Image tools](#39-adding-images)
+   - [3.10 Drawboard menu/functions](#310-drawboard-menu-functions)
+   - [3.10.1 Undo/Redo](#3101-undoredo)
+   - [3.10.2 Copy](#3102-copycopy)
+   - [3.10.3 Copy displace](#3103-copy-displace)
+   - [3.10.4 Flip shapes](#3104-Flip-shapes)
+   - [3.10.5 Flip horizontal](#3105-Flip-horizontal)
+   - [3.10.6 Build path](#3106-Build-path)
+   - [3.10.7 Add to symbol library](#3107-Add-to-symbol-library)
+   - [3.10.8 Move shapes upward](#3108-Move-shapes-upward)
+   - [3.10.9 Move shapes downward](#3109-Move-shapes-downward)
+   - [3.10.10 Move shapes to top](#3110-Move-shapes-to-top)
+   - [3.10.11 Move shapes to bottom](#3111-Move-shapes-to-bottom)
+   - [3.10.12 Dematerialize shapes](#3112-Dematerialize-shapes)
+   - [3.10.13 Select shapes](#3113-Select-shapes)
+   - [3.10.14 Deselect shapes](#3114-Deselect-shapes)
+   - [3.10.15 Delete shapes](#3115-Delete-shapes)
 
 4. [Catalogs](#4-catalogs) 
     - [4.1 Overview about catalogs](#41-overview-about-catalogs)
@@ -494,3 +504,24 @@ The Path Tool allows you to create freeform shapes by drawing curves and lines. 
 
 #### 3.4.6 Other shape tools
 In addition to the Rectangle, Line, Polyline, Polygon, and Path tools, BlueGrid also offers other shape tools such as Ellipse, Circle, Arc, and more. These tools can be accessed from the shape tools dropdown menu in the toolbar.
+
+### 3.5 Annotation tools
+BlueGrid provides a variety of annotation tools that allow you to add text, highlights, clouds, arrows, and callouts to your PDF pages. These annotations can be used to provide additional information, highlight important areas, and communicate with team members. Below are the descriptions of each annotation tool and how to use them.
+
+#### 3.5.1 Text tool
+The Text Tool allows you to add plain text annotations to your drawing. To use the Text Tool, follow these steps:
+1. In the Draw view, select the Text Tool from the toolbar.
+2. Click on the drawing area where you want to add the text.
+3. Type the desired text.
+4. Click outside the text to complete the text annotation.
+<p><strong>Add text annotation</strong></p>
+<img src="images/text-tool.png" alt="Add text annotation" title="Add text annotation " style="width:auto; height:auto; max-width:70%;">
+
+#### 3.5.2 Textbox tool
+The Textbox Tool allows you to add text annotations within a defined rectangular area. To use the Textbox Tool, follow these steps:
+1. In the Draw view, select the Textbox Tool from the toolbar.
+2. Click on the drawing area to define the top-left corner of the textbox.
+3. Type the desired text within the textbox.
+4. Click outside the textbox to complete the text annotation.
+<p><strong>Add textbox annotation</strong></p>
+<img src="images/textbox-tool.png" alt="Add textbox annotation" title="Add textbox annotation" style="width:auto; height:auto; max-width:70%;"> 
