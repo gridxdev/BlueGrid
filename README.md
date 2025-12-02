@@ -430,3 +430,14 @@ The Polyline Tool allows you to create a series of connected line segments. A po
 
 <p><strong>Create polyline shape</strong></p>
 <img src="images/polyline-shape.png" alt="Create polyline shape" title="Create polyline shape" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.3.3 Polygon
+The Polygon Tool allows you to create closed shapes with multiple sides. A polygon is usually used to take-off area items. To use the Polygon Tool, follow these steps:
+1. In the Draw view, select the Polygon Tool from the toolbar.
+2. Click the left mouse button at the starting point of the polygon.
+3. Move the mouse to the next vertex and click again to create a side.
+4. Repeat step 3 to add more sides.
+5. Right-click to complete the polygon.
+
+<p><strong>Create polygon shape</strong></p>
+<img src="images/polygon-shape.png" alt="Create polygon shape" title="Create polygon shape" style="width:auto; height:auto; max-width:70%;">
