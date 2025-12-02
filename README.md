@@ -56,11 +56,14 @@
     - [3.5.3 Cloud tool](#373-Cloud-tool)
     - [3.5.4 Arrow tool](#374-Arrow-tool)
     - [3.5.5 Callout tool](#375-Highlight-tool)
-    - [3.5.5.1 Linear callout](#3751-Linear-callout)
-    - [3.5.5.2 Quadratic callout](#3752-Quadratic-callout)
-    - [3.5.5.3 Cubic callout](#3753-Cubic-callout)
+
+[//]: # (    - [3.5.5.1 Linear callout]&#40;#3751-Linear-callout&#41;)
+
+[//]: # (    - [3.5.5.2 Quadratic callout]&#40;#3752-Quadratic-callout&#41;)
+
+[//]: # (    - [3.5.5.3 Cubic callout]&#40;#3753-Cubic-callout&#41;)
    - [3.6 Count tools](#32-count-tools)
-   - [3.7 Stamps](#38-stamps)
+   - [3.7 Stamps](#37-stamps)
    - [3.8 Snap settings](#311-snap-settings)
    - [3.6 Materials](#31-Material-table)
    - [5.5.1 Adding a new material](#351-adding-a-new-material)
