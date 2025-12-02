@@ -567,3 +567,16 @@ The Callout Tool allows you to create callouts to highlight specific areas on yo
 
 <p><strong>Callout annotation</strong></p>
 <img src="images/callout-tool.png" alt="Add callout annotation" title="Add callout annotation" style="width:auto; height:auto; max-width:70%;">
+
+### 3.6 Count tools
+
+### 3.7 Stamps
+
+### 3.8 Point snaps
+In BlueGrid, Point snaps are optional while drawing shapes to have precise points as well as to deliver the best accurate quantity take-offs. To access and modify the Snap Settings, follow these steps:
+1. In the Draw view, locate the Snap Settings icon in the status bar at the bottom of the window.
+2. Click the Snap Settings icon to open the Snap Settings dialog.
+3. In the Snap Settings dialog, you can enable or disable various snap options such as Endpoint, Midpoint, Center, Intersection, Perpendicular,  and Nearest.
+
+<p><strong>Snap settings</strong></p>
+<img src="images/snap-setting.png" alt="Snap settings" title="Snap settings" style="width:auto; height:auto; max-width:70%;">
