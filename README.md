@@ -569,6 +569,13 @@ The Callout Tool allows you to create callouts to highlight specific areas on yo
 <img src="images/callout-tool.png" alt="Add callout annotation" title="Add callout annotation" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.6 Count tools
+The Count Tool in BlueGrid allows you to count and mark items on your drawing. This tool is useful for quantifying items such as fixtures, equipment, or any other countable objects. When count blocks are subscribed to a material, count indices with automatically increase. To use the Count Tool, follow these steps:
+1. In the Draw view, select the Count Tool from the toolbar.
+2. Click on each item you want to count on the drawing.
+3. Each click will place a count marker with an incremented index number if the count block is associated with a material.
+<p><strong>Count tool</strong></p>
+<img src="images/count-tool.png" alt="Count tool" title="Count tool" style="width:auto; height:auto; max-width:70%;">
+
 
 ### 3.7 Stamps
 
