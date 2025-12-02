@@ -441,3 +441,11 @@ The Polygon Tool allows you to create closed shapes with multiple sides. A polyg
 
 <p><strong>Create polygon shape</strong></p>
 <img src="images/polygon-shape.png" alt="Create polygon shape" title="Create polygon shape" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.3.4 Line
+The Line Tool allows you to create straight line segments on your drawing. Line tool is usually used to take-off linear items. To use the Line Tool, follow these steps:
+1. In the Draw view, select the Line Tool from the toolbar.
+2. Click the left mouse button at the starting point of the line.
+3. Move the mouse to the endpoint of the line and click again to complete the line.
+<p><strong>Create line shape</strong></p>
+<img src="images/line-shape.png" alt="Create line shape" title="Create line shape" style="width:auto; height:auto; max-width:70%;">
