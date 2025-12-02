@@ -292,7 +292,7 @@ In BlueGrid, you can export one or more pages as PDF files, the exported pages w
 3. Choose Delete.
 4. Confirm the action when prompted.
 <p><strong>Delete pages</strong></p>
-<img src="images/delete-pages.png" alt="Delete pages" title="Delete pages" style="width:auto; height:auto; max-width:70%;">
+<img src="images/delete-page.png" alt="Delete pages" title="Delete pages" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.11 Delete versions
 In BlueGrid, by doing delete version, you can remove the last PDF version of a page while keeping the main page intact.
@@ -449,3 +449,17 @@ The Line Tool allows you to create straight line segments on your drawing. Line 
 3. Move the mouse to the endpoint of the line and click again to complete the line.
 <p><strong>Create line shape</strong></p>
 <img src="images/line-shape.png" alt="Create line shape" title="Create line shape" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.3.5 Path
+The Path Tool allows you to create freeform shapes by drawing curves and lines. To use the Path Tool, follow these steps:
+1. In the Draw view, select the Path Tool from the toolbar.
+2. Click and hold the left mouse button to start drawing the path.
+3. Move the mouse to create the desired shape. To switch between straight lines and curves, select Path Mode in the status bar.
+4. Repeat step 3 to add more segments.
+5. Right-click to complete the path.
+
+<p><strong>Create path shape</strong></p>
+<img src="images/path-shape.png" alt="Create path shape" title="Create path shape" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.3.6 Other shape tools
+In addition to the Rectangle, Line, Polyline, Polygon, and Path tools, BlueGrid also offers other shape tools such as Ellipse, Circle, Arc, and more. These tools can be accessed from the shape tools dropdown menu in the toolbar.
