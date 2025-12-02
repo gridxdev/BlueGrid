@@ -578,6 +578,12 @@ The Count Tool in BlueGrid allows you to count and mark items on your drawing. T
 
 
 ### 3.7 Stamps
+The Stamp Tool in BlueGrid allows you to add predefined stamp shapes to your drawing. Stamps can be used for various purposes, such as marking areas, indicating status, or adding symbols. To use the Stamp Tool, follow these steps:
+1. In the Draw view, select the Stamp Tool from the toolbar.
+2. Choose the desired stamp from the stamp library.
+3. Click on the drawing area where you want to place the stamp.
+<p><strong>Add stamp to drawing</strong></p>
+<img src="images/stamp-tool.png" alt="Add stamp to drawing" title="Add stamp to drawing" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.8 Point snaps
 In BlueGrid, Point snaps are optional while drawing shapes to have precise points as well as to deliver the best accurate quantity take-offs. To access and modify the Snap Settings, follow these steps:
