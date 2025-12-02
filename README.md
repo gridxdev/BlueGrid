@@ -39,16 +39,20 @@
 3. [Draw / Takeoff](#3-draw--takeoff)
     - [3.1 Scale tool](#31-Set-page-scale-with-scale-tool)
     - [3.2 Dim tool](#32-Measure-distances-with-dim-tool)
-    - [3.3 Shape tools](#31-shape-tools)
-    - [3.3.1 Rectangle](#331-rectangle)
-    - [3.3.2 Line](#332-line)
-    - [3.3.3 Polyline](#333-polyline)
-    - [3.3.3 Polygon](#334-polygon)
-    - [3.3.4 Path](#335-path)
-    - [3.3.5 Others](#336-other-shape-tools)
-    - [3.3.6 Snap settings](#311-snap-settings)
-    - [3.4 Count tools](#32-count-tools)
-    - [3.5 Materials](#31-Material-table)
+    - [3.3 Pan / Select tool](#33-Pan-Select-tool)
+    - [3.3.1 Pan tool](#331-Pan-tool)
+    - [3.3.2 Select tool](#332-Select-tool)
+    - [3.3.3 PDF-Shape select tool](#333-Select-PDF-Shape-tool)
+    - [3.4 Shape tools](#31-shape-tools)
+    - [3.4.1 Rectangle](#331-rectangle)
+    - [3.4.2 Line](#332-line)
+    - [3.4.3 Polyline](#333-polyline)
+    - [3.4.3 Polygon](#334-polygon)
+    - [3.4.4 Path](#335-path)
+    - [3.4.5 Others](#336-other-shape-tools)
+    - [3.4.6 Snap settings](#311-snap-settings)
+    - [3.5 Count tools](#32-count-tools)
+    - [3.6 Materials](#31-Material-table)
     - [5.5.1 Adding a new material](#351-adding-a-new-material)
     - [3.5.2 Editing a material](#352-editing-a-material)
     - [3.5.4 Importing materials](#354-importing-materials)
@@ -406,12 +410,23 @@ To measure distances using the Dim Tool, follow these steps:
 <p><strong>Measure distances with Dim Tool</strong></p>
 <img src="images/dim-tool.png" alt="Measure distances with Dim Tool" title="Measure distances with Dim Tool" style="width:auto; height:auto; max-width:70%;">   
 
-### 3.3 Shape tools
+### 3.3 Pan / Select tool
+
+#### 3.3.1 Pan tool
+The Pan Tool allows you to navigate around your drawing by clicking and dragging the view. To use the Pan Tool, follow these steps:
+1. In the Draw view, select the Pan Tool from the toolbar.
+2. Click and hold the left mouse button on the drawing area.
+3. Move the mouse to pan around the drawing.
+4. Release the mouse button to stop panning.
+<p><strong>Pan tool</strong></p>
+<img src="images/pan-tool.png" alt="Pan tool" title="Pan tool" style="width:auto; height:auto; max-width:70%;">
+
+### 3.4 Shape tools
 BlueGrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
 <p>Shape tool</p>
 <img src="images/shape-tool.png" alt="Shape tools" title="Shape tools" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.3.1 Rectangle
+#### 3.4.1 Rectangle
 The Rectangle Tool allows you to create rectangular shapes on your drawing. To use the Rectangle Tool, follow these steps:
 1. In the Draw view, select the Rectangle Tool from the toolbar.
 2. Click the left mouse button at the starting point of the rectangle.
@@ -420,7 +435,7 @@ The Rectangle Tool allows you to create rectangular shapes on your drawing. To u
 <p><strong>Create rectangle shape</strong></p>
 <img src="images/rectangle-tool.png" alt="Create rectangle shape" title="Create rectangle shape" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.3.2 Polyline
+#### 3.4.2 Polyline
 The Polyline Tool allows you to create a series of connected line segments. A polyline is usually used to take-off linear items. To use the Polyline Tool, follow these steps:
 1. In the Draw view, select the Polyline Tool from the toolbar.
 2. Click the left mouse button at the starting point of the polyline.
@@ -431,7 +446,7 @@ The Polyline Tool allows you to create a series of connected line segments. A po
 <p><strong>Create polyline shape</strong></p>
 <img src="images/polyline-shape.png" alt="Create polyline shape" title="Create polyline shape" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.3.3 Polygon
+#### 3.4.3 Polygon
 The Polygon Tool allows you to create closed shapes with multiple sides. A polygon is usually used to take-off area items. To use the Polygon Tool, follow these steps:
 1. In the Draw view, select the Polygon Tool from the toolbar.
 2. Click the left mouse button at the starting point of the polygon.
@@ -442,7 +457,7 @@ The Polygon Tool allows you to create closed shapes with multiple sides. A polyg
 <p><strong>Create polygon shape</strong></p>
 <img src="images/polygon-shape.png" alt="Create polygon shape" title="Create polygon shape" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.3.4 Line
+#### 3.4.4 Line
 The Line Tool allows you to create straight line segments on your drawing. Line tool is usually used to take-off linear items. To use the Line Tool, follow these steps:
 1. In the Draw view, select the Line Tool from the toolbar.
 2. Click the left mouse button at the starting point of the line.
@@ -450,7 +465,7 @@ The Line Tool allows you to create straight line segments on your drawing. Line 
 <p><strong>Create line shape</strong></p>
 <img src="images/line-shape.png" alt="Create line shape" title="Create line shape" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.3.5 Path
+#### 3.4.5 Path
 The Path Tool allows you to create freeform shapes by drawing curves and lines. To use the Path Tool, follow these steps:
 1. In the Draw view, select the Path Tool from the toolbar.
 2. Click and hold the left mouse button to start drawing the path.
@@ -461,5 +476,5 @@ The Path Tool allows you to create freeform shapes by drawing curves and lines. 
 <p><strong>Create path shape</strong></p>
 <img src="images/path-shape.png" alt="Create path shape" title="Create path shape" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.3.6 Other shape tools
+#### 3.4.6 Other shape tools
 In addition to the Rectangle, Line, Polyline, Polygon, and Path tools, BlueGrid also offers other shape tools such as Ellipse, Circle, Arc, and more. These tools can be accessed from the shape tools dropdown menu in the toolbar.
