@@ -532,6 +532,16 @@ The Cloud Tool allows you to draw cloud-shaped annotations around areas of inter
 2. Click and hold the left mouse button to start drawing the cloud shape.
 3. Move the mouse to create the cloud shape.
 4. Release the mouse button to complete the cloud annotation.
+
+#### 3.5.4 Multiple point cloud tool
+The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by specifying multiple points on your drawing. To use the Multiple Point Cloud Tool, follow these steps:
+1. In the Draw view, select the Multiple Point Cloud Tool from the toolbar.
+2. Click the left mouse button at each point to define the cloud shape.
+3. Right-click to complete the cloud annotation.
+<p><strong>Multiple point cloud</strong></p>
+<img src="images/multiple-point-cloud.png" alt="Add multiple point cloud annotation" title="Add multiple point cloud annotation" style="width:auto; height:auto; max-width:70%;">
+
+
 <p><strong>Add cloud annotation</strong></p>
 <img src="images/cloud-tool.png" alt="Add cloud annotation" title="Add cloud annotation" style="width:auto; height:auto; max-width:70%;">
 
