@@ -534,3 +534,32 @@ The Cloud Tool allows you to draw cloud-shaped annotations around areas of inter
 4. Release the mouse button to complete the cloud annotation.
 <p><strong>Add cloud annotation</strong></p>
 <img src="images/cloud-tool.png" alt="Add cloud annotation" title="Add cloud annotation" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.5.4 Arrow tool
+The Arrow Tool allows you to draw arrows on your drawing to point out specific areas or items. To use the Arrow Tool, follow these steps:
+1. In the Draw view, select the Arrow Tool from the toolbar.
+2. Click the left mouse button at the starting point of the arrow.
+3. Move the mouse to the endpoint of the arrow and click again to complete the arrow.
+<p><strong>Add arrow annotation</strong></p>
+<img src="images/arrow-tool.png" alt="Add arrow annotation" title="Add arrow annotation" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.5.5 Cloud tool
+The Cloud Tool allows you to draw cloud-shaped annotations around areas of interest on your drawing. To use the Cloud Tool, follow these steps:
+1. In the Draw view, select the Cloud Tool from the toolbar.
+2. Click and hold the left mouse button to start drawing the cloud shape.
+3. Move the mouse to create the cloud shape.
+4. Release the mouse button to complete the cloud annotation.
+<p><strong>Cloud annotation</strong></p>
+<img src="images/cloud-tool.png" alt="Add cloud annotation" title="Add cloud annotation" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.5.6 Callout tool
+The Callout Tool allows you to create callouts to highlight specific areas on your drawing. There are three types of callouts available: Linear Callout, Quadratic Callout, and Cubic Callout. To use the Callout Tool, follow these steps:
+1. In the Draw view, select the Callout Tool from the toolbar.
+2. Choose the desired callout type from the dropdown menu.
+3. Click the left mouse button at the starting point of the callout.
+4. Move the mouse to define the callout shape and click again to set control points as needed.
+5. Type the desired text for the callout.
+6. Click outside the callout to complete the annotation.
+
+<p><strong>Callout annotation</strong></p>
+<img src="images/callout-tool.png" alt="Add callout annotation" title="Add callout annotation" style="width:auto; height:auto; max-width:70%;">
