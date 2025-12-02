@@ -525,3 +525,12 @@ The Textbox Tool allows you to add text annotations within a defined rectangular
 4. Click outside the textbox to complete the text annotation.
 <p><strong>Add textbox annotation</strong></p>
 <img src="images/textbox-tool.png" alt="Add textbox annotation" title="Add textbox annotation" style="width:auto; height:auto; max-width:70%;"> 
+
+#### 3.5.3 Cloud tool
+The Cloud Tool allows you to draw cloud-shaped annotations around areas of interest on your drawing. To use the Cloud Tool, follow these steps:
+1. In the Draw view, select the Cloud Tool from the toolbar.
+2. Click and hold the left mouse button to start drawing the cloud shape.
+3. Move the mouse to create the cloud shape.
+4. Release the mouse button to complete the cloud annotation.
+<p><strong>Add cloud annotation</strong></p>
+<img src="images/cloud-tool.png" alt="Add cloud annotation" title="Add cloud annotation" style="width:auto; height:auto; max-width:70%;">
