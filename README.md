@@ -421,6 +421,22 @@ The Pan Tool allows you to navigate around your drawing by clicking and dragging
 <p><strong>Pan tool</strong></p>
 <img src="images/pan-tool.png" alt="Pan tool" title="Pan tool" style="width:auto; height:auto; max-width:70%;">
 
+#### 3.3.2 Select tool
+The Select Tool allows you to select shapes and objects on your drawing for editing or manipulation. To use the Select Tool, follow these steps:
+##### 3.3.2.1 Select single shape
+1. In the Draw view, select the Select Tool from the toolbar.
+2. Click on a shape or object to select it. To select multiple shapes, hold down the Control key while clicking on each shape.
+3. Once selected, you can move, resize, or modify the shapes as needed.
+
+##### 3.3.2.2 Select multiple shapes
+1. In the Draw view, select the Select Tool from the toolbar.
+2. Click and hold the left mouse button on an empty area of the drawing.
+3. Drag the mouse to create a selection rectangle that encompasses the shapes you want to select.
+4. Release the mouse button to complete the selection. All shapes within the rectangle will be selected.
+<p><strong>Select multiple shapes with Select tool</strong></p>
+<img src="images/select-tool.png" alt="Select tool" title="Select tool" style="width:auto; height:auto; max-width:70%;">
+
+
 ### 3.4 Shape tools
 BlueGrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
 <p>Shape tool</p>
