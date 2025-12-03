@@ -713,3 +713,39 @@ In BlueGrid, you can select all shapes that are assigned to a specific material.
 4. Select item Select tagged shapes.
 <p><strong>Select shapes by material</strong></p>
 <img src="images/select-shapes-by-material.png" alt="Select shapes by material" title="Select shapes by material" style="width:auto; height:auto; max-width:70%;">
+
+
+## 4. Catalog Manager
+In BlueGrid, a catalog is equivalent to a material library that contains a list of materials organized in a hierarchical tree structure. Catalogs allow you to maintain a consistent set of materials across multiple pages and projects. The Catalog Manager provides tools to create, edit, and manage these catalogs effectively.
+### 4.1 Add a catalog entry
+The Catalog Manager in BlueGrid allows you to create and manage material catalogs for use in the project. Material catalogs help you maintain a consistent list of materials across multiple pages of the project. To create a material catalog, follow these steps:
+
+Catalog view has two main sections, the catalog header list in the left and the catalog tree table view is in the right. Each catalog in the catalog header list associates to a catalog tree.
+
+1. Open the Catalog Manager from the main menu.
+2. In the catalog header list click on the menu the "New" button to create a new material catalog.
+3. Enter a name for the new catalog and Enter.
+
+### 4.2 Build catalog tree
+After creating a new catalog entry, you can build the catalog tree by adding categories and materials.
+
+#### 4.4.1 Add tree root item
+Before adding categories and materials, you need to create a root item for the catalog tree. To add a root item, follow these steps:
+1. Select the catalog you want to add a root item to from the catalog header list.
+2. In the catalog tree view, open catalog menu or right-click to open the context menu.
+3. Choose Add Root Item.
+4. Enter a name for the root item and press Enter to confirm.
+<p><strong>Add catalog tree root item</strong></p>
+<img src="images/add-catalog-root-item.png" alt="Add catalog tree root item" title="Add catalog tree root item" style="width:auto; height:auto; max-width:70%;">
+
+#### 4.2.1 Add category
+
+To add a new category to the catalog tree, follow these steps:
+1. Select the catalog you want to add a category to from the catalog header list.
+2. Select the parent item (root or category) under which you want to add the new category.
+3. In the catalog tree view,  right-click to open the context menu.
+4. Choose Add Group.
+
+5. Enter a name and description for the new Group and press click Add.
+<p><strong>Add catalog group</strong></p>
+<img src="images/add-catalog-group.png" alt="Add catalog group" title="Add catalog group" style="width:auto; height:auto; max-width:70%;">
