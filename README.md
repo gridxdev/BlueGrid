@@ -659,4 +659,18 @@ In BlueGrid, you can export the quantity report of your materials to an Excel fi
 <p><strong>Export quantity report to excel</strong></p>
 <img src="images/export-quantity-report.png" alt="Export quantity report to excel" title="Export quantity report to excel" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.9.7 
+#### 3.9.7 Assign materials to shapes
+In BlueGrid, shapes drawn on your PDF pages can be assigned to specific materials for accurate quantity takeoffs. By assigning a material to a shape, the shape's measurements will contribute to the total quantity of the associated material.
+To assign a material to a shape on your drawing, follow these steps:
+
+1. Open the Materials panel.
+2. Move mouse to the desired material in the Materials table.
+3. Click and hold the left mouse button on the material.
+4. Drag the material onto the shape you want to assign it to.
+5. Release the mouse button to complete the assignment.
+
+##### Notes
+Besides drag-and-drop method, you can also assign a material to a shape by selecting the material before drawing the shape. The selected material will be automatically assigned to the shape once it is created.
+
+<p><strong>Assign material to shape</strong></p>
+<img src="images/assign-material.png" alt="Assign material to shape" title="Assign material to shape" style="width:auto; height:auto; max-width:70%;">
