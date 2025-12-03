@@ -586,7 +586,9 @@ In BlueGrid, Point snaps are optional while drawing shapes to have precise point
 <img src="images/snap-setting.png" alt="Snap settings" title="Snap settings" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.9 Materials
-BlueGrid's Materials feature allows you to manage and organize the materials used in your takeoff projects. Materials can be created, edited, imported, exported, and assigned to shapes in your drawings. The quantity of each material is calculated based on the shapes it is assigned to. This section provides an overview of the various functionalities related to materials in BlueGrid.
+
+Materials feature allows you to manage and organize the materials used in a page. Materials can be created, edited, imported, exported, and assigned to shapes in your drawings. The quantity of each material is calculated based on the shapes it is assigned to. This section provides an overview of the various functionalities related to materials in BlueGrid.
+Material table is at page level, meaning each page has its own material list. Materials created in one page will not be available in other pages unless you pull or import them. To have consistent material list across multiple pages, you can create a material catalog and pull materials from the catalog into each page as needed.
 
 #### 3.9.1 Add a new material
 To add a new material to your project, follow these steps:
