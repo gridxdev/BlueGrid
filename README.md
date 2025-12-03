@@ -598,6 +598,16 @@ To add a new material to your project, follow these steps:
 <p><strong>Add a new material</strong></p>
 <img src="images/add-material.png" alt="Add a new material" title="Add a new material" style="width:auto; height:auto; max-width:70%;">
 
+#### 3.9.2 Delete materials
+To delete an existing material from your current page, follow these steps:
+1. Open the Materials panel.
+2. Select the material you want to delete from the Materials table.
+3. Open the Material Menu or right-click to open context menu.
+4. Select Delete Material.
+<p><strong>Delete material</strong></p>
+<img src="images/delete-materials.png" alt="Delete material" title="Delete material" style="width:auto; height:auto; max-width:70%;">>
+
+
 #### 3.9.2 Edit material properties
 To edit the properties of an existing material, follow these steps:
 1. Select the material you want to edit from the Materials table.
@@ -648,3 +658,5 @@ In BlueGrid, you can export the quantity report of your materials to an Excel fi
 5. Click OK to complete the export process.
 <p><strong>Export quantity report to excel</strong></p>
 <img src="images/export-quantity-report.png" alt="Export quantity report to excel" title="Export quantity report to excel" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.7 
