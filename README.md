@@ -68,9 +68,8 @@
    - [3.9.5 Exporting materials-to-csv](#355-exporting-materials-to-csv)
    - [3.9.6 Exporting materials-to-excel](#357-exporting-materials-to-excel)
    - [3.9.7 Dematerialize materials](#358-dematerialize-materials)
-   - [3.9.8 List valued items](#359-list-valued-items)
-   - [3.9.9 List all items](#3510-list-all-items)
-   - [3.9.10 Select tagged shapes](#3511-select-tagged-shapes)
+   - [3.9.8 List material items](#359-list-valued-items)
+   - [3.9.9 Select tagged shapes](#3511-select-tagged-shapes)
    - [3.9.11 Filter materials](#3511-filter-materials)
    - [3.9.12 Sort materials](#3512-sort-materials)
    - [3.9.13 Assign material to shapes to estimate quantities](#36-assign-material-to-shapes-to-estimate-quantities)
@@ -695,3 +694,22 @@ In BlueGrid, you can unsubscribe shapes from any material, effectively removing 
 3. Select Dematerialize menu item.
 <p><strong>Unsubscribe shapes from all materials</strong></p>
 <img src="images/unsubscribe-material.png" alt="Unsubscribe shapes from all materials" title="Unsubscribe shapes from all materials" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.10 List page quantity report
+In BlueGrid, you can view a detailed quantity report for the materials used on the current page on PDF.
+To list the page quantity report, follow these steps:
+1. Open the Materials panel.
+2. Open the Material Menu or right-click to open context menu.
+3. Select List Valued items / List all items.
+4. The quantity list will be added to the drawboard as an annotation and can be exported along with the PDF page.
+<p><strong>List page quantity report</strong></p>
+<img src="images/list-quantity-report.png" alt="List page quantity report" title="List page quantity report" style="width:auto; height:auto; max-width:70%;">
+
+### 3.9.11 Select shapes by material
+In BlueGrid, you can select all shapes that are assigned to a specific material. This feature is useful for quickly identifying and manipulating shapes associated with a particular material. To select shapes by material, follow these steps:
+1. Open the Materials panel.
+2. Select the material whose associated shapes you want to select from the Materials table.
+3. Open the Material Menu or right-click to open context menu.
+4. Select item Select tagged shapes.
+<p><strong>Select shapes by material</strong></p>
+<img src="images/select-shapes-by-material.png" alt="Select shapes by material" title="Select shapes by material" style="width:auto; height:auto; max-width:70%;">
