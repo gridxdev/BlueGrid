@@ -605,3 +605,46 @@ To edit the properties of an existing material, follow these steps:
 
 <p><strong>Edit material</strong></p>
 <img src="images/edit-material.png" alt="Edit material" title="Edit material" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.3 Pull materials
+To pull materials from another catalog into your current project, follow these steps:
+1. Open the Materials panel.
+2. Open the Material Menu or right-click to open context menu.
+3. Select Pull Materials.
+4. In the Pull Materials dialog, select the catalog from which you want to pull materials.
+5. Choose the materials you want to import and click OK to add them to your project.
+<p><strong>Pull materials</strong></p>
+<img src="images/pull-material.png" alt="Pull materials" title="Pull materials" style="width:auto; height:auto; max-width:70%;">
+
+<p><strong>Select catalog item to pull materials</strong></p>
+<img src="images/select-catalog.png" alt="Select catalog item to pull materials" title="Select catalog item to pull materials" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.4 Export materials 
+In BlueGrid, you can export materials as templates for use in other pages or projects. To export materials, follow these steps:
+1. Open the Materials panel.
+2. Open the Material Menu or right-click to open context menu.
+3. Select Export Materials to CSV.
+4. In the Export Materials dialog, choose the destination folder and file name for the exported materials.
+5. Click OK to complete the export process.
+<p><strong>Export materials</strong></p>
+<img src="images/export-materials.png" alt="Export materials" title="Export materials" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.5 Import materials
+In BlueGrid, you can import materials from CSV files into your current project. To import materials, follow these steps:
+1. Open the Materials panel.
+2. Open the Material Menu or right-click to open context menu.
+3. Select Import Materials from CSV.
+4. In the file selection dialog, choose the CSV file containing the materials you want to import.
+5. Click OK to complete the import process.
+<p><strong>Import materials</strong></p>
+<img src="images/import-materials.png" alt="Import materials" title="Import materials" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.6 Export quantity report to excel
+In BlueGrid, you can export the quantity report of your materials to an Excel file for further analysis and documentation. To export the quantity report, follow these steps:
+1. Open the Materials panel.
+2. Open the Material Menu or right-click to open context menu.
+3. Select Export Quantity Report to Excel.
+4. In the Export Quantity Report dialog, choose the destination folder and file name for the exported report.
+5. Click OK to complete the export process.
+<p><strong>Export quantity report to excel</strong></p>
+<img src="images/export-quantity-report.png" alt="Export quantity report to excel" title="Export quantity report to excel" style="width:auto; height:auto; max-width:70%;">
