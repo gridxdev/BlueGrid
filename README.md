@@ -749,3 +749,14 @@ To add a new category to the catalog tree, follow these steps:
 5. Enter a name and description for the new Group and press click Add.
 <p><strong>Add catalog group</strong></p>
 <img src="images/add-catalog-group.png" alt="Add catalog group" title="Add catalog group" style="width:auto; height:auto; max-width:70%;">
+
+#### 4.2.2 Add material
+To add a new material to the catalog tree, follow these steps:
+1. Select the catalog you want to add a material to from the catalog header list.
+2. Select the parent item (root or category) under which you want to add the new material.
+3. In the catalog tree view, open catalog menu or right-click to open the context menu.
+4. Click Add Material and then a material dialog will pop up.
+5. Type in the material properties and then click Add.
+
+<p><strong>Add catalog material</strong></p>
+<img src="images/add-catalog-material.png" alt="Add catalog material" title="Add catalog material" style="width:auto; height:auto; max-width:70%;">
