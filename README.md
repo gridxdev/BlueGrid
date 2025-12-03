@@ -56,12 +56,6 @@
     - [3.5.3 Cloud tool](#373-Cloud-tool)
     - [3.5.4 Arrow tool](#374-Arrow-tool)
     - [3.5.5 Callout tool](#375-Highlight-tool)
-
-[//]: # (    - [3.5.5.1 Linear callout]&#40;#3751-Linear-callout&#41;)
-
-[//]: # (    - [3.5.5.2 Quadratic callout]&#40;#3752-Quadratic-callout&#41;)
-
-[//]: # (    - [3.5.5.3 Cubic callout]&#40;#3753-Cubic-callout&#41;)
    - [3.6 Count tools](#32-count-tools)
    - [3.7 Stamps](#37-stamps)
    - [3.8 Snap settings](#311-snap-settings)
@@ -590,3 +584,24 @@ In BlueGrid, Point snaps are optional while drawing shapes to have precise point
 
 <p><strong>Snap settings</strong></p>
 <img src="images/snap-setting.png" alt="Snap settings" title="Snap settings" style="width:auto; height:auto; max-width:70%;">
+
+### 3.9 Materials
+BlueGrid's Materials feature allows you to manage and organize the materials used in your takeoff projects. Materials can be created, edited, imported, exported, and assigned to shapes in your drawings. The quantity of each material is calculated based on the shapes it is assigned to. This section provides an overview of the various functionalities related to materials in BlueGrid.
+
+#### 3.9.1 Add a new material
+To add a new material to your project, follow these steps:
+1. Open the Materials panel.
+2. Open the Material Menu or right-click to open context menu.
+3. Hover Add Material and then select the material type you wanted to add Count material, Linear material, Area linear or Volume linear.
+4. Once the material is added, you can edit its properties such as name, type and description in the Properties panel.
+
+<p><strong>Add a new material</strong></p>
+<img src="images/add-material.png" alt="Add a new material" title="Add a new material" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.2 Edit material properties
+To edit the properties of an existing material, follow these steps:
+1. Select the material you want to edit from the Materials table.
+2. In the Properties panel, modify the desired properties such as name, type, description, and type, fill color, stroke color...
+
+<p><strong>Edit material</strong></p>
+<img src="images/edit-material.png" alt="Edit material" title="Edit material" style="width:auto; height:auto; max-width:70%;">
