@@ -676,3 +676,22 @@ Besides drag-and-drop method, you can also assign a material to a shape by selec
 
 <p><strong>Assign material to shape</strong></p>
 <img src="images/assign-material.png" alt="Assign material to shape" title="Assign material to shape" style="width:auto; height:auto; max-width:70%;">
+
+
+#### 3.9.8 Unassign materials from shapes 
+In BlueGrid, you can unassign a material from a shape if you need to change the material assignment or if the shape no longer requires a material association. To unassign a material from a shape, follow these steps:
+1. Select the shape from which you want to unassign the material.
+2. Open the Materials panel.
+3. Open the Material Menu or right-click to open context menu.
+4. Select Dematerialize.
+<p><strong>Unassign material from shape</strong></p>
+
+<img src="images/unassign-material.png" alt="Unassign material from shape" title="Unassign material from shape" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.9  Unsubscribe shapes to no material
+In BlueGrid, you can unsubscribe shapes from any material, effectively removing their association with all materials. This is useful when you want to reset the material assignments for specific shapes. To unsubscribe shapes from all materials, follow these steps:
+1. Select the shapes you want to unsubscribe from materials.
+2. Open draw menu or right-click to open context menu.
+3. Select Dematerialize menu item.
+<p><strong>Unsubscribe shapes from all materials</strong></p>
+<img src="images/unsubscribe-material.png" alt="Unsubscribe shapes from all materials" title="Unsubscribe shapes from all materials" style="width:auto; height:auto; max-width:70%;">
