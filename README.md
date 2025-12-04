@@ -371,6 +371,9 @@ To set the unit for multiple pages at once:
 2. Drag the page to the desired folder in the folder view.
 3. Release the mouse button to complete the move.
 
+<p>Move a page to another folder</p>
+<img src="images/move-page-to-folder.png" alt="Move a page to another folder" title="Move a page to another folder" style="width:auto; height:auto; max-width:70%;">
+
 #### 2.2.19 Edit page properties
 In BlueGrid, each page has properties such as name, scale, and unit that can be modified. To edit the properties of a page.
 
@@ -389,7 +392,7 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 3. Choose Properties.
 4. In the Properties dialog, enter the new scale value in the appropriate field.
 5. Click Apply to confirm the change.
-<p><strong>Change page scale</strong></p>  
+<p>Change page scale</p>  
 <img src="images/edit-page-scale.png" alt="Set page scale" title="Set page scale" style="width:auto; height:auto; max-width:70%;">
 
 ##### 2.2.19.3 Set page unit
@@ -447,7 +450,7 @@ The Select Tool allows you to select shapes and objects on your drawing for edit
 2. Click and hold the left mouse button on an empty area of the drawing.
 3. Drag the mouse to create a selection rectangle that encompasses the shapes you want to select.
 4. Release the mouse button to complete the selection. All shapes within the rectangle will be selected.
-<p><strong>Select multiple shapes with Select tool</strong></p>
+<p>Select multiple shapes with Select tool</p>
 <img src="images/select-tool.png" alt="Select tool" title="Select tool" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -583,7 +586,7 @@ The Stamp Tool in BlueGrid allows you to add predefined stamp shapes to your dra
 1. In the Draw view, select the Stamp Tool from the toolbar.
 2. Choose the desired stamp from the stamp library.
 3. Click on the drawing area where you want to place the stamp.
-<p><strong>Add stamp to drawing</strong></p>
+<p>Add stamp to drawings</p>
 <img src="images/stamp-tool.png" alt="Add stamp to drawing" title="Add stamp to drawing" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.8 Point snaps
@@ -592,7 +595,7 @@ In BlueGrid, Point snaps are optional while drawing shapes to have precise point
 2. Click the Snap Settings icon to open the Snap Settings dialog.
 3. In the Snap Settings dialog, you can enable or disable various snap options such as Endpoint, Midpoint, Center, Intersection, Perpendicular,  and Nearest.
 
-<p><strong>Snap settings</strong></p>
+<p>Snap settings</p>
 <img src="images/snap-setting.png" alt="Snap settings" title="Snap settings" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.9 Materials
@@ -607,7 +610,7 @@ To add a new material to your project, follow these steps:
 3. Hover Add Material and then select the material type you wanted to add Count material, Linear material, Area linear or Volume linear.
 4. Once the material is added, you can edit its properties such as name, type and description in the Properties panel.
 
-<p><strong>Add a new material</strong></p>
+<p>Add a new material</p>
 <img src="images/add-material.png" alt="Add a new material" title="Add a new material" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.9.2 Delete materials
@@ -616,7 +619,7 @@ To delete an existing material from your current page, follow these steps:
 2. Select the material you want to delete from the Materials table.
 3. Open the Material Menu or right-click to open context menu.
 4. Select Delete Material.
-<p><strong>Delete material</strong></p>
+<p>Delete material</p>
 <img src="images/delete-materials.png" alt="Delete material" title="Delete material" style="width:auto; height:auto; max-width:70%;">>
 
 
@@ -625,7 +628,7 @@ To edit the properties of an existing material, follow these steps:
 1. Select the material you want to edit from the Materials table.
 2. In the Properties panel, modify the desired properties such as name, type, description, and type, fill color, stroke color...
 
-<p><strong>Edit material</strong></p>
+<p>Edit material</p>
 <img src="images/edit-material.png" alt="Edit material" title="Edit material" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.9.3 Pull materials
@@ -635,10 +638,10 @@ To pull materials from another catalog into your current project, follow these s
 3. Select Pull Materials.
 4. In the Pull Materials dialog, select the catalog from which you want to pull materials.
 5. Choose the materials you want to import and click OK to add them to your project.
-<p><strong>Pull materials</strong></p>
+<p>Pull materials</p>
 <img src="images/pull-material.png" alt="Pull materials" title="Pull materials" style="width:auto; height:auto; max-width:70%;">
 
-<p><strong>Select catalog item to pull materials</strong></p>
+<p>Select catalog item to pull materials</p>
 <img src="images/select-catalog.png" alt="Select catalog item to pull materials" title="Select catalog item to pull materials" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.9.4 Export materials 
@@ -648,7 +651,7 @@ In BlueGrid, you can export materials as templates for use in other pages or pro
 3. Select Export Materials to CSV.
 4. In the Export Materials dialog, choose the destination folder and file name for the exported materials.
 5. Click OK to complete the export process.
-<p><strong>Export materials</strong></p>
+<p>Export materials</p>
 <img src="images/export-materials.png" alt="Export materials" title="Export materials" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.9.5 Import materials
@@ -658,7 +661,7 @@ In BlueGrid, you can import materials from CSV files into your current project. 
 3. Select Import Materials from CSV.
 4. In the file selection dialog, choose the CSV file containing the materials you want to import.
 5. Click OK to complete the import process.
-<p><strong>Import materials</strong></p>
+<p>Import materials</p>
 <img src="images/import-materials.png" alt="Import materials" title="Import materials" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.9.6 Export quantity report to excel
@@ -668,7 +671,7 @@ In BlueGrid, you can export the quantity report of your materials to an Excel fi
 3. Select Export Quantity Report to Excel.
 4. In the Export Quantity Report dialog, choose the destination folder and file name for the exported report.
 5. Click OK to complete the export process.
-<p><strong>Export quantity report to excel</strong></p>
+<p>Export quantity report to excel</p>
 <img src="images/export-quantity-report.png" alt="Export quantity report to excel" title="Export quantity report to excel" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.9.7 Assign materials to shapes
@@ -684,7 +687,7 @@ To assign a material to a shape on your drawing, follow these steps:
 ##### Notes
 Besides drag-and-drop method, you can also assign a material to a shape by selecting the material before drawing the shape. The selected material will be automatically assigned to the shape once it is created.
 
-<p><strong>Assign material to shape</strong></p>
+<p>Assign material to shape</p>
 <img src="images/assign-material.png" alt="Assign material to shape" title="Assign material to shape" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -694,7 +697,7 @@ In BlueGrid, you can unassign a material from a shape if you need to change the 
 2. Open the Materials panel.
 3. Open the Material Menu or right-click to open context menu.
 4. Select Dematerialize.
-<p><strong>Unassign material from shape</strong></p>
+<p>Unassign material from shape</p>
 
 <img src="images/remove-shapes-from-material.png" alt="Unassign material from shape" title="Unassign material from shape" style="width:auto; height:auto; max-width:70%;">
 
@@ -703,7 +706,7 @@ In BlueGrid, you can unsubscribe shapes from any material, effectively removing 
 1. Select the shapes you want to unsubscribe from materials.
 2. Open draw menu or right-click to open context menu.
 3. Select Dematerialize menu item.
-<p><strong>Unsubscribe shapes from all materials</strong></p>
+<p>Unsubscribe shapes from all materials</p>
 <img src="images/dematerialize-shape.png" alt="Dematerialize shapes" title="Unsubscribe shapes from all materials" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.9.10 List page quantity report
@@ -713,7 +716,7 @@ To list the page quantity report, follow these steps:
 2. Open the Material Menu or right-click to open context menu.
 3. Select List Valued items / List all items.
 4. The quantity list will be added to the drawboard as an annotation and can be exported along with the PDF page.
-<p><strong>List page quantity report</strong></p>
+<p>List page quantity report</p>
 <img src="images/list-quantity-report.png" alt="List page quantity report" title="List page quantity report" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.9.11 Select shapes by material
@@ -722,7 +725,7 @@ In BlueGrid, you can select all shapes that are assigned to a specific material.
 2. Select the material whose associated shapes you want to select from the Materials table.
 3. Open the Material Menu or right-click to open context menu.
 4. Select item Select tagged shapes.
-<p><strong>Select shapes by material</strong></p>
+<p>Select shapes by material</p>
 <img src="images/select-shapes-by-material.png" alt="Select shapes by material" title="Select shapes by material" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -746,7 +749,7 @@ Before adding categories and materials, you need to create a root item for the c
 2. In the catalog tree view, open catalog menu or right-click to open the context menu.
 3. Choose Add Root Item.
 4. Enter a name for the root item and press Enter to confirm.
-<p><strong>Add catalog tree root item</strong></p>
+<p>Add catalog tree root item</p>
 <img src="images/add-catalog-root-item.png" alt="Add catalog tree root item" title="Add catalog tree root item" style="width:auto; height:auto; max-width:70%;">
 
 #### 4.2.1 Add category
@@ -758,7 +761,7 @@ To add a new category to the catalog tree, follow these steps:
 4. Choose Add Group.
 
 5. Enter a name and description for the new Group and press click Add.
-<p><strong>Add catalog group</strong></p>
+<p>Add catalog group</p>
 <img src="images/add-catalog-group.png" alt="Add catalog group" title="Add catalog group" style="width:auto; height:auto; max-width:70%;">
 
 #### 4.2.2 Add material
@@ -769,14 +772,14 @@ To add a new material to the catalog tree, follow these steps:
 4. Click Add Material and then a material dialog will pop up.
 5. Type in the material properties and then click Add.
 
-<p><strong>Add catalog material</strong></p>
+<p>Add catalog material</p>
 <img src="images/add-catalog-material.png" alt="Add catalog material" title="Add catalog material" style="width:auto; height:auto; max-width:70%;">
 
 #### 4.2.3 Edit catalog item
 To edit an existing catalog item (category or material), follow these steps:
 1. Select the catalog item you want to edit from the catalog tree view.
 2. In the Properties panel, modify the desired properties such as name, description, type, fill color, stroke color...
-<p><strong>Edit catalog item</strong></p>
+<p>Edit catalog item</p>
 <img src="images/edit-catalog-item.png" alt="Edit catalog item" title="Edit catalog item" style="width:auto; height:auto; max-width:70%;">
 
 #### 4.2.4 Delete catalog item
@@ -784,5 +787,5 @@ To delete an existing catalog item (category or material), follow these steps:
 1. Select the catalog item you want to delete from the catalog tree view.
 2. Open catalog menu or right-click to open the context menu.
 3. Choose Delete Item.
-<p><strong>Delete catalog item</strong></p>
+<p>Delete catalog item</p>
 <img src="images/delete-catalog-item.png" alt="Delete catalog item" title="Delete catalog item" style="width:auto; height:auto; max-width:70%;">
