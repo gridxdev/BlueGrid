@@ -6,11 +6,11 @@
     - [1.2 Opening a Project](#12-opening-a-project)
 2. [Document Management](#2-document-management)
     - [2.1 Folders](#21-folders)
-        - [2.1.1 Creating a new folder](#211-creating-a-new-folder)
-        - [2.1.2 Renaming a folder](#212-renaming-a-folder)
-        - [2.1.3 Deleting a folder](#213-deleting-a-folder)
-        - [2.1.4 Moving a folder to another Folder](#214-moving-a-folder-to-another-folder)
-        - [2.1.5 Sorting folders](#215-sorting-folders)
+        - [2.1.1 Add a new folder](#211-creating-a-new-folder)
+        - [2.1.2 Rename a folder](#212-renaming-a-folder)
+        - [2.1.3 Delete a folder](#213-deleting-a-folder)
+        - [2.1.4 Move a folder to another Folder](#214-moving-a-folder-to-another-folder)
+        - [2.1.5 Sort folders](#215-sorting-folders)
         - [2.1.6 Filter folders](#216-filter-folders)
     - [2.2 Pages](#22-pages)
         - [2.2.1 Open ](#221-open-a-page)
@@ -760,3 +760,18 @@ To add a new material to the catalog tree, follow these steps:
 
 <p><strong>Add catalog material</strong></p>
 <img src="images/add-catalog-material.png" alt="Add catalog material" title="Add catalog material" style="width:auto; height:auto; max-width:70%;">
+
+#### 4.2.3 Edit catalog item
+To edit an existing catalog item (category or material), follow these steps:
+1. Select the catalog item you want to edit from the catalog tree view.
+2. In the Properties panel, modify the desired properties such as name, description, type, fill color, stroke color...
+<p><strong>Edit catalog item</strong></p>
+<img src="images/edit-catalog-item.png" alt="Edit catalog item" title="Edit catalog item" style="width:auto; height:auto; max-width:70%;">
+
+#### 4.2.4 Delete catalog item
+To delete an existing catalog item (category or material), follow these steps:
+1. Select the catalog item you want to delete from the catalog tree view.
+2. Open catalog menu or right-click to open the context menu.
+3. Choose Delete Item.
+<p><strong>Delete catalog item</strong></p>
+<img src="images/delete-catalog-item.png" alt="Delete catalog item" title="Delete catalog item" style="width:auto; height:auto; max-width:70%;">
