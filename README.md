@@ -113,10 +113,10 @@ Follow these steps to create a new project in BlueGrid:
 6. Click **Save** to create the project.
 
     <p><strong>Create a new project</strong></p>
-    <img src="images/create-project.png" alt="Create a new project" title="Create a new project" style="width:auto; height:auto; max-width:50%;">
+    <img src="images/create-project.png" alt="Create a new project" title="Create a new project" style="width:auto; height:auto; max-width:70%;">
     
     <p><strong>Select project type</strong></p>
-    <img src="images/select-project-type.png" alt="Project Type dialog" title="Select project type" style="width:auto; height:auto; max-width:50%;">
+    <img src="images/select-project-type.png" alt="Project Type dialog" title="Select project type" style="width:auto; height:auto; max-width:70%;">
 
 
 ### 1.2 Opening a Project
@@ -124,11 +124,11 @@ You can open an existing project using one of the following methods:
 
 - Click **Open** and browse to your project file and then click Open in the file dialog.
 <p><strong>Open an existing project</strong></p>
-<img src="images/open-browse.png" alt="Open an existing project" title="Open an existing project" style="width:auto; height:auto; max-width:50%;">
+<img src="images/open-browse.png" alt="Open an existing project" title="Open an existing project" style="width:auto; height:auto; max-width:70%;">
 
 - Double-click on the project from the **Recent Projects** list.
 <p><strong>Open a recent project</strong></p>
-<img src="images/open-recent.png" alt="Open a recent project" title="Open a recent project" style="width:auto; height:auto; max-width:50%;">    
+<img src="images/open-recent.png" alt="Open a recent project" title="Open a recent project" style="width:auto; height:auto; max-width:70%;">    
 
 ---
 
