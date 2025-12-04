@@ -325,7 +325,7 @@ In BlueGrid, by doing delete version, you can remove the last PDF version of a p
 1. Open the Page menu or right-click to open context menu
 2. Hover mouse to View
 3. Select the desired thumbnail size from the available options (Small, Medium, Large).
-<p><strong>Change thumbnail size</strong></p>
+<p>Change thumbnail size</p>
 <img src="images/change-thumbnail-size.png" alt="Change thumbnail size" title="Change thumbnail size" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.13 Sort pages
