@@ -228,12 +228,14 @@ The applications users used to open pages will be saved in the Open With list fo
 
 #### 2.2.4 Add PDF pages to a folder
 BlueGrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu, or context menu or drag-and-drop feature.
+
 Method 1: Using the Page Menu / context menu
 1. Select the folder you want to import PDF pages into.
 2. Open the Page menu.
 3. Click Add PDFs item
 4. In the file selection dialog, choose one or more PDF files to import.
-5. Click OK to begin the import process.
+5. Click Yes or No to either split the files into pages or keep them as they are.
+
 <p><strong>Add PDF pages to a folder</strong></p>
 <img src="images/add-pdf.png" alt="Add PDF pages to a folder" title="Add PDF pages to a folder" style="width:auto; height:auto; max-width:70%;">
 
@@ -241,7 +243,7 @@ Method 2: Using Drag and Drop
 1. Select the folder you want to import PDF pages into.
 2. Drag one or more PDF files from your file system.
 3. Drop them into the Page View area.
-4. Confirm splitting PDF files in to pages or keep as is.
+4. Click Yes or No to either split the files into pages or keep them as they are.
 <p><strong>Drop files to add PDFs to a folder</strong></p>
 <img src="images/drag-drop-pdf.png" alt="Drag and Drop PDF pages to a folder" title="Drag and Drop PDF pages to a folder" style="width:auto; height:auto; max-width:70%;">
 <p><strong>Confirm splitting PDFs</strong></p>
