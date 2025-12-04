@@ -137,21 +137,25 @@ You can open an existing project using one of the following methods:
 ### 2.1 Folders:
 **Using the Folder Menu or Context Menu by right-clicking within the folder view.**
 #### 2.1.1 Creating a New Folder
-In BlueGrid, PDF pages are organized into folders. A folder may contain sub-folders. You can create a new folder using either of the following methods:
+In BlueGrid, PDF pages are organized into folders. A folder may contain sub-folders. You can create a new folder using the following methods:
 
 1. Click the Folder menu or right-click within the folder view to open the context menu.
 2. Select New.
 3. Enter the folder name in the input field.
 4. Click OK to confirm.
+
+##### Notes: In a folder, folder names must be unique.
+
 <p><strong>Adding new a folder</strong></p>
 <img src="images/create-new-folder.png" alt="Create a new folder" title="Create a new folder" style="width:auto; height:auto; max-width:70%;">
 <p><strong>Enter folder name</strong></p>
 <img src="images/enter-folder-name.png" alt="Enter folder name" title="Enter folder name" style="width:auto; height:auto; max-width:70%;">
-#### 2.1.2 Renaming a Folder
+
+#### 2.1.2 Renaming a folder
 You can rename an existing folder using either of the following methods:
 
 1. Select the folder you want to rename.
-2. Open the Folder menu and choose Rename.
+2. Open the Folder menu or right-click to open context menu and choose Rename.
 3. Enter the new folder name in the input field.
 4. Press Enter to confirm.
 <p><strong>Rename a folder</strong></p>
