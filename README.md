@@ -637,7 +637,7 @@ To pull materials from another catalog into your current project, follow these s
 2. Open the Material Menu or right-click to open context menu.
 3. Select Pull Materials.
 4. In the Pull Materials dialog, select the catalog from which you want to pull materials.
-5. Choose the materials you want to import and click OK to add them to your project.
+5. Choose the materials you want to import and click Pull to add them to your project.
 <p>Pull materials</p>
 <img src="images/pull-material.png" alt="Pull materials" title="Pull materials" style="width:auto; height:auto; max-width:70%;">
 
