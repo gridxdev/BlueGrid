@@ -192,8 +192,6 @@ You can sort folders using either the Folder Menu or the Context Menu.
 #### 2.1.6 Filter Folders
 In BlueGrid, you can filter folders by typing the filtering text into folder filter field.
 <img src="images/filter-folders.png" alt="Filter folders" title="Filter folders" style="width:auto; height:auto; max-width:70%;">
-
-
 ##### Notes
 Clear the filter text to show all folders again.
 
@@ -203,7 +201,8 @@ Clear the filter text to show all folders again.
 2. Double-click the page or right-click to open context menu and choose Open.
 <p><strong>Open a page</strong></p>
 <img src="images/open-page.png" alt="Open a page" title="Open a page" style="width:auto; height:auto; max-width:70%;">
-##### Notes
+
+##### Notes:
 By default, BlueGrid opens the latest version of a page. If you want to open a specific version, please refer to section 2.2.3 Open Version.
 
 #### 2.2.2 Open with
@@ -212,15 +211,18 @@ BlueGrid allows users to open a page with different applications.
 2. Right-click to open context menu, hover mouse to Open With. If the application you want to use is listed, click on it to open the page with that application. Otherwise, click Find to navigate the application...
 3. In the Open With dialog, select the desired application from the list or browse to find a specific application.
 4. Click OK to open the page with the selected application.
-##### Notes
+
+##### Notes:
 The applications users used to open pages will be saved in the Open With list for future use.
 
 #### 2.2.3 Open version
 <p>In BlueGrid, each page can have multiple versions, each version is a PDF page or image. By default, BlueGrid opens the latest version of a page. However, users can choose to open a specific version of a page by following these steps:</p>
+
 1. Select the page you want to open a specific version of.
 2. Use the Page Menu or Right-click to open context menu and choose Open Version.
 3. In the Open Version dialog, select the desired version from the list.
 4. Click OK to open the selected version of the page.
+
 <p><strong>Open version</strong></p>
 <img src="images/open-version.png" alt="Open version" title="Open version" style="width:auto; height:auto; max-width:70%;">
 
