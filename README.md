@@ -212,6 +212,9 @@ BlueGrid allows users to open a page with different applications.
 3. In the Open With dialog, select the desired application from the list or browse to find a specific application.
 4. Click OK to open the page with the selected application.
 
+<p><strong>Open with external programs </strong></p>
+<img src="images/open-with.png" alt="Open PDF with external programs"  title="Open with external programs" style="width:auto; height:auto; max-width:70%;" /> 
+
 ##### Notes:
 The applications users used to open pages will be saved in the Open With list for future use.
 
@@ -255,7 +258,7 @@ Method 2: Using Drag and Drop
 3. Choose Replace.
 4. In the file selection dialog, choose the new PDF file to replace the existing page.
 5. Select the page of the new PDF file if it contains multiple pages.
-5. Click OK to confirm the replacement.
+6. Click OK to confirm the replacement.
 <p><strong>Replace a page</strong></p>
 <img src="images/replace-page.png" alt="Replace a page" title="Replace a page" style="width:auto; height:auto; max-width:70%;">
 <p><strong>Select page to replace with</strong></p>
