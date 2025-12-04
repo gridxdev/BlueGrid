@@ -249,7 +249,7 @@ Method 2: Using Drag and Drop
 4. Click Yes or No to either split the files into pages or keep them as they are.
 <p>Drop files to add PDFs to a folder</p>
 <img src="images/drag-drop-pdf.png" alt="Drag and Drop PDF pages to a folder" title="Drag and Drop PDF pages to a folder" style="width:auto; height:auto; max-width:70%;">
-<p><strong>Confirm splitting PDFs</strong></p>
+<p>Confirm splitting PDFs</p>
 <img src="images/confirm-split-pdf.png" alt="Confirm splitting PDF files into pages" title="Confirm splitting PDF files into pages" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.5 Replace page
@@ -259,9 +259,9 @@ Method 2: Using Drag and Drop
 4. In the file selection dialog, choose the new PDF file to replace the existing page.
 5. Select the page of the new PDF file if it contains multiple pages.
 6. Click OK to confirm the replacement.
-<p><strong>Replace a page</strong></p>
+<p>Replace a page</p>
 <img src="images/replace-page.png" alt="Replace a page" title="Replace a page" style="width:auto; height:auto; max-width:70%;">
-<p><strong>Select page to replace with</strong></p>
+<p>Select page to replace with</p>
 <img src="images/select-replace-page.png" alt="Select page to replace with" title="Select page to replace with" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.6 Duplicate a page
@@ -269,7 +269,7 @@ Method 2: Using Drag and Drop
 2. Open the Page menu or right-click to open context menu
 3. Choose Duplicate. 
 4. A copy of the selected page will be created in the same folder.
-<p><strong>Duplicate a page</strong></p>
+<p>Duplicate a page</p>
 <img src="images/duplicate-page.png" alt="Duplicate a page" title="Duplicate a page" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.7 Add versions to a page
@@ -280,9 +280,9 @@ In BlueGrid, you can add multiple versions to a page. Each version is a separate
 4. In the file selection dialog, choose the new PDF file to add as a version.
 5. Click OK to confirm the addition of the new version.
 
-<p><strong>Add version to a page</strong></p>
+<p>Add version to a page</p>
 <img src="images/add-version.png" alt="Add version to a page" title="Add version to a page" style="width:auto; height:auto; max-width:70%;">
-<p><strong>Select the page as the new  version</strong></p>
+<p>Select the page as the new  version</p>
 <img src="images/select-version-page.png" alt="Select the page as the new version" title="Select the page as the new version" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.8 Rotate pages
@@ -291,7 +291,7 @@ In BlueGrid, you can add multiple versions to a page. Each version is a separate
 3. Choose Rotate.
 4. Select the desired rotation angle (90 degrees clockwise, 90 degrees counterclockwise, or 180 degrees).
 5. The selected page(s) will be rotated accordingly.
-<p><strong>Rotate a page</strong></p>
+<p>Rotate a page</p>
 <img src="images/rotate-pages.png" alt="Rotate a page" title="Rotate a page" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.9 Export pages
@@ -301,7 +301,7 @@ In BlueGrid, you can export one or more pages as PDF files, the exported pages w
 3. Choose Export PDFs.
 4. In the file selection dialog, choose the destination folder for the exported PDF files.
 5. Click OK to begin the export process.
-<p><strong>Export pages</strong></p>
+<p>Export pages</p>
 <img src="images/export-pages.png" alt="Export pages" title="Export pages" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.10 Delete pages
@@ -309,7 +309,7 @@ In BlueGrid, you can export one or more pages as PDF files, the exported pages w
 2. Open the Page menu or right-click to open context menu
 3. Choose Delete.
 4. Confirm the action when prompted.
-<p><strong>Delete pages</strong></p>
+<p>Delete pages</p>
 <img src="images/delete-page.png" alt="Delete pages" title="Delete pages" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.11 Delete versions
@@ -317,7 +317,7 @@ In BlueGrid, by doing delete version, you can remove the last PDF version of a p
 1. Select the page whose version you want to delete.
 2. Open the Page menu or right-click to open context menu    
 3. Choose Delete Version
-<p><strong>Delete page version</strong></p>
+<p>Delete page version</p>
 <img src="images/delete-version.png" alt="Delete page version" title="Delete page version" style="width:auto; height:auto; max-width:70%;">>
 
 
@@ -332,7 +332,7 @@ In BlueGrid, by doing delete version, you can remove the last PDF version of a p
 In BlueGrid, you can sort pages either by index or by name.
 1. Open the Page menu or right-click to open context menu
 2. Choose Sort, then select either By Index or By Name. Sort again to reverse sorting.
-<p><strong>Sort pages</strong></p>
+<p>Sort pages</p>
 <img src="images/sort-pages.png" alt="Sort pages" title="Sort pages" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -346,7 +346,7 @@ In BlueGrid, you can sort pages either by index or by name.
 3. Choose Batch Rename.
 4. In the Batch Rename dialog, enter the new naming pattern.
 5. Click OK to apply the new names to the selected pages.
-<p><strong>Batch rename pages</strong></p>
+<p>Batch rename pages</p>
 <img src="images/batch-rename-pages.png" alt="Batch rename pages" title="Batch rename pages" style="width:auto; height:auto; max-width:70%;">   
 
 
@@ -357,7 +357,7 @@ To set the unit for multiple pages at once:
 3. Choose Batch Set Unit.
 4. In the Batch Set Unit dialog, select the desired unit from the list.
 5. Click OK to apply the selected unit to the chosen pages.
-<p><strong>Set unit to multiple pages</strong></p>
+<p>Set unit to multiple pages</p>
 <img src="images/batch-set-unit.png" alt="Set unit to multiple pages" title="Set unit to multiple pages" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -380,7 +380,7 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 3. Choose Properties.
 4. In the Properties dialog, enter the new page name in the appropriate field.
 5. Click Apply to confirm the change.
-<p><strong>Change page name</strong></p>
+<p>Change page name</p>
 <img src="images/edit-page-name.png" alt="Set page name" title="Set page name" style="width:auto; height:auto; max-width:70%;">  
 
 ##### 2.2.19.2 Set page scale
@@ -398,7 +398,7 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 3. Choose Properties.
 4. In the Properties dialog, select the desired unit from the dropdown menu.
 5. Click OK to confirm the change.
-<p><strong>Change page unit</strong></p>
+<p>Change page unit</p>
 <img src="images/edit-page-unit.png" alt="Set page unit" title="Set page unit" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -411,7 +411,7 @@ In BlueGrid, setting the correct scale for your drawing is crucial for accurate 
 3. Move the cursor to the endpoint of the known distance and click again.
 4. In the Scale dialog, enter the actual distance that corresponds to the drawn distance.
 5. Click Apply to apply the scale to the page.
-<p><strong>Set page scale with Scale Tool</strong></p>
+<p>Set page scale with Scale Tool</p>
 <img src="images/scale-tool.png" alt="Set page scale with Scale Tool" title="Set page scale with Scale Tool" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.2 Measure distances with dim tool
@@ -421,7 +421,7 @@ To measure distances using the Dim Tool, follow these steps:
 2. Click on the starting point of the distance you want to measure.
 3. Move the cursor to the endpoint of the distance and click again.
 4. The measured distance will be displayed on the drawing.
-<p><strong>Measure distances with Dim Tool</strong></p>
+<p>Measure distances with Dim Tool</p>
 <img src="images/dim-tool.png" alt="Measure distances with Dim Tool" title="Measure distances with Dim Tool" style="width:auto; height:auto; max-width:70%;">   
 
 ### 3.3 Pan / Select tool
@@ -432,7 +432,7 @@ The Pan Tool allows you to navigate around your drawing by clicking and dragging
 2. Click and hold the left mouse button on the drawing area.
 3. Move the mouse to pan around the drawing.
 4. Release the mouse button to stop panning.
-<p><strong>Pan tool</strong></p>
+<p>Pan tool</p>
 <img src="images/pan-tool.png" alt="Pan tool" title="Pan tool" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.3.2 Select tool
@@ -473,7 +473,7 @@ The Polyline Tool allows you to create a series of connected line segments. A po
 4. Repeat step 3 to add more segments.
 5. Right-click to complete the polyline.
 
-<p><strong>Create polyline shape</strong></p>
+<p>Create polyline shape</p>
 <img src="images/polyline-shape.png" alt="Create polyline shape" title="Create polyline shape" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.4.3 Polygon
@@ -484,7 +484,7 @@ The Polygon Tool allows you to create closed shapes with multiple sides. A polyg
 4. Repeat step 3 to add more sides.
 5. Right-click to complete the polygon.
 
-<p><strong>Create polygon shape</strong></p>
+<p>Create polygon shape</p>
 <img src="images/polygon-shape.png" alt="Create polygon shape" title="Create polygon shape" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.4.4 Line
@@ -492,7 +492,7 @@ The Line Tool allows you to create straight line segments on your drawing. Line 
 1. In the Draw view, select the Line Tool from the toolbar.
 2. Click the left mouse button at the starting point of the line.
 3. Move the mouse to the endpoint of the line and click again to complete the line.
-<p><strong>Create line shape</strong></p>
+<p>Create line shape</p>
 <img src="images/line-shape.png" alt="Create line shape" title="Create line shape" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.4.5 Path
@@ -503,7 +503,7 @@ The Path Tool allows you to create freeform shapes by drawing curves and lines. 
 4. Repeat step 3 to add more segments.
 5. Right-click to complete the path.
 
-<p><strong>Create path shape</strong></p>
+<p>Create path shape</p>
 <img src="images/path-shape.png" alt="Create path shape" title="Create path shape" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.4.6 Other shape tools
@@ -518,7 +518,7 @@ The Text Tool allows you to add plain text annotations to your drawing. To use t
 2. Click on the drawing area where you want to add the text.
 3. Type the desired text.
 4. Click outside the text to complete the text annotation.
-<p><strong>Add text annotation</strong></p>
+<p>Add text annotation</p>
 <img src="images/text-tool.png" alt="Add text annotation" title="Add text annotation " style="width:auto; height:auto; max-width:70%;">
 
 #### 3.5.2 Textbox tool
@@ -527,7 +527,7 @@ The Textbox Tool allows you to add text annotations within a defined rectangular
 2. Click on the drawing area to define the top-left corner of the textbox.
 3. Type the desired text within the textbox.
 4. Click outside the textbox to complete the text annotation.
-<p><strong>Add textbox annotation</strong></p>
+<p>Add textbox annotation</p>
 <img src="images/textbox-tool.png" alt="Add textbox annotation" title="Add textbox annotation" style="width:auto; height:auto; max-width:70%;"> 
 
 #### 3.5.3 Cloud tool
@@ -537,7 +537,7 @@ The Cloud Tool allows you to draw cloud-shaped annotations around areas of inter
 3. Move the mouse to create the cloud shape.
 4. Release the mouse button to complete the cloud annotation.
 
-<p><strong>Cloud tool</strong></p>
+<p>Cloud tool</p>
 <img src="images/cloud-tool.png" alt="Add cloud annotation" title="Add cloud annotation" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.5.4 Multiple point cloud tool
@@ -545,7 +545,7 @@ The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by spe
 1. In the Draw view, select the Multiple Point Cloud Tool from the toolbar.
 2. Click the left mouse button at each point to define the cloud shape.
 3. Right-click to complete the cloud annotation.
-<p><strong>Multiple point cloud</strong></p>
+<p>Multiple point cloud</p>
 <img src="images/multiple-point-cloud.png" alt="Add multiple point cloud annotation" title="Add multiple point cloud annotation" style="width:auto; height:auto; max-width:70%;">
 
 #### 3.5.4 Arrow tool
@@ -553,7 +553,7 @@ The Arrow Tool allows you to draw arrows on your drawing to point out specific a
 1. In the Draw view, select the Arrow Tool from the toolbar.
 2. Click the left mouse button at the starting point of the arrow.
 3. Move the mouse to the endpoint of the arrow and click again to complete the arrow.
-<p><strong>Add arrow annotation</strong></p>
+<p>Add arrow annotation</p>
 <img src="images/arrow-tool.png" alt="Add arrow annotation" title="Add arrow annotation" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -566,7 +566,7 @@ The Callout Tool allows you to create callouts to highlight specific areas on yo
 5. Type the desired text for the callout.
 6. Click outside the callout to complete the annotation.
 
-<p><strong>Callout annotation</strong></p>
+<p>Callout annotation</p>
 <img src="images/callout-tool.png" alt="Add callout annotation" title="Add callout annotation" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.6 Count tools
@@ -574,7 +574,7 @@ The Count Tool in BlueGrid allows you to count and mark items on your drawing. T
 1. In the Draw view, select the Count Tool from the toolbar.
 2. Click on each item you want to count on the drawing.
 3. Each click will place a count marker with an incremented index number if the count block is associated with a material.
-<p><strong>Count tool</strong></p>
+<p>Count tool</p>
 <img src="images/count-tool.png" alt="Count tool" title="Count tool" style="width:auto; height:auto; max-width:70%;">
 
 
