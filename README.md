@@ -115,7 +115,7 @@ Follow these steps to create a new project in BlueGrid:
     <p><strong>Create a new project</strong></p>
     <img src="images/create-project.png" alt="Create a new project" title="Create a new project" style="width:auto; height:auto; max-width:70%;">
     
-    <p><strong>Select project type</strong></p>
+    <p>Select project type</p>
     <img src="images/select-project-type.png" alt="Project Type dialog" title="Select project type" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -123,11 +123,11 @@ Follow these steps to create a new project in BlueGrid:
 You can open an existing project using one of the following methods:
 
 - Click **Open** and browse to your project file and then click Open in the file dialog.
-<p><strong>Open an existing project</strong></p>
+<p>Open an existing project</p>
 <img src="images/open-browse.png" alt="Open an existing project" title="Open an existing project" style="width:auto; height:auto; max-width:70%;">
 
 - Double-click on the project from the **Recent Projects** list.
-<p><strong>Open a recent project</strong></p>
+<p>Open a recent project</p>
 <img src="images/open-recent.png" alt="Open a recent project" title="Open a recent project" style="width:auto; height:auto; max-width:70%;">    
 
 ---
@@ -146,7 +146,7 @@ In BlueGrid, PDF pages are organized into folders. A folder may contain sub-fold
 
 ##### Notes: In a folder, folder names must be unique.
 
-<p><strong>Adding new a folder</strong></p>
+<p>Adding new a folder</p>
 <img src="images/create-new-folder.png" alt="Create a new folder" title="Create a new folder" style="width:auto; height:auto; max-width:70%;">
 <p><strong>Enter folder name</strong></p>
 <img src="images/enter-folder-name.png" alt="Enter folder name" title="Enter folder name" style="width:auto; height:auto; max-width:70%;">
@@ -158,7 +158,7 @@ You can rename an existing folder using either of the following methods:
 2. Open the Folder menu or right-click to open context menu and choose Rename.
 3. Enter the new folder name in the input field.
 4. Press Enter to confirm.
-<p><strong>Rename a folder</strong></p>
+<p>Rename a folder</p>
 <img src="images/rename-folder.png" alt="Rename a folder" title="Rename a folder" style="width:auto; height:auto; max-width:70%;">
 
 
@@ -168,7 +168,7 @@ You can delete a folder using either of the following methods:
 1. Select the folder you want to delete.
 2. Open the Folder menu and choose Delete.
 3. Confirm the action when prompted.
-<p><strong>Delete a folder</strong></p>
+<p>Delete a folder</p>
 <img src="images/delete-folder.png" alt="Delete a folder" title="Delete a folder" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.1.4 Moving a Folder to another Folder
@@ -178,7 +178,7 @@ In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to 
 3. Release the mouse button to complete the move.
 
 <p>In the demo below, Folder-4 is moved to Folder-3</p>
-<p><strong>Move a folder to another</strong></p>
+<p>Move a folder to another</p>
 <img src="images/move-folder.png" alt="Move a folder to another folder" title="Move a folder to another folder" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.1.5 Sorting Folders
@@ -186,7 +186,7 @@ You can sort folders using either the Folder Menu or the Context Menu.
 1. Open the Folder menu.
 2. Select Sort. 
 <p>Sort again to reverse sorting</p>
-<p><strong>Sort folders</strong></p>
+<p>Sort folders</p>
 <img src="images/sort-folders.png" alt="Sort folders" title="Sort folders" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.1.6 Filter Folders
@@ -199,7 +199,7 @@ Clear the filter text to show all folders again.
 #### 2.2.1 Open a page
 1. Select the page you want to open.
 2. Double-click the page or right-click to open context menu and choose Open.
-<p><strong>Open a page</strong></p>
+<p>Open a page</p>
 <img src="images/open-page.png" alt="Open a page" title="Open a page" style="width:auto; height:auto; max-width:70%;">
 
 ##### Notes:
@@ -212,7 +212,7 @@ BlueGrid allows users to open a page with different applications.
 3. In the Open With dialog, select the desired application from the list or browse to find a specific application.
 4. Click OK to open the page with the selected application.
 
-<p><strong>Open with external programs </strong></p>
+<p>Open with external programs</p>
 <img src="images/open-with.png" alt="Open PDF with external programs"  title="Open with external programs" style="width:auto; height:auto; max-width:70%;" /> 
 
 ##### Notes:
@@ -226,7 +226,7 @@ The applications users used to open pages will be saved in the Open With list fo
 3. In the Open Version dialog, select the desired version from the list.
 4. Click OK to open the selected version of the page.
 
-<p><strong>Open version</strong></p>
+<p>Open version</p>
 <img src="images/open-version.png" alt="Open version" title="Open version" style="width:auto; height:auto; max-width:70%;">
 
 #### 2.2.4 Add PDF pages to a folder
@@ -239,7 +239,7 @@ Method 1: Using the Page Menu / context menu
 4. In the file selection dialog, choose one or more PDF files to import.
 5. Click Yes or No to either split the files into pages or keep them as they are.
 
-<p><strong>Add PDF pages to a folder</strong></p>
+<p>Add PDF pages to a folder</p>
 <img src="images/add-pdf.png" alt="Add PDF pages to a folder" title="Add PDF pages to a folder" style="width:auto; height:auto; max-width:70%;">
 
 Method 2: Using Drag and Drop
@@ -247,7 +247,7 @@ Method 2: Using Drag and Drop
 2. Drag one or more PDF files from your file system.
 3. Drop them into the Page View area.
 4. Click Yes or No to either split the files into pages or keep them as they are.
-<p><strong>Drop files to add PDFs to a folder</strong></p>
+<p>Drop files to add PDFs to a folder</p>
 <img src="images/drag-drop-pdf.png" alt="Drag and Drop PDF pages to a folder" title="Drag and Drop PDF pages to a folder" style="width:auto; height:auto; max-width:70%;">
 <p><strong>Confirm splitting PDFs</strong></p>
 <img src="images/confirm-split-pdf.png" alt="Confirm splitting PDF files into pages" title="Confirm splitting PDF files into pages" style="width:auto; height:auto; max-width:70%;">
