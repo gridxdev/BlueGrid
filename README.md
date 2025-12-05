@@ -116,8 +116,8 @@
     - [4.3.3 Add catalog material items](#433-add-catalog-material-items)
     - [4.3.4 Edit catalog items](#434-edit-catalog-items)
     - [4.3.5 Delete catalog items](#435-delete-catalog-items)
-    - [4.4 Import a catalog](#43-import-a-catalog)
-    - [4.5 Export a catalog](#44-export-a-catalog)
+    - [4.4 Import catalogs](#43-import-catalogs)
+    - [4.5 Export catalogs](#44-export-catalogs)
 
 ---
 
@@ -854,7 +854,7 @@ In BlueGrid, you can import material catalogs from external files into your curr
 3. Choose Import Catalog.
 4. In the file selection dialog, choose the catalog file you want to import.
 5. Click OK to complete the import process.
-<p>Import catalog</p>
+<p>Import a catalog</p>
 <img src="images/import-catalog.png" alt="Import catalog" title="Import catalog" style="width:auto; height:auto; max-width:70%;">   
 
 ### 4.5 Export catalogs
@@ -865,5 +865,5 @@ In BlueGrid, you can export material catalogs to external files for backup, shar
 4. Choose Export Catalog.
 5. In the file selection dialog, choose the destination folder and file name for the exported catalog.
 6. Click OK to complete the export process.
-<p>Export catalog</p>
+<p>Export a catalog</p>
 <img src="images/export-catalog.png" alt="Export catalog" title="Export catalog" style="width:auto; height:auto; max-width:70%;">
