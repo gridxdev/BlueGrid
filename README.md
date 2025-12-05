@@ -60,20 +60,21 @@
     - [3.7 Stamps](#37-stamps)
     - [3.8 Snap settings](#38-point-snaps)
     - [3.9 Material table](#39-Material-table)
-    - [3.9.1 Adding a new material](#391-adding-a-new-material)
-    - [3.9.2 Editing a material](#392-editing-a-material)
-    - [3.9.3 Importing materials](#393-importing-materials)
+    - [3.9.1 Add a new material](#391-add-a-new-material)
+    - [3.9.2 Edit material properties](#392-edit-material-properties)
+    - [3.9.3 Import materials](#393-import-materials)
     - [3.9.4 Pull materials from catalog](#394-pull-materials-from-catalog)
-    - [3.9.5 Deleting a material](#395-deleting-a-material)
-    - [3.9.6 Exporting materials-to-csv](#396-exporting-materials-to-csv)
-    - [3.9.7 Exporting materials-to-excel](#397-exporting-materials-to-excel)
-    - [3.9.8 Dematerialize materials](#398-dematerialize-materials)
-    - [3.9.9 List material items](#399-list-valued-items)
-    - [3.9.10 Select tagged shapes](#3910-select-tagged-shapes)
-    - [3.9.11 Filter materials](#3911-filter-materials)
-    - [3.9.12 Sort materials](#3912-sort-materials)
-    - [3.9.13 Assign material to shapes to estimate quantities](#3913-assign-material-to-shapes-to-estimate-quantities)
-    - [3.10 Drawboard menu/functions](#310-drawboard-menu-functions)
+    - [3.9.5 Delete materials](#395-delete-materials)
+    - [3.9.6 Export materials as templates](#396-export-materials-as-templates)
+    - [3.9.7 Export page quantity report to excel](#397-export-page-quantity-report-to-excel)
+    - [3.9.8 Assign materials to shapes](#398-assign-materials-to-shapes)
+    - [3.9.9 Remove shapes from materials](#399-remove-shapes-from-material)
+    - [3.9.10 Ubsubscribe shapes to no material](#3910-unsubscribe-shapes-to-no-material)
+    - [3.9.11 List page quantity report](#399-List-page-quantity-report)
+    - [3.9.12 Select shapes by materials](#3910-select-shapes-by-materials)
+    - [3.9.13 Sort materials](#3912-sort-materials)
+    - [3.9.14 Filter materials](#3914-filter-materials)
+    - [3.10 Drawboard menu](#310-drawboard-menu)
     - [3.10.1 Undo/Redo](#3101-undoredo)
     - [3.10.2 Copy](#3102-copy)
     - [3.10.3 Copy displace](#3103-copy-displace)
@@ -91,10 +92,16 @@
     - [3.10.15 Delete shapes](#31015-Delete-shapes)
 
 4. [Catalogs](#4-catalogs) 
-    - [4.1 Overview about catalogs](#41-overview-about-catalogs)
-    - [4.2 Build a catalog](#42-build-a-catalog)
-    - [4.3 Import a catalog](#43-import-a-catalog)
-    - [4.4 Export a catalog](#44-export-a-catalog)
+    - [4.1 Overview about catalogs](#41-overview-of-catalogs)
+    - [4.2 Create a catalog entry](#42-create-a-catalog-entry)
+    - [4.3 Build a catalog](#43-build-a-catalog)
+    - [4.3.1 Add catalog root](#431-add-catalog-root)
+    - [4.3.2 Add catalog group items](#432-add-catalog-group-items)
+    - [4.3.3 Add catalog material items](#433-add-catalog-material-items)
+    - [4.3.4 Edit catalog items](#434-edit-catalog-items)
+    - [4.3.5 Delete catalog items](#435-delete-catalog-items)
+    - [4.4 Import a catalog](#43-import-a-catalog)
+    - [4.5 Export a catalog](#44-export-a-catalog)
 
 ---
 
@@ -620,15 +627,6 @@ To add a new material to your project, follow these steps:
 <p>Add a new material</p>
 <img src="images/add-material.png" alt="Add a new material" title="Add a new material" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.9.2 Delete materials
-To delete an existing material from your current page, follow these steps:
-1. Open the Materials panel.
-2. Select the material you want to delete from the Materials table.
-3. Open the Material Menu or right-click to open context menu.
-4. Select Delete Material.
-<p>Delete material</p>
-<img src="images/delete-materials.png" alt="Delete material" title="Delete material" style="width:auto; height:auto; max-width:70%;">>
-
 
 #### 3.9.2 Edit material properties
 To edit the properties of an existing material, follow these steps:
@@ -638,7 +636,17 @@ To edit the properties of an existing material, follow these steps:
 <p>Edit material</p>
 <img src="images/edit-material.png" alt="Edit material" title="Edit material" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.9.3 Pull materials
+#### 3.9.3 Import materials
+In BlueGrid, you can import materials from CSV files into your current project. To import materials, follow these steps:
+1. Open the Materials panel.
+2. Open the Material Menu or right-click to open context menu.
+3. Select Import Materials from CSV.
+4. In the file selection dialog, choose the CSV file containing the materials you want to import.
+5. Click OK to complete the import process.
+<p>Import materials</p>
+<img src="images/import-materials.png" alt="Import materials" title="Import materials" style="width:auto; height:auto; max-width:70%;">
+
+#### 3.9.4 Pull materials from catalog
 To pull materials from another catalog into your current project, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -651,7 +659,16 @@ To pull materials from another catalog into your current project, follow these s
 <p>Select catalog item to pull materials</p>
 <img src="images/select-catalog.png" alt="Select catalog item to pull materials" title="Select catalog item to pull materials" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.9.4 Export materials 
+#### 3.9.5 Delete materials
+To delete an existing material from your current page, follow these steps:
+1. Open the Materials panel.
+2. Select the material you want to delete from the Materials table.
+3. Open the Material Menu or right-click to open context menu.
+4. Select Delete Material.
+<p>Delete material</p>
+<img src="images/delete-materials.png" alt="Delete material" title="Delete material" style="width:auto; height:auto; max-width:70%;">>
+
+#### 3.9.6 Export materials as templates
 In BlueGrid, you can export materials as templates for use in other pages or projects. To export materials, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -661,17 +678,7 @@ In BlueGrid, you can export materials as templates for use in other pages or pro
 <p>Export materials</p>
 <img src="images/export-materials.png" alt="Export materials" title="Export materials" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.9.5 Import materials
-In BlueGrid, you can import materials from CSV files into your current project. To import materials, follow these steps:
-1. Open the Materials panel.
-2. Open the Material Menu or right-click to open context menu.
-3. Select Import Materials from CSV.
-4. In the file selection dialog, choose the CSV file containing the materials you want to import.
-5. Click OK to complete the import process.
-<p>Import materials</p>
-<img src="images/import-materials.png" alt="Import materials" title="Import materials" style="width:auto; height:auto; max-width:70%;">
-
-#### 3.9.6 Export quantity report to excel
+#### 3.9.7 Export page quantity report to excel
 In BlueGrid, you can export the quantity report of your materials to an Excel file for further analysis and documentation. To export the quantity report, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -681,7 +688,8 @@ In BlueGrid, you can export the quantity report of your materials to an Excel fi
 <p>Export quantity report to excel</p>
 <img src="images/export-quantity-report.png" alt="Export quantity report to excel" title="Export quantity report to excel" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.9.7 Assign materials to shapes
+
+#### 3.9.8 Assign materials to shapes
 In BlueGrid, shapes drawn on your PDF pages can be assigned to specific materials for accurate quantity takeoffs. By assigning a material to a shape, the shape's measurements will contribute to the total quantity of the associated material.
 To assign a material to a shape on your drawing, follow these steps:
 
@@ -698,17 +706,16 @@ Besides drag-and-drop method, you can also assign a material to a shape by selec
 <img src="images/assign-material.png" alt="Assign material to shape" title="Assign material to shape" style="width:auto; height:auto; max-width:70%;">
 
 
-#### 3.9.8 Remove shapes from material item
+#### 3.9.9 Remove shapes from materials
 In BlueGrid, you can unassign a material from a shape if you need to change the material assignment or if the shape no longer requires a material association. To unassign a material from a shape, follow these steps:
 1. Select the shape from which you want to unassign the material.
 2. Open the Materials panel.
 3. Open the Material Menu or right-click to open context menu.
 4. Select Dematerialize.
 <p>Unassign material from shape</p>
-
 <img src="images/remove-shapes-from-material.png" alt="Unassign material from shape" title="Unassign material from shape" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.9.9  Unsubscribe shapes to no material
+#### 3.9.10  Unsubscribe shapes to no material
 In BlueGrid, you can unsubscribe shapes from any material, effectively removing their association with all materials. This is useful when you want to reset the material assignments for specific shapes. To unsubscribe shapes from all materials, follow these steps:
 1. Select the shapes you want to unsubscribe from materials.
 2. Open draw menu or right-click to open context menu.
@@ -716,7 +723,7 @@ In BlueGrid, you can unsubscribe shapes from any material, effectively removing 
 <p>Unsubscribe shapes from all materials</p>
 <img src="images/dematerialize-shape.png" alt="Dematerialize shapes" title="Unsubscribe shapes from all materials" style="width:auto; height:auto; max-width:70%;">
 
-#### 3.9.10 List page quantity report
+#### 3.9.11 List page quantity report
 In BlueGrid, you can view a detailed quantity report for the materials used on the current page on PDF.
 To list the page quantity report, follow these steps:
 1. Open the Materials panel.
@@ -726,7 +733,7 @@ To list the page quantity report, follow these steps:
 <p>List page quantity report</p>
 <img src="images/list-quantity-report.png" alt="List page quantity report" title="List page quantity report" style="width:auto; height:auto; max-width:70%;">
 
-### 3.9.11 Select shapes by material
+### 3.9.12 Select shapes by material
 In BlueGrid, you can select all shapes that are assigned to a specific material. This feature is useful for quickly identifying and manipulating shapes associated with a particular material. To select shapes by material, follow these steps:
 1. Open the Materials panel.
 2. Select the material whose associated shapes you want to select from the Materials table.
@@ -735,22 +742,49 @@ In BlueGrid, you can select all shapes that are assigned to a specific material.
 <p>Select shapes by material</p>
 <img src="images/select-shapes-by-material.png" alt="Select shapes by material" title="Select shapes by material" style="width:auto; height:auto; max-width:70%;">
 
+### 3.9.13 Sort materials
+In BlueGrid, you can sort the materials in the Materials table either by name or by quantity. Sorting materials helps you organize and find specific materials more easily. To sort materials, follow these steps:
+1. Open the Materials panel.
+2. Open the Material Menu or right-click to open context menu.
+3. Select Sort, then choose either By Name or By Quantity.   
+4. Sort again to reverse sorting.
+<p>Sort materials</p>
+<img src="images/sort-materials.png" alt="Sort materials" title="Sort materials" style="width:auto; height:auto; max-width:70%;">
 
-## 4. Catalog Manager
+### 3.9.14 Filter materials
+In BlueGrid, you can filter the materials in the Materials table to display only those that meet specific criteria. This feature helps you quickly find and manage materials based on your needs. To filter materials, follow these steps:
+1. Open the Materials panel.
+2. Type the desired filter criteria into the filter box located at the top of the Materials table.
+3. The Materials table will automatically update to show only the materials that match the filter criteria.
+<p>Filter materials</p>
+<img src="images/filter-materials.png" alt="Filter materials" title="Filter materials" style="width:auto; height:auto; max-width:70%;">
+
+## 3.10 Drawboard menu
+In BlueGrid, the Drawboard Menu provides various options for managing and interacting with the drawing area. The Drawboard Menu can be accessed by right-clicking on the drawboard or by clicking on the menu icon in the toolbar. The available options in the Drawboard Menu include Undo, Redo, Cut, Copy, Paste, Delete, Group, Ungroup, Bring to Front, Send to Back, and more. These options allow you to perform common actions on shapes and annotations within the drawboard.
+<p>Drawboard menu</p>
+<img src="images/drawboard-menu.png" alt="Drawboard menu" title="Drawboard menu" style="width:auto; height:auto; max-width:70%;">
+
+
+## 4. Catalogs
 In BlueGrid, a catalog is equivalent to a material library that contains a list of materials organized in a hierarchical tree structure. Catalogs allow you to maintain a consistent set of materials across multiple pages and projects. The Catalog Manager provides tools to create, edit, and manage these catalogs effectively.
-### 4.1 Add a catalog entry
+### 4.1 Overview of catalogs
+
 The Catalog Manager in BlueGrid allows you to create and manage material catalogs for use in the project. Material catalogs help you maintain a consistent list of materials across multiple pages of the project. To create a material catalog, follow these steps:
 
 Catalog view has two main sections, the catalog header list in the left and the catalog tree table view is in the right. Each catalog in the catalog header list associates to a catalog tree.
 
+### 4.2 Create a new catalog
 1. Open the Catalog Manager from the main menu.
 2. In the catalog header list click on the menu the "New" button to create a new material catalog.
 3. Enter a name for the new catalog and Enter.
 
-### 4.2 Build catalog tree
+<p>Create a new catalog</p>
+<img src="images/create-new-catalog.png" alt="Create a new catalog" title="Create a new catalog" style="width:auto; height:auto; max-width:70%;">
+
+### 4.3 Build a catalog 
 After creating a new catalog entry, you can build the catalog tree by adding categories and materials.
 
-#### 4.4.1 Add tree root item
+#### 4.3.1 Add tree root item
 Before adding categories and materials, you need to create a root item for the catalog tree. To add a root item, follow these steps:
 1. Select the catalog you want to add a root item to from the catalog header list.
 2. In the catalog tree view, open catalog menu or right-click to open the context menu.
@@ -759,7 +793,7 @@ Before adding categories and materials, you need to create a root item for the c
 <p>Add catalog tree root item</p>
 <img src="images/add-catalog-root-item.png" alt="Add catalog tree root item" title="Add catalog tree root item" style="width:auto; height:auto; max-width:70%;">
 
-#### 4.2.1 Add category
+#### 4.3.2 Add category group items
 
 To add a new category to the catalog tree, follow these steps:
 1. Select the catalog you want to add a category to from the catalog header list.
@@ -771,7 +805,7 @@ To add a new category to the catalog tree, follow these steps:
 <p>Add catalog group</p>
 <img src="images/add-catalog-group.png" alt="Add catalog group" title="Add catalog group" style="width:auto; height:auto; max-width:70%;">
 
-#### 4.2.2 Add material
+#### 4.3.3 Add catalog material items
 To add a new material to the catalog tree, follow these steps:
 1. Select the catalog you want to add a material to from the catalog header list.
 2. Select the parent item (root or category) under which you want to add the new material.
@@ -782,17 +816,39 @@ To add a new material to the catalog tree, follow these steps:
 <p>Add catalog material</p>
 <img src="images/add-catalog-material.png" alt="Add catalog material" title="Add catalog material" style="width:auto; height:auto; max-width:70%;">
 
-#### 4.2.3 Edit catalog item
+#### 4.3.4 Edit catalog items
 To edit an existing catalog item (category or material), follow these steps:
 1. Select the catalog item you want to edit from the catalog tree view.
 2. In the Properties panel, modify the desired properties such as name, description, type, fill color, stroke color...
 <p>Edit catalog item</p>
 <img src="images/edit-catalog-item.png" alt="Edit catalog item" title="Edit catalog item" style="width:auto; height:auto; max-width:70%;">
 
-#### 4.2.4 Delete catalog item
+#### 4.3.5 Delete catalog items
 To delete an existing catalog item (category or material), follow these steps:
 1. Select the catalog item you want to delete from the catalog tree view.
 2. Open catalog menu or right-click to open the context menu.
 3. Choose Delete Item.
 <p>Delete catalog item</p>
 <img src="images/delete-catalog-item.png" alt="Delete catalog item" title="Delete catalog item" style="width:auto; height:auto; max-width:70%;">
+
+### 4.4 Import catalogs
+
+In BlueGrid, you can import material catalogs from external files into your current project. To import a catalog, follow these steps:
+1. Open the Catalog Manager from the main menu.
+2. In the catalog header list, open catalog menu or right-click to open context menu.
+3. Choose Import Catalog.
+4. In the file selection dialog, choose the catalog file you want to import.
+5. Click OK to complete the import process.
+<p>Import catalog</p>
+<img src="images/import-catalog.png" alt="Import catalog" title="Import catalog" style="width:auto; height:auto; max-width:70%;">   
+
+### 4.5 Export catalogs
+In BlueGrid, you can export material catalogs to external files for backup or sharing purposes. To export a catalog, follow these steps:
+1. Open the Catalog Manager from the main menu.
+2. In the catalog header list, select the catalog you want to export.
+3. Open catalog menu or right-click to open context menu.
+4. Choose Export Catalog.
+5. In the file selection dialog, choose the destination folder and file name for the exported catalog.
+6. Click OK to complete the export process.
+<p>Export catalog</p>
+<img src="images/export-catalog.png" alt="Export catalog" title="Export catalog" style="width:auto; height:auto; max-width:70%;">
