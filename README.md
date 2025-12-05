@@ -70,9 +70,9 @@
     - [3.9.8 Assign materials to shapes](#398-assign-materials-to-shapes)
     - [3.9.9 Remove shapes from materials](#399-remove-shapes-from-material)
     - [3.9.10 Ubsubscribe shapes to no material](#3910-unsubscribe-shapes-to-no-material)
-    - [3.9.11 List page quantity report](#399-List-page-quantity-report)
-    - [3.9.12 Select shapes by materials](#3910-select-shapes-by-materials)
-    - [3.9.13 Sort materials](#3912-sort-materials)
+    - [3.9.11 List page quantity report](#3911-List-page-quantity-report)
+    - [3.9.12 Select shapes by materials](#3912-select-shapes-by-materials)
+    - [3.9.13 Sort materials](#3913-sort-materials)
     - [3.9.14 Filter materials](#3914-filter-materials)
     - [3.10 Drawboard menu](#310-drawboard-menu)
     - [3.10.1 Undo/Redo](#3101-undoredo)
@@ -120,11 +120,11 @@ Follow these steps to create a new project in BlueGrid:
 5. In the *Save As* dialog, choose a location and enter a name for your project file.
 6. Click **Save** to create the project.
 
-    <p><strong>Create a new project</strong></p>
-    <img src="images/create-project.png" alt="Create a new project" title="Create a new project" style="width:auto; height:auto; max-width:70%;">
-    
-    <p>Select project type</p>
-    <img src="images/select-project-type.png" alt="Project Type dialog" title="Select project type" style="width:auto; height:auto; max-width:70%;">
+<p><strong>Create a new project</strong></p>
+<img src="images/create-project.png" alt="Create a new project" title="Create a new project" style="width:auto; height:auto; max-width:70%;">
+
+<p>Select project type</p>
+<img src="images/select-project-type.png" alt="Project Type dialog" title="Select project type" style="width:auto; height:auto; max-width:70%;">
 
 
 ### 1.2 Opening a Project
@@ -843,7 +843,7 @@ In BlueGrid, you can import material catalogs from external files into your curr
 <img src="images/import-catalog.png" alt="Import catalog" title="Import catalog" style="width:auto; height:auto; max-width:70%;">   
 
 ### 4.5 Export catalogs
-In BlueGrid, you can export material catalogs to external files for backup or sharing purposes. To export a catalog, follow these steps:
+In BlueGrid, you can export material catalogs to external files for backup, sharing purposes or using across projects. To export a catalog, follow these steps:
 1. Open the Catalog Manager from the main menu.
 2. In the catalog header list, select the catalog you want to export.
 3. Open catalog menu or right-click to open context menu.
