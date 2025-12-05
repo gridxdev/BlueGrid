@@ -58,7 +58,7 @@
     - [3.5.5 Callout tool](#355-Callout-tool)
     - [3.6 Count tools](#36-count-tools)
     - [3.7 Stamps](#37-stamps)
-    - [3.8 Snap settings](#38-snap-settings)
+    - [3.8 Snap settings](#38-point-snaps)
     - [3.9 Materials](#39-Material-table)
     - [3.9.1 Adding a new material](#391-adding-a-new-material)
     - [3.9.2 Editing a material](#392-editing-a-material)
