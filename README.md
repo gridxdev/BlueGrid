@@ -75,7 +75,7 @@
     - [3.9.13 Assign material to shapes to estimate quantities](#3913-assign-material-to-shapes-to-estimate-quantities)
     - [3.10 Drawboard menu/functions](#310-drawboard-menu-functions)
     - [3.10.1 Undo/Redo](#3101-undoredo)
-    - [3.10.2 Copy](#3102-copycopy)
+    - [3.10.2 Copy](#3102-copy)
     - [3.10.3 Copy displace](#3103-copy-displace)
     - [3.10.4 Flip shapes](#3104-Flip-shapes)
     - [3.10.5 Flip horizontal](#3105-Flip-horizontal)
