@@ -59,7 +59,7 @@
     - [3.6 Count tools](#36-count-tools)
     - [3.7 Stamps](#37-stamps)
     - [3.8 Snap settings](#38-point-snaps)
-    - [3.9 Materials](#39-Material-table)
+    - [3.9 Material table](#39-Material-table)
     - [3.9.1 Adding a new material](#391-adding-a-new-material)
     - [3.9.2 Editing a material](#392-editing-a-material)
     - [3.9.3 Importing materials](#393-importing-materials)
@@ -605,7 +605,7 @@ In BlueGrid, Point snaps are optional while drawing shapes to have precise point
 <p>Snap settings</p>
 <img src="images/snap-setting.png" alt="Snap settings" title="Snap settings" style="width:auto; height:auto; max-width:70%;">
 
-### 3.9 Materials
+### 3.9 Material table
 
 Materials feature allows you to manage and organize the materials used in a page. Materials can be created, edited, imported, exported, and assigned to shapes in your drawings. The quantity of each material is calculated based on the shapes it is assigned to. This section provides an overview of the various functionalities related to materials in BlueGrid.
 Material table is at page level, meaning each page has its own material list. Materials created in one page will not be available in other pages unless you pull or import them. To have consistent material list across multiple pages, you can create a material catalog and pull materials from the catalog into each page as needed.
