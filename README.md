@@ -454,6 +454,12 @@ The Select Tool allows you to select shapes and objects on your drawing for edit
 <img src="images/select-tool.png" alt="Select tool" title="Select tool" style="width:auto; height:auto; max-width:70%;">
 
 
+##### 3.3.3 Select PDF-Shape tool
+The Select PDF-Shape Tool allows you to select and manipulate shapes that are part of the original PDF content. To use the Select PDF-Shape Tool, follow these steps:
+1. In the Draw view, select the Select PDF-Shape Tool from the toolbar.
+2. Press and hold the left mouse button and drag to create a selection rectangle around the PDF shapes you want to select.
+3. Release the mouse button to complete the selection. All PDF shapes within the rectangle will be selected.
+
 ### 3.4 Shape tools
 BlueGrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
 <p>Shape tool</p>
