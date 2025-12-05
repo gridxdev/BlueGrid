@@ -55,7 +55,7 @@
     - [3.5.2 Textbox tool](#352-Textbox-tool)
     - [3.5.3 Cloud tool](#353-Cloud-tool)
     - [3.5.4 Arrow tool](#354-Arrow-tool)
-    - [3.5.5 Callout tool](#355-Highlight-tool)
+    - [3.5.5 Callout tool](#355-Callout-tool)
     - [3.6 Count tools](#36-count-tools)
     - [3.7 Stamps](#37-stamps)
     - [3.8 Snap settings](#38-snap-settings)
@@ -567,7 +567,7 @@ The Arrow Tool allows you to draw arrows on your drawing to point out specific a
 <img src="images/arrow-tool.png" alt="Add arrow annotation" title="Add arrow annotation" style="width:auto; height:auto; max-width:70%;">
 
 
-#### 3.5.6 Callout tool
+#### 3.5.5 Callout tool
 The Callout Tool allows you to create callouts to highlight specific areas on your drawing. There are three types of callouts available: Linear Callout, Quadratic Callout, and Cubic Callout. To use the Callout Tool, follow these steps:
 1. In the Draw view, select the Callout Tool from the toolbar.
 2. Choose the desired callout type from the dropdown menu.
