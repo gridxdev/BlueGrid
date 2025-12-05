@@ -74,22 +74,38 @@
     - [3.9.12 Select shapes by materials](#3912-select-shapes-by-materials)
     - [3.9.13 Sort materials](#3913-sort-materials)
     - [3.9.14 Filter materials](#3914-filter-materials)
-    - [3.10 Drawboard menu](#310-drawboard-menu)
-    - [3.10.1 Undo/Redo](#3101-undoredo)
-    - [3.10.2 Copy](#3102-copy)
-    - [3.10.3 Copy displace](#3103-copy-displace)
-    - [3.10.4 Flip shapes](#3104-Flip-shapes)
-    - [3.10.5 Flip horizontal](#3105-Flip-horizontal)
-    - [3.10.6 Build path](#3106-Build-path)
-    - [3.10.7 Add to symbol library](#3107-Add-to-symbol-library)
-    - [3.10.8 Move shapes upward](#3108-Move-shapes-upward)
-    - [3.10.9 Move shapes downward](#3109-Move-shapes-downward)
-    - [3.10.10 Move shapes to top](#31010-Move-shapes-to-top)
-    - [3.10.11 Move shapes to bottom](#31011-Move-shapes-to-bottom)
-    - [3.10.12 Dematerialize shapes](#31012-Dematerialize-shapes)
-    - [3.10.13 Select shapes](#31013-Select-shapes)
-    - [3.10.14 Deselect shapes](#31014-Deselect-shapes)
-    - [3.10.15 Delete shapes](#31015-Delete-shapes)
+
+[//]: # (    - [3.10 Drawboard menu]&#40;#310-drawboard-menu&#41;)
+
+[//]: # (    - [3.10.1 Undo/Redo]&#40;#3101-undoredo&#41;)
+
+[//]: # (    - [3.10.2 Copy]&#40;#3102-copy&#41;)
+
+[//]: # (    - [3.10.3 Copy displace]&#40;#3103-copy-displace&#41;)
+
+[//]: # (    - [3.10.4 Flip shapes]&#40;#3104-Flip-shapes&#41;)
+
+[//]: # (    - [3.10.5 Flip horizontal]&#40;#3105-Flip-horizontal&#41;)
+
+[//]: # (    - [3.10.6 Build path]&#40;#3106-Build-path&#41;)
+
+[//]: # (    - [3.10.7 Add to symbol library]&#40;#3107-Add-to-symbol-library&#41;)
+
+[//]: # (    - [3.10.8 Move shapes upward]&#40;#3108-Move-shapes-upward&#41;)
+
+[//]: # (    - [3.10.9 Move shapes downward]&#40;#3109-Move-shapes-downward&#41;)
+
+[//]: # (    - [3.10.10 Move shapes to top]&#40;#31010-Move-shapes-to-top&#41;)
+
+[//]: # (    - [3.10.11 Move shapes to bottom]&#40;#31011-Move-shapes-to-bottom&#41;)
+
+[//]: # (    - [3.10.12 Dematerialize shapes]&#40;#31012-Dematerialize-shapes&#41;)
+
+[//]: # (    - [3.10.13 Select shapes]&#40;#31013-Select-shapes&#41;)
+
+[//]: # (    - [3.10.14 Deselect shapes]&#40;#31014-Deselect-shapes&#41;)
+
+[//]: # (    - [3.10.15 Delete shapes]&#40;#31015-Delete-shapes&#41;)
 
 4. [Catalogs](#4-catalogs) 
     - [4.1 Overview about catalogs](#41-overview-of-catalogs)
@@ -743,10 +759,9 @@ In BlueGrid, you can select all shapes that are assigned to a specific material.
 <img src="images/select-shapes-by-material.png" alt="Select shapes by material" title="Select shapes by material" style="width:auto; height:auto; max-width:70%;">
 
 ### 3.9.13 Sort materials
-In BlueGrid, you can sort the materials in the Materials table either by name or by quantity. Sorting materials helps you organize and find specific materials more easily. To sort materials, follow these steps:
+In BlueGrid, you can sort the materials in the Materials table either by clicking to a column header of the material table. Sorting materials helps you organize and find specific materials more easily. To sort materials, follow these steps:
 1. Open the Materials panel.
-2. Open the Material Menu or right-click to open context menu.
-3. Select Sort, then choose either By Name or By Quantity.   
+2. Click to the column header you want to sort by, such as Name, Type, Quantity, Description, etc.
 4. Sort again to reverse sorting.
 <p>Sort materials</p>
 <img src="images/sort-materials.png" alt="Sort materials" title="Sort materials" style="width:auto; height:auto; max-width:70%;">
