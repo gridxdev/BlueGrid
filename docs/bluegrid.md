@@ -119,8 +119,6 @@
     - [4.4 Import catalogs](#43-import-catalogs)
     - [4.5 Export catalogs](#44-export-catalogs)
 
----
-
 ## 1. BlueGrid Projects
 
 ### 1.1 Creating a Project
