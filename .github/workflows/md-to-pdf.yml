@@ -23,7 +23,7 @@ jobs:
       - name: Convert MD to PDF
         run: |
           mkdir -p output
-          pandoc README.md -o output/manual.pdf
+          pandoc docs/bluegrid.md --resource-path=. -o output/manual.pdf
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
