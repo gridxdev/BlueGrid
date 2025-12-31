@@ -109,7 +109,7 @@
 
 4. [Catalogs](#4-catalogs) 
     - [4.1 Overview about catalogs](#41-overview-of-catalogs)
-    - [4.2 Create a catalog entry](#42-create-a-catalog-entry)
+    - [4.2 Add a catalog entry](#42-add-a-catalog-entry)
     - [4.3 Build a catalog](#43-build-a-catalog)
     - [4.3.1 Add catalog root](#431-add-catalog-root)
     - [4.3.2 Add catalog group items](#432-add-catalog-group-items)
@@ -788,13 +788,13 @@ The Catalog Manager in BlueGrid allows you to create and manage material catalog
 
 Catalog view has two main sections, the catalog header list in the left and the catalog tree table view is in the right. Each catalog in the catalog header list associates to a catalog tree.
 
-### 4.2 Create a new catalog
+### 4.2 Add a new catalog entry
 1. Open the Catalog Manager from the main menu.
 2. In the catalog header list click on the menu the "New" button to create a new material catalog.
 3. Enter a name for the new catalog and Enter.
 
-<p>Create a new catalog</p>
-<img src="images/create-new-catalog.png" alt="Create a new catalog" title="Create a new catalog" style="width:auto; height:auto; max-width:70%;">
+<p>Add a new catalog</p>
+<img src="images/add-catalog-entry.png" alt="Create a new catalog" title="Create a new catalog" style="width:auto; height:auto; max-width:70%;">
 
 ### 4.3 Build a catalog 
 After creating a new catalog entry, you can build the catalog tree by adding categories and materials.
