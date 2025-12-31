@@ -1,0 +1,31 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    paths:
+      - "README.md"
+  workflow_dispatch:
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc & LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
+
+      - name: Convert MD to PDF
+        run: |
+          mkdir -p output
+          pandoc README.md -o output/manual.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdf-output
+          path: output/manual.pdf
