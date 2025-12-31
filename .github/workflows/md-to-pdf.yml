@@ -20,6 +20,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
 
+      - name: Debug file structure
+        run: |
+          pwd
+          ls -R .
+          echo "---- DOCS ----"
+          ls -R docs
+
       - name: Convert MD to PDF
         run: |
           mkdir -p output
