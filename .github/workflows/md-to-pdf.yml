@@ -2,6 +2,7 @@ name: Convert Markdown to PDF
 
 on:
   push:
+    branches: [ "main", "dev" ]
     paths:
       - "README.md"
   workflow_dispatch:
