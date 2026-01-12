@@ -3,7 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="bluegrid"
-                 name="BluegridManual" start-page="bluegrid.md">
+                 name="Documentation for BlueGrid"
+                  start-page="index.md"
+>
 
-    <toc-element topic="bluegrid.md"/>
+    <toc-element topic="index.md"/>
+
 </instance-profile>

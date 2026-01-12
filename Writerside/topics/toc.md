@@ -1,79 +1,151 @@
 # BlueGrid Manual
 
 ## Table of Contents
-1. [BlueGrid Projects](#1-bluegrid-projects)
-    - [1.1 Creating a Project](#11-creating-a-project)
-    - [1.2 Opening a Project](#12-opening-a-project)
-2. [Document Management](#2-document-management)
-    - [2.1 Folders](#21-folders)
-    - [2.1.1 Add a new folder](#211-creating-a-new-folder)
-    - [2.1.2 Rename a folder](#212-renaming-a-folder)
-    - [2.1.3 Delete a folder](#213-deleting-a-folder)
-    - [2.1.4 Move a folder to another Folder](#214-moving-a-folder-to-another-folder)
-    - [2.1.5 Sort folders](#215-sorting-folders)
-    - [2.1.6 Filter folders](#216-filter-folders)
-    - [2.2 Pages](#22-pages)
-    - [2.2.1 Open](#221-open-a-page)
-    - [2.2.2 Open with](#222-open-with)
-    - [2.2.3 Open version](#223-open-version)
-    - [2.2.4 Add PDF Pages to a Folder](#224-add-pdf-pages-to-a-folder)
-    - [2.2.5 Replace page](#225-replace-page)
-    - [2.2.6 Duplicate](#226-duplicate-a-page)
-    - [2.2.7 Add version](#227-add-versions-to-a-page)
-    - [2.2.8 Rotate pages](#228-rotate-pages)
-    - [2.2.9 Export PDFs](#229-export-pages)
-    - [2.2.10 Delete](#2210-delete-pages)
-    - [2.2.11 Delete versions](#2211-delete-versions)
-    - [2.2.12 View](#2212-Change-thumbnail-size)
-    - [2.2.13 Sort](#2213-Sort-pages)
-    - [2.2.14 Select all](#2214-select-all-pages)
-    - [2.2.15 Batch rename](#2215-batch-rename-pages)
-    - [2.2.16 Batch set unit](#2216-batch-set-unit)
-    - [2.2.17 Re-index pages](#2217-re-index-pages)
-    - [2.2.18 Change page folder](#2218-move-a-page-to-another-folder)
-    - [2.2.19 Properties](#2219-edit-page-properties)
-    - [2.2.19.1 Set page name](#22191-set-page-name)
-    - [2.2.19.2 Set scale](#22192-set-page-scale)
-    - [2.2.19.3 Set page unit](#22193-set-page-unit)
-      
-3. [Draw / Takeoff](#3-draw--takeoff)
-    - [3.1 Scale tool](#31-Set-page-scale-with-scale-tool)
-    - [3.2 Dim tool](#32-Measure-distances-with-dim-tool)
-    - [3.3 Mouse tools](#33-Pan-Select-tool)
-    - [3.3.1 Pan tool](#331-Pan-tool)
-    - [3.3.2 Select tool](#332-Select-tool)
-    - [3.3.3 PDF-Shape select tool](#333-Select-PDF-Shape-tool)
-    - [3.4 Shape tools](#34-shape-tools)
-    - [3.4.1 Rectangle](#341-rectangle)
-    - [3.4.2 Polyline](#342-polyline)
-    - [3.4.3 Polygon](#343-polygon)
-    - [3.4.4 Line](#344-line)
-    - [3.4.5 Path](#345-path)
-    - [3.4.6 Others](#346-other-shape-tools)
-    - [3.5 Annotation tools](#35-Annotation-tools)
-    - [3.5.1 Text tool](#351-Text-tool)
-    - [3.5.2 Textbox tool](#352-Textbox-tool)
-    - [3.5.3 Cloud tool](#353-Cloud-tool)
-    - [3.5.4 Arrow tool](#354-Arrow-tool)
-    - [3.5.5 Callout tool](#355-Callout-tool)
-    - [3.6 Count tools](#36-count-tools)
-    - [3.7 Stamps](#37-stamps)
-    - [3.8 Snap settings](#38-point-snaps)
-    - [3.9 Material table](#39-Material-table)
-    - [3.9.1 Add a new material](#391-add-a-new-material)
-    - [3.9.2 Edit material properties](#392-edit-material-properties)
-    - [3.9.3 Import materials](#393-import-materials)
-    - [3.9.4 Pull materials from catalog](#394-pull-materials-from-catalog)
-    - [3.9.5 Delete materials](#395-delete-materials)
-    - [3.9.6 Export materials as templates](#396-export-materials-as-templates)
-    - [3.9.7 Export page quantity report to excel](#397-export-page-quantity-report-to-excel)
-    - [3.9.8 Assign materials to shapes](#398-assign-materials-to-shapes)
-    - [3.9.9 Remove shapes from materials](#399-remove-shapes-from-material)
-    - [3.9.10 Ubsubscribe shapes to no material](#3910-unsubscribe-shapes-to-no-material)
-    - [3.9.11 List page quantity report](#3911-List-page-quantity-report)
-    - [3.9.12 Select shapes by materials](#3912-select-shapes-by-materials)
-    - [3.9.13 Sort materials](#3913-sort-materials)
-    - [3.9.14 Filter materials](#3914-filter-materials)
+
+[//]: # (1. [BlueGrid Projects]&#40;#1-bluegrid-projects&#41;)
+
+[//]: # (    - [1.1 Creating a Project]&#40;#11-creating-a-project&#41;)
+
+[//]: # (    - [1.2 Opening a Project]&#40;#12-opening-a-project&#41;)
+
+[//]: # (2. [Document Management]&#40;#2-document-management&#41;)
+
+[//]: # (    - [2.1 Folders]&#40;#21-folders&#41;)
+
+[//]: # (    - [2.1.1 Add a new folder]&#40;#211-creating-a-new-folder&#41;)
+
+[//]: # (    - [2.1.2 Rename a folder]&#40;#212-renaming-a-folder&#41;)
+
+[//]: # (    - [2.1.3 Delete a folder]&#40;#213-deleting-a-folder&#41;)
+
+[//]: # (    - [2.1.4 Move a folder to another Folder]&#40;#214-moving-a-folder-to-another-folder&#41;)
+
+[//]: # (    - [2.1.5 Sort folders]&#40;#215-sorting-folders&#41;)
+
+[//]: # (    - [2.1.6 Filter folders]&#40;#216-filter-folders&#41;)
+
+[//]: # (    - [2.2 Pages]&#40;#22-pages&#41;)
+
+[//]: # (    - [2.2.1 Open]&#40;#221-open-a-page&#41;)
+
+[//]: # (    - [2.2.2 Open with]&#40;#222-open-with&#41;)
+
+[//]: # (    - [2.2.3 Open version]&#40;#223-open-version&#41;)
+
+[//]: # (    - [2.2.4 Add PDF Pages to a Folder]&#40;#224-add-pdf-pages-to-a-folder&#41;)
+
+[//]: # (    - [2.2.5 Replace page]&#40;#225-replace-page&#41;)
+
+[//]: # (    - [2.2.6 Duplicate]&#40;#226-duplicate-a-page&#41;)
+
+[//]: # (    - [2.2.7 Add version]&#40;#227-add-versions-to-a-page&#41;)
+
+[//]: # (    - [2.2.8 Rotate pages]&#40;#228-rotate-pages&#41;)
+
+[//]: # (    - [2.2.9 Export PDFs]&#40;#229-export-pages&#41;)
+
+[//]: # (    - [2.2.10 Delete]&#40;#2210-delete-pages&#41;)
+
+[//]: # (    - [2.2.11 Delete versions]&#40;#2211-delete-versions&#41;)
+
+[//]: # (    - [2.2.12 View]&#40;#2212-Change-thumbnail-size&#41;)
+
+[//]: # (    - [2.2.13 Sort]&#40;#2213-Sort-pages&#41;)
+
+[//]: # (    - [2.2.14 Select all]&#40;#2214-select-all-pages&#41;)
+
+[//]: # (    - [2.2.15 Batch rename]&#40;#2215-batch-rename-pages&#41;)
+
+[//]: # (    - [2.2.16 Batch set unit]&#40;#2216-batch-set-unit&#41;)
+
+[//]: # (    - [2.2.17 Re-index pages]&#40;#2217-re-index-pages&#41;)
+
+[//]: # (    - [2.2.18 Change page folder]&#40;#2218-move-a-page-to-another-folder&#41;)
+
+[//]: # (    - [2.2.19 Properties]&#40;#2219-edit-page-properties&#41;)
+
+[//]: # (    - [2.2.19.1 Set page name]&#40;#22191-set-page-name&#41;)
+
+[//]: # (    - [2.2.19.2 Set scale]&#40;#22192-set-page-scale&#41;)
+
+[//]: # (    - [2.2.19.3 Set page unit]&#40;#22193-set-page-unit&#41;)
+
+[//]: # (      )
+[//]: # (3. [Draw / Takeoff]&#40;#3-draw--takeoff&#41;)
+
+[//]: # (    - [3.1 Scale tool]&#40;#31-Set-page-scale-with-scale-tool&#41;)
+
+[//]: # (    - [3.2 Dim tool]&#40;#32-Measure-distances-with-dim-tool&#41;)
+
+[//]: # (    - [3.3 Mouse tools]&#40;#33-Pan-Select-tool&#41;)
+
+[//]: # (    - [3.3.1 Pan tool]&#40;#331-Pan-tool&#41;)
+
+[//]: # (    - [3.3.2 Select tool]&#40;#332-Select-tool&#41;)
+
+[//]: # (    - [3.3.3 PDF-Shape select tool]&#40;#333-Select-PDF-Shape-tool&#41;)
+
+[//]: # (    - [3.4 Shape tools]&#40;#34-shape-tools&#41;)
+
+[//]: # (    - [3.4.1 Rectangle]&#40;#341-rectangle&#41;)
+
+[//]: # (    - [3.4.2 Polyline]&#40;#342-polyline&#41;)
+
+[//]: # (    - [3.4.3 Polygon]&#40;#343-polygon&#41;)
+
+[//]: # (    - [3.4.4 Line]&#40;#344-line&#41;)
+
+[//]: # (    - [3.4.5 Path]&#40;#345-path&#41;)
+
+[//]: # (    - [3.4.6 Others]&#40;#346-other-shape-tools&#41;)
+
+[//]: # (    - [3.5 Annotation tools]&#40;#35-Annotation-tools&#41;)
+
+[//]: # (    - [3.5.1 Text tool]&#40;#351-Text-tool&#41;)
+
+[//]: # (    - [3.5.2 Textbox tool]&#40;#352-Textbox-tool&#41;)
+
+[//]: # (    - [3.5.3 Cloud tool]&#40;#353-Cloud-tool&#41;)
+
+[//]: # (    - [3.5.4 Arrow tool]&#40;#354-Arrow-tool&#41;)
+
+[//]: # (    - [3.5.5 Callout tool]&#40;#355-Callout-tool&#41;)
+
+[//]: # (    - [3.6 Count tools]&#40;#36-count-tools&#41;)
+
+[//]: # (    - [3.7 Stamps]&#40;#37-stamps&#41;)
+
+[//]: # (    - [3.8 Snap settings]&#40;#38-point-snaps&#41;)
+
+[//]: # (    - [3.9 Material table]&#40;#39-Material-table&#41;)
+
+[//]: # (    - [3.9.1 Add a new material]&#40;#391-add-a-new-material&#41;)
+
+[//]: # (    - [3.9.2 Edit material properties]&#40;#392-edit-material-properties&#41;)
+
+[//]: # (    - [3.9.3 Import materials]&#40;#393-import-materials&#41;)
+
+[//]: # (    - [3.9.4 Pull materials from catalog]&#40;#394-pull-materials-from-catalog&#41;)
+
+[//]: # (    - [3.9.5 Delete materials]&#40;#395-delete-materials&#41;)
+
+[//]: # (    - [3.9.6 Export materials as templates]&#40;#396-export-materials-as-templates&#41;)
+
+[//]: # (    - [3.9.7 Export page quantity report to excel]&#40;#397-export-page-quantity-report-to-excel&#41;)
+
+[//]: # (    - [3.9.8 Assign materials to shapes]&#40;#398-assign-materials-to-shapes&#41;)
+
+[//]: # (    - [3.9.9 Remove shapes from materials]&#40;#399-remove-shapes-from-material&#41;)
+
+[//]: # (    - [3.9.10 Ubsubscribe shapes to no material]&#40;#3910-unsubscribe-shapes-to-no-material&#41;)
+
+[//]: # (    - [3.9.11 List page quantity report]&#40;#3911-List-page-quantity-report&#41;)
+
+[//]: # (    - [3.9.12 Select shapes by materials]&#40;#3912-select-shapes-by-materials&#41;)
+
+[//]: # (    - [3.9.13 Sort materials]&#40;#3913-sort-materials&#41;)
+
+[//]: # (    - [3.9.14 Filter materials]&#40;#3914-filter-materials&#41;)
 
 [//]: # (    - [3.10 Drawboard menu]&#40;#310-drawboard-menu&#41;)
 
@@ -107,17 +179,27 @@
 
 [//]: # (    - [3.10.15 Delete shapes]&#40;#31015-Delete-shapes&#41;)
 
-4. [Catalogs](#4-catalogs) 
-    - [4.1 Overview about catalogs](#41-overview-of-catalogs)
-    - [4.2 Add a catalog entry](#42-add-a-catalog-entry)
-    - [4.3 Build a catalog](#43-build-a-catalog)
-    - [4.3.1 Add catalog root](#431-add-catalog-root)
-    - [4.3.2 Add catalog group items](#432-add-catalog-group-items)
-    - [4.3.3 Add catalog material items](#433-add-catalog-material-items)
-    - [4.3.4 Edit catalog items](#434-edit-catalog-items)
-    - [4.3.5 Delete catalog items](#435-delete-catalog-items)
-    - [4.4 Import catalogs](#43-import-catalogs)
-    - [4.5 Export catalogs](#44-export-catalogs)
+[//]: # (4. [Catalogs]&#40;#4-catalogs&#41; )
+
+[//]: # (    - [4.1 Overview about catalogs]&#40;#41-overview-of-catalogs&#41;)
+
+[//]: # (    - [4.2 Add a catalog entry]&#40;#42-add-a-catalog-entry&#41;)
+
+[//]: # (    - [4.3 Build a catalog]&#40;#43-build-a-catalog&#41;)
+
+[//]: # (    - [4.3.1 Add catalog root]&#40;#431-add-catalog-root&#41;)
+
+[//]: # (    - [4.3.2 Add catalog group items]&#40;#432-add-catalog-group-items&#41;)
+
+[//]: # (    - [4.3.3 Add catalog material items]&#40;#433-add-catalog-material-items&#41;)
+
+[//]: # (    - [4.3.4 Edit catalog items]&#40;#434-edit-catalog-items&#41;)
+
+[//]: # (    - [4.3.5 Delete catalog items]&#40;#435-delete-catalog-items&#41;)
+
+[//]: # (    - [4.4 Import catalogs]&#40;#43-import-catalogs&#41;)
+
+[//]: # (    - [4.5 Export catalogs]&#40;#44-export-catalogs&#41;)
 
 ## 1. BlueGrid Projects
 
