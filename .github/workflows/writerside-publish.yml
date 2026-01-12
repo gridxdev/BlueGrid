@@ -22,13 +22,13 @@ jobs:
         uses: JetBrains/writerside-github-action@v4
         with:
           instance: writerside/bluegrid
-          build-profile: b
+          build-profile: bluegrid
           artifact: site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build/site
+          path: site
 
   deploy:
     needs: build
