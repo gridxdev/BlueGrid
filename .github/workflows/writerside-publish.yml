@@ -2,8 +2,7 @@ name: Build & Publish Writerside Docs
 
 on:
   pull_request:
-    branches:
-      - main
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -16,27 +15,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up JDK
-        uses: actions/setup-java@v4
-        with:
-          distribution: temurin
-          java-version: 17
-
-      - name: Download Writerside CLI
-        run: |
-          curl -L -o writerside.zip https://github.com/JetBrains/writerside/releases/latest/download/writerside-cli.zip
-          unzip writerside.zip -d writerside-cli
-
       - name: Build Writerside docs
-        run: |
-          ./writerside-cli/bin/writerside build \
-            --source ./writerside \
-            --output ./site
+        uses: JetBrains/writerside-github-action@v4
+        with:
+          instance: writerside
+          artifact: site
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
@@ -44,7 +32,6 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
