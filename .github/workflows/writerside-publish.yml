@@ -21,7 +21,8 @@ jobs:
       - name: Build Writerside docs
         uses: JetBrains/writerside-github-action@v4
         with:
-          instance: writerside
+          instance: writerside/bluegrid
+          build-profile: b
           artifact: site
 
       - name: Upload Pages artifact
