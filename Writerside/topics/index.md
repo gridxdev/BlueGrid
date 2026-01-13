@@ -337,7 +337,13 @@ In Bluegrid, each page has properties such as name, scale, and unit that can be 
 
 
 ## 3. Draw / Takeoff
-### 3.1 Set page scale with scale tool
+### 3.1 Open PDF in Draw view
+1. Select the page you want to open in Document view.
+2. Double-click the page or right-click to open context menu and choose Open in Draw View.
+3. Click Open
+![Open PDF in Draw view](open-page.png){ width=640 }
+
+### 3.2 Set page scale with scale tool
 In Bluegrid, setting the correct scale for your drawing is crucial for accurate measurements and takeoffs. The Scale Tool allows you to define the scale of your drawing by specifying a known distance on the page. To set the page scale using the Scale Tool, follow these steps:
 1. In  the  Draw view select the Scale Tool from the toolbar.
 2. Click on the starting point of the known distance on the drawing.
@@ -348,7 +354,7 @@ In Bluegrid, setting the correct scale for your drawing is crucial for accurate 
 
 ![Set page scale with Scale Tool](scale-tool.png){ width=640 }
 
-### 3.2 Measure distances with dim tool
+### 3.3 Measure distances with dim tool
 The Dim Tool in Bluegrid allows you to measure distances directly on your drawing. This tool is useful for verifying dimensions and ensuring accuracy in your takeoffs. To have correct distance measurement, page scale should be set in advance.
 To measure distances using the Dim Tool, follow these steps:
 1. In the Draw view, select the Dim Tool from the toolbar.
@@ -359,9 +365,9 @@ To measure distances using the Dim Tool, follow these steps:
 
 ![Measure distances with Dim Tool](dim-tool.png){ width=640 }
 
-### 3.3 Pan / Select tool
+### 3.4 Pan / Select tool
 
-#### 3.3.1 Pan tool
+#### 3.4.1 Pan tool
 The Pan Tool allows you to navigate around your drawing by clicking and dragging the view. To use the Pan Tool, follow these steps:
 1. In the Draw view, select the Pan Tool from the toolbar.
 2. Click and hold the left mouse button on the drawing area.
@@ -371,14 +377,14 @@ The Pan Tool allows you to navigate around your drawing by clicking and dragging
 
 ![Pan tool](pan-tool.png){ width=640 }
 
-#### 3.3.2 Select tool
+#### 3.4.2 Select tool
 The Select Tool allows you to select shapes and objects on your drawing for editing or manipulation. To use the Select Tool, follow these steps:
-##### 3.3.2.1 Select single shape
+##### 3.4.2.1 Select single shape
 1. In the Draw view, select the Select Tool from the toolbar.
 2. Click on a shape or object to select it. To select multiple shapes, hold down the Control key while clicking on each shape.
 3. Once selected, you can move, resize, or modify the shapes as needed.
 
-##### 3.3.2.2 Select multiple shapes
+##### 3.4.2.2 Select multiple shapes
 1. In the Draw view, select the Select Tool from the toolbar.
 2. Click and hold the left mouse button on an empty area of the drawing.
 3. Drag the mouse to create a selection rectangle that encompasses the shapes you want to select.
@@ -387,13 +393,13 @@ The Select Tool allows you to select shapes and objects on your drawing for edit
 
 ![Select tool](select-tool.png){ width=640 }
 
-##### 3.3.3 Select PDF-Shape tool
+##### 3.4.3 Select PDF-Shape tool
 The Select PDF-Shape Tool allows you to select and manipulate shapes that are part of the original PDF content. To use the Select PDF-Shape Tool, follow these steps:
 1. In the Draw view, select the Select PDF-Shape Tool from the toolbar.
 2. Press and hold the left mouse button and drag to create a selection rectangle around the PDF shapes you want to select.
 3. Release the mouse button to complete the selection. All PDF shapes within the rectangle will be selected.
 
-### 3.4 Shape tools
+### 3.5 Shape tools
 Bluegrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
 <p>Shape tool</p>
 
