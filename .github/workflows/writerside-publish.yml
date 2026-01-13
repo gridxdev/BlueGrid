@@ -22,7 +22,7 @@ jobs:
         uses: JetBrains/writerside-github-action@v4
         with:
           location: .
-          instance: writerside
+          instance: writerside/bluegrid
           artifact: site
 
       - name: Upload Pages artifact
