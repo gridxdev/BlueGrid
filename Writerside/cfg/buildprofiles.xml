@@ -4,15 +4,20 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-
-        <download-title>Visit Bluegrid</download-title>
+        <download-title>Bluegrid</download-title>
         <download-page>https://bluegridhq.com</download-page>
         <showDownloadButton>true</showDownloadButton>
     </variables>
     <build-profile instance="bluegrid">
         <variables>
             <noindex-content>true</noindex-content>
+            <primary-color>#3f74ae</primary-color>
+            <color-preset>contrast</color-preset>
+            <custom-favicons>logo.svg</custom-favicons>
+            <header-logo>logo.svg</header-logo>
+
         </variables>
+
     </build-profile>
 
 </buildprofiles>

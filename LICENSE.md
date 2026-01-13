@@ -1,6 +1,6 @@
-## BlueGrid End-User License Agreement
+## Bluegrid End-User License Agreement
 
-This End-User License Agreement (EULA) is a legal agreement between you (Licensee) and BlueGrid Ltd. (Developer) for the BlueGrid software, which includes computer software and may include associated media, printed materials, and “online” or electronic documentation (Software).
+This End-User License Agreement (EULA) is a legal agreement between you (Licensee) and Bluegrid Ltd. (Developer) for the BlueGrid software, which includes computer software and may include associated media, printed materials, and “online” or electronic documentation (Software).
 
 By installing, copying, storing, or otherwise using the Software, you agree to be bound by the terms of this EULA.
 

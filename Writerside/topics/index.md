@@ -1,10 +1,10 @@
-# BlueGrid Manual
+# Bluegrid Manual
 
-## 1. BlueGrid Projects
+## 1. Bluegrid Projects
 
 ### 1.1 Creating a Project
-In BlueGrid, before executing a take-off project, you need to create or open a project.
-Follow these steps to create a new project in BlueGrid:
+In Bluegrid, before executing a take-off project, you need to create or open a project.
+Follow these steps to create a new project in Bluegrid:
 
 1. Open the Starter Window.
 2. Click **New**.
@@ -40,7 +40,7 @@ You can open an existing project using one of the following methods:
 ### 2.1 Folders:
 **Using the Folder Menu or Context Menu by right-clicking within the folder view.**
 #### 2.1.1 Creating a New Folder
-In BlueGrid, PDF pages are organized into folders. A folder may contain sub-folders. You can create a new folder using the following methods:
+In Bluegrid, PDF pages are organized into folders. A folder may contain sub-folders. You can create a new folder using the following methods:
 
 1. Click the Folder menu or right-click within the folder view to open the context menu.
 2. Select New.
@@ -78,7 +78,7 @@ You can delete a folder using either of the following methods:
 ![Delete a folder](delete-folder.png){ width=640 }
 
 #### 2.1.4 Moving a Folder to another Folder
-In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to a different parent folder:
+In Bluegrid, every folder may contain sub-folders or Pages. To move a folder to a different parent folder:
 1. Select and hold the folder you want to move.
 2. Drag the folder to the desired parent folder in the folder view.
 3. Release the mouse button to complete the move.
@@ -98,7 +98,7 @@ You can sort folders using either the Folder Menu or the Context Menu.
 ![Sort folders](sort-folders.png){ width=640 }
 
 #### 2.1.6 Filter Folders
-In BlueGrid, you can filter folders by typing the filtering text into folder filter field.
+In Bluegrid, you can filter folders by typing the filtering text into folder filter field.
 
 ![Filter folders](filter-folders.png){ width=640 }
 
@@ -114,10 +114,10 @@ Clear the filter text to show all folders again.
 ![Open a page](open-page.png){ width=640 }
 
 [//]: # (##### Notes:)
-By default, BlueGrid opens the latest version of a page. If you want to open a specific version, please refer to section 2.2.3 Open Version.
+By default, Bluegrid opens the latest version of a page. If you want to open a specific version, please refer to section 2.2.3 Open Version.
 
 #### 2.2.2 Open with
-BlueGrid allows users to open a page with different applications.
+Bluegrid allows users to open a page with different applications.
 1. Select the page you want to open with a different application.
 2. Right-click to open context menu, hover mouse to Open With. If the application you want to use is listed, click on it to open the page with that application. Otherwise, click Find to navigate the application...
 3. In the Open With dialog, select the desired application from the list or browse to find a specific application.
@@ -131,7 +131,7 @@ BlueGrid allows users to open a page with different applications.
 The applications users used to open pages will be saved in the Open With list for future use.
 
 #### 2.2.3 Open version
-<p>In BlueGrid, each page can have multiple versions, each version is a PDF page or image. By default, BlueGrid opens the latest version of a page. However, users can choose to open a specific version of a page by following these steps:</p>
+<p>In Bluegrid, each page can have multiple versions, each version is a PDF page or image. By default, Bluegrid opens the latest version of a page. However, users can choose to open a specific version of a page by following these steps:</p>
 
 1. Select the page you want to open a specific version of.
 2. Use the Page Menu or Right-click to open context menu and choose Open Version.
@@ -143,7 +143,7 @@ The applications users used to open pages will be saved in the Open With list fo
 ![Open version](open-version.png){ width=640 }
 
 #### 2.2.4 Add PDF pages to a folder
-BlueGrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu, or context menu or drag-and-drop feature.
+Bluegrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu, or context menu or drag-and-drop feature.
 
 Method 1: Using the Page Menu / context menu
 1. Select the folder you want to import PDF pages into.
@@ -194,7 +194,7 @@ Method 2: Using Drag and Drop
 ![Duplicate a page](duplicate-page.png){ width=640 }
 
 #### 2.2.7 Add versions to a page
-In BlueGrid, you can add multiple versions to a page. Each version is a separate PDF page or image associated with the main page. To add a new version to an existing page, follow these steps:
+In Bluegrid, you can add multiple versions to a page. Each version is a separate PDF page or image associated with the main page. To add a new version to an existing page, follow these steps:
 1. Select the page you want to add a version to.
 2. Open the Page menu or right-click to open context menu
 3. Choose Add Version.
@@ -219,7 +219,7 @@ In BlueGrid, you can add multiple versions to a page. Each version is a separate
 ![Rotate a page](rotate-pages.png){ width=640 }
 
 #### 2.2.9 Export pages
-In BlueGrid, you can export one or more pages as PDF files, the exported pages will contain all user-added shapes, markups, text, annotation... To export pages, follow these steps:
+In Bluegrid, you can export one or more pages as PDF files, the exported pages will contain all user-added shapes, markups, text, annotation... To export pages, follow these steps:
 1. Select the page or pages you want to export.
 2. Open the Page menu or right-click to open context menu
 3. Choose Export PDFs.
@@ -239,7 +239,7 @@ In BlueGrid, you can export one or more pages as PDF files, the exported pages w
 ![Delete pages](delete-page.png){ width=640 }
 
 #### 2.2.11 Delete versions
-In BlueGrid, by doing delete version, you can remove the last PDF version of a page while keeping the main page intact.
+In Bluegrid, by doing delete version, you can remove the last PDF version of a page while keeping the main page intact.
 1. Select the page whose version you want to delete.
 2. Open the Page menu or right-click to open context menu    
 3. Choose Delete Version
@@ -256,7 +256,7 @@ In BlueGrid, by doing delete version, you can remove the last PDF version of a p
 ![Change thumbnail size](change-thumbnail-size.png){ width=640 }
 
 #### 2.2.13 Sort pages
-In BlueGrid, you can sort pages either by index or by name.
+In Bluegrid, you can sort pages either by index or by name.
 1. Open the Page menu or right-click to open context menu
 2. Choose Sort, then select either By Index or By Name. Sort again to reverse sorting.
 <p>Sort pages</p>
@@ -303,7 +303,7 @@ To set the unit for multiple pages at once:
 ![Move a page to another folder](move-page-to-folder.png){ width=640 }
 
 #### 2.2.19 Edit page properties
-In BlueGrid, each page has properties such as name, scale, and unit that can be modified. To edit the properties of a page.
+In Bluegrid, each page has properties such as name, scale, and unit that can be modified. To edit the properties of a page.
 
 ##### 2.2.19.1 Set page name
 1. Select the page you want to edit properties for.
@@ -338,7 +338,7 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 
 ## 3. Draw / Takeoff
 ### 3.1 Set page scale with scale tool
-In BlueGrid, setting the correct scale for your drawing is crucial for accurate measurements and takeoffs. The Scale Tool allows you to define the scale of your drawing by specifying a known distance on the page. To set the page scale using the Scale Tool, follow these steps:
+In Bluegrid, setting the correct scale for your drawing is crucial for accurate measurements and takeoffs. The Scale Tool allows you to define the scale of your drawing by specifying a known distance on the page. To set the page scale using the Scale Tool, follow these steps:
 1. In  the  Draw view select the Scale Tool from the toolbar.
 2. Click on the starting point of the known distance on the drawing.
 3. Move the cursor to the endpoint of the known distance and click again.
@@ -349,7 +349,7 @@ In BlueGrid, setting the correct scale for your drawing is crucial for accurate 
 ![Set page scale with Scale Tool](scale-tool.png){ width=640 }
 
 ### 3.2 Measure distances with dim tool
-The Dim Tool in BlueGrid allows you to measure distances directly on your drawing. This tool is useful for verifying dimensions and ensuring accuracy in your takeoffs. To have correct distance measurement, page scale should be set in advance.
+The Dim Tool in Bluegrid allows you to measure distances directly on your drawing. This tool is useful for verifying dimensions and ensuring accuracy in your takeoffs. To have correct distance measurement, page scale should be set in advance.
 To measure distances using the Dim Tool, follow these steps:
 1. In the Draw view, select the Dim Tool from the toolbar.
 2. Click on the starting point of the distance you want to measure.
@@ -394,7 +394,7 @@ The Select PDF-Shape Tool allows you to select and manipulate shapes that are pa
 3. Release the mouse button to complete the selection. All PDF shapes within the rectangle will be selected.
 
 ### 3.4 Shape tools
-BlueGrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
+Bluegrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
 <p>Shape tool</p>
 
 ![Shape tools](shape-tool.png){ width=640 }
@@ -455,10 +455,10 @@ The Path Tool allows you to create freeform shapes by drawing curves and lines. 
 ![Create path shape](path-shape.png){ width=640 }
 
 #### 3.4.6 Other shape tools
-In addition to the Rectangle, Line, Polyline, Polygon, and Path tools, BlueGrid also offers other shape tools such as Ellipse, Circle, Arc, and more. These tools can be accessed from the shape tools dropdown menu in the toolbar.
+In addition to the Rectangle, Line, Polyline, Polygon, and Path tools, Bluegrid also offers other shape tools such as Ellipse, Circle, Arc, and more. These tools can be accessed from the shape tools dropdown menu in the toolbar.
 
 ### 3.5 Annotation tools
-BlueGrid provides a variety of annotation tools that allow you to add text, highlights, clouds, arrows, and callouts to your PDF pages. These annotations can be used to provide additional information, highlight important areas, and communicate with team members. Below are the descriptions of each annotation tool and how to use them.
+Bluegrid provides a variety of annotation tools that allow you to add text, highlights, clouds, arrows, and callouts to your PDF pages. These annotations can be used to provide additional information, highlight important areas, and communicate with team members. Below are the descriptions of each annotation tool and how to use them.
 
 #### 3.5.1 Text tool
 The Text Tool allows you to add plain text annotations to your drawing. To use the Text Tool, follow these steps:
@@ -523,7 +523,7 @@ The Callout Tool allows you to create callouts to highlight specific areas on yo
 ![Add callout annotation](callout-tool.png){ width=640 }
 
 ### 3.6 Count tools
-The Count Tool in BlueGrid allows you to count and mark items on your drawing. This tool is useful for quantifying items such as fixtures, equipment, or any other countable objects. When count blocks are subscribed to a material, count indices with automatically increase. To use the Count Tool, follow these steps:
+The Count Tool in Bluegrid allows you to count and mark items on your drawing. This tool is useful for quantifying items such as fixtures, equipment, or any other countable objects. When count blocks are subscribed to a material, count indices with automatically increase. To use the Count Tool, follow these steps:
 1. In the Draw view, select the Count Tool from the toolbar.
 2. Click on each item you want to count on the drawing.
 3. Each click will place a count marker with an incremented index number if the count block is associated with a material.
@@ -532,7 +532,7 @@ The Count Tool in BlueGrid allows you to count and mark items on your drawing. T
 ![Count tool](count-tool.png){ width=640 }
 
 ### 3.7 Stamps
-The Stamp Tool in BlueGrid allows you to add predefined stamp shapes to your drawing. Stamps can be used for various purposes, such as marking areas, indicating status, or adding symbols. To use the Stamp Tool, follow these steps:
+The Stamp Tool in Bluegrid allows you to add predefined stamp shapes to your drawing. Stamps can be used for various purposes, such as marking areas, indicating status, or adding symbols. To use the Stamp Tool, follow these steps:
 1. In the Draw view, select the Stamp Tool from the toolbar.
 2. Choose the desired stamp from the stamp library.
 3. Click on the drawing area where you want to place the stamp.
@@ -541,7 +541,7 @@ The Stamp Tool in BlueGrid allows you to add predefined stamp shapes to your dra
 ![Add stamp to drawing](stamp-tool.png){ width=640 }
 
 ### 3.8 Point snaps
-In BlueGrid, Point snaps are optional while drawing shapes to have precise points as well as to deliver the best accurate quantity take-offs. To access and modify the Snap Settings, follow these steps:
+In Bluegrid, Point snaps are optional while drawing shapes to have precise points as well as to deliver the best accurate quantity take-offs. To access and modify the Snap Settings, follow these steps:
 1. In the Draw view, locate the Snap Settings icon in the status bar at the bottom of the window.
 2. Click the Snap Settings icon to open the Snap Settings dialog.
 3. In the Snap Settings dialog, you can enable or disable various snap options such as Endpoint, Midpoint, Center, Intersection, Perpendicular,  and Nearest.
@@ -552,7 +552,7 @@ In BlueGrid, Point snaps are optional while drawing shapes to have precise point
 
 ### 3.9 Material table
 
-Materials feature allows you to manage and organize the materials used in a page. Materials can be created, edited, imported, exported, and assigned to shapes in your drawings. The quantity of each material is calculated based on the shapes it is assigned to. This section provides an overview of the various functionalities related to materials in BlueGrid.
+Materials feature allows you to manage and organize the materials used in a page. Materials can be created, edited, imported, exported, and assigned to shapes in your drawings. The quantity of each material is calculated based on the shapes it is assigned to. This section provides an overview of the various functionalities related to materials in Bluegrid.
 Material table is at page level, meaning each page has its own material list. Materials created in one page will not be available in other pages unless you pull or import them. To have consistent material list across multiple pages, you can create a material catalog and pull materials from the catalog into each page as needed.
 
 #### 3.9.1 Add a new material
@@ -576,7 +576,7 @@ To edit the properties of an existing material, follow these steps:
 ![Edit material](edit-material.png){ width=640 }
 
 #### 3.9.3 Import materials
-In BlueGrid, you can import materials from CSV files into your current project. To import materials, follow these steps:
+In Bluegrid, you can import materials from CSV files into your current project. To import materials, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
 3. Select Import Materials from CSV.
@@ -612,7 +612,7 @@ To delete an existing material from your current page, follow these steps:
 ![Delete material](delete-materials.png){ width=640 }
 
 #### 3.9.6 Export materials as templates
-In BlueGrid, you can export materials as templates for use in other pages or projects. To export materials, follow these steps:
+In Bluegrid, you can export materials as templates for use in other pages or projects. To export materials, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
 3. Select Export Materials to CSV.
@@ -623,7 +623,7 @@ In BlueGrid, you can export materials as templates for use in other pages or pro
 ![Export materials](export-materials.png){ width=640 }
 
 #### 3.9.7 Export page quantity report to excel
-In BlueGrid, you can export the quantity report of your materials to an Excel file for further analysis and documentation. To export the quantity report, follow these steps:
+In Bluegrid, you can export the quantity report of your materials to an Excel file for further analysis and documentation. To export the quantity report, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
 3. Select Export Quantity Report to Excel.
@@ -634,7 +634,7 @@ In BlueGrid, you can export the quantity report of your materials to an Excel fi
 ![Export quantity report to excel](export-quantity-report.png){ width=640 }
 
 #### 3.9.8 Assign materials to shapes
-In BlueGrid, shapes drawn on your PDF pages can be assigned to specific materials for accurate quantity takeoffs. By assigning a material to a shape, the shape's measurements will contribute to the total quantity of the associated material.
+In Bluegrid, shapes drawn on your PDF pages can be assigned to specific materials for accurate quantity takeoffs. By assigning a material to a shape, the shape's measurements will contribute to the total quantity of the associated material.
 To assign a material to a shape on your drawing, follow these steps:
 
 1. Open the Materials panel.
@@ -651,7 +651,7 @@ Besides drag-and-drop method, you can also assign a material to a shape by selec
 ![Assign material to shape](assign-material.png){ width=640 }
 
 #### 3.9.9 Remove shapes from materials
-In BlueGrid, you can unassign a material from a shape if you need to change the material assignment or if the shape no longer requires a material association. To unassign a material from a shape, follow these steps:
+In Bluegrid, you can unassign a material from a shape if you need to change the material assignment or if the shape no longer requires a material association. To unassign a material from a shape, follow these steps:
 1. Select the shape from which you want to unassign the material.
 2. Open the Materials panel.
 3. Open the Material Menu or right-click to open context menu.
@@ -661,7 +661,7 @@ In BlueGrid, you can unassign a material from a shape if you need to change the 
 ![Unassign material from shape](remove-shapes-from-material.png){ width=640 }
 
 #### 3.9.10  Unsubscribe shapes to no material
-In BlueGrid, you can unsubscribe shapes from any material, effectively removing their association with all materials. This is useful when you want to reset the material assignments for specific shapes. To unsubscribe shapes from all materials, follow these steps:
+In Bluegrid, you can unsubscribe shapes from any material, effectively removing their association with all materials. This is useful when you want to reset the material assignments for specific shapes. To unsubscribe shapes from all materials, follow these steps:
 1. Select the shapes you want to unsubscribe from materials.
 2. Open draw menu or right-click to open context menu.
 3. Select Dematerialize menu item.
@@ -670,7 +670,7 @@ In BlueGrid, you can unsubscribe shapes from any material, effectively removing 
 ![Unsubscribe shapes from all materials](dematerialize-shape.png){ width=640 }
 
 #### 3.9.11 List page quantity report
-In BlueGrid, you can view a detailed quantity report for the materials used on the current page on PDF.
+In Bluegrid, you can view a detailed quantity report for the materials used on the current page on PDF.
 To list the page quantity report, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -681,7 +681,7 @@ To list the page quantity report, follow these steps:
 ![List page quantity report](list-quantity-report.png){ width=640 }
 
 ### 3.9.12 Select shapes by material
-In BlueGrid, you can select all shapes that are assigned to a specific material. This feature is useful for quickly identifying and manipulating shapes associated with a particular material. To select shapes by material, follow these steps:
+In Bluegrid, you can select all shapes that are assigned to a specific material. This feature is useful for quickly identifying and manipulating shapes associated with a particular material. To select shapes by material, follow these steps:
 1. Open the Materials panel.
 2. Select the material whose associated shapes you want to select from the Materials table.
 3. Open the Material Menu or right-click to open context menu.
@@ -691,7 +691,7 @@ In BlueGrid, you can select all shapes that are assigned to a specific material.
 ![Select shapes by material](select-shapes-by-material.png){ width=640 }
 
 ### 3.9.13 Sort materials
-In BlueGrid, you can sort the materials in the Materials table either by clicking to a column header of the material table. Sorting materials helps you organize and find specific materials more easily. To sort materials, follow these steps:
+In Bluegrid, you can sort the materials in the Materials table either by clicking to a column header of the material table. Sorting materials helps you organize and find specific materials more easily. To sort materials, follow these steps:
 1. Open the Materials panel.
 2. Click to the column header you want to sort by, such as Name, Type, Quantity, Description, etc.
 4. Sort again to reverse sorting.
@@ -700,7 +700,7 @@ In BlueGrid, you can sort the materials in the Materials table either by clickin
 ![Sort materials](sort-materials.png){ width=640 }
 
 ### 3.9.14 Filter materials
-In BlueGrid, you can filter the materials in the Materials table to display only those that meet specific criteria. This feature helps you quickly find and manage materials based on your needs. To filter materials, follow these steps:
+In Bluegrid, you can filter the materials in the Materials table to display only those that meet specific criteria. This feature helps you quickly find and manage materials based on your needs. To filter materials, follow these steps:
 1. Open the Materials panel.
 2. Type the desired filter criteria into the filter box located at the top of the Materials table.
 3. The Materials table will automatically update to show only the materials that match the filter criteria.
@@ -709,16 +709,16 @@ In BlueGrid, you can filter the materials in the Materials table to display only
 ![Filter materials](filter-materials.png){ width=640 }
 
 ### 3.10 Drawboard menu
-In BlueGrid, the Drawboard Menu provides various options for managing and interacting with the drawing area. The Drawboard Menu can be accessed by right-clicking on the drawboard or by clicking on the menu icon in the toolbar. The available options in the Drawboard Menu include Undo, Redo, Cut, Copy, Paste, Delete, Group, Ungroup, Bring to Front, Send to Back, and more. These options allow you to perform common actions on shapes and annotations within the drawboard.
+In Bluegrid, the Drawboard Menu provides various options for managing and interacting with the drawing area. The Drawboard Menu can be accessed by right-clicking on the drawboard or by clicking on the menu icon in the toolbar. The available options in the Drawboard Menu include Undo, Redo, Cut, Copy, Paste, Delete, Group, Ungroup, Bring to Front, Send to Back, and more. These options allow you to perform common actions on shapes and annotations within the drawboard.
 <p>Drawboard menu</p>
 
 [//]: # (![Drawboard menu]&#40;drawboard-menu.png&#41;{ width=70% })
 
 ## 4. Catalogs
-In BlueGrid, a catalog is equivalent to a material library that contains a list of materials organized in a hierarchical tree structure. Catalogs allow you to maintain a consistent set of materials across multiple pages and projects. The Catalog Manager provides tools to create, edit, and manage these catalogs effectively.
+In Bluegrid, a catalog is equivalent to a material library that contains a list of materials organized in a hierarchical tree structure. Catalogs allow you to maintain a consistent set of materials across multiple pages and projects. The Catalog Manager provides tools to create, edit, and manage these catalogs effectively.
 ### 4.1 Overview of catalogs
 
-The Catalog Manager in BlueGrid allows you to create and manage material catalogs for use in the project. Material catalogs help you maintain a consistent list of materials across multiple pages of the project. To create a material catalog, follow these steps:
+The Catalog Manager in Bluegrid allows you to create and manage material catalogs for use in the project. Material catalogs help you maintain a consistent list of materials across multiple pages of the project. To create a material catalog, follow these steps:
 
 Catalog view has two main sections, the catalog header list in the left and the catalog tree table view is in the right. Each catalog in the catalog header list associates to a catalog tree.
 
@@ -789,7 +789,7 @@ To delete an existing catalog item (category or material), follow these steps:
 
 ### 4.4 Import catalogs
 
-In BlueGrid, you can import material catalogs from external files into your current project. To import a catalog, follow these steps:
+In Bluegrid, you can import material catalogs from external files into your current project. To import a catalog, follow these steps:
 1. Open the Catalog Manager from the main menu.
 2. In the catalog header list, open catalog menu or right-click to open context menu.
 3. Choose Import Catalog.
@@ -800,7 +800,7 @@ In BlueGrid, you can import material catalogs from external files into your curr
 ![Import catalog](import-catalog.png){ width=640 }
 
 ### 4.5 Export catalogs
-In BlueGrid, you can export material catalogs to external files for backup, sharing purposes or using across projects. To export a catalog, follow these steps:
+In Bluegrid, you can export material catalogs to external files for backup, sharing purposes or using across projects. To export a catalog, follow these steps:
 1. Open the Catalog Manager from the main menu.
 2. In the catalog header list, select the catalog you want to export.
 3. Open catalog menu or right-click to open context menu.
