@@ -35,7 +35,6 @@ You can open an existing project using one of the following methods:
 
 ![Open a recent project](open-recent.png){ width=640 }
 
-
 ## 2. Document Management
 
 ### 2.1 Folders:
