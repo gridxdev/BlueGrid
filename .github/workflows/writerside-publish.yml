@@ -25,10 +25,18 @@ jobs:
           instance: writerside/bluegrid
           artifact: site
 
+      # --- ADDED STEP START ---
+      - name: Unzip artifact
+        # We unzip the specific webHelp zip file into a folder named 'site'
+        # We use a wildcard (webHelp*.zip) to ensure it catches the file even if version numbers change,
+        # but avoids the 'algolia-indexes' zip seen in your screenshot.
+        run: unzip -O UTF-8 webHelp*.zip -d site
+      # --- ADDED STEP END ---
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: site # Now this folder exists because we just created it!
 
   deploy:
     needs: build
