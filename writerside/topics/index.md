@@ -17,10 +17,10 @@ Follow these steps to create a new project in BlueGrid:
 
 <p><strong>Create a new project</strong></p>
 
-![Create a new project](create-project.png){ width=70% }
+![Create a new project](create-project.png){  width="640" }
 <p>Select project type</p>
 
-![Select project type](select-project-type.png){ width=70% }
+![Select project type](select-project-type.png){ width="640"  }
 
 ### 1.2 Opening a Project
 You can open an existing project using one of the following methods:
@@ -28,12 +28,12 @@ You can open an existing project using one of the following methods:
 - Click **Open** and browse to your project file and then click Open in the file dialog.
 <p>Open an existing project</p>
 
-![Open an existing project](open-browse.png){ width=70% }
+![Open an existing project](open-browse.png){ width=640 }
 
 - Double-click on the project from the **Recent Projects** list.
 <p>Open a recent project</p>
 
-![Open a recent project](open-recent.png){ width=70% }
+![Open a recent project](open-recent.png){ width=640 }
 
 
 ## 2. Document Management
@@ -51,10 +51,10 @@ In BlueGrid, PDF pages are organized into folders. A folder may contain sub-fold
 ##### Notes: In a folder, folder names must be unique.
 
 <p>Adding new a folder</p>
-![Create a new folder](create-new-folder.png){ width=70% }
+![Create a new folder](create-new-folder.png){ width=640 }
 
 <p><strong>Enter folder name</strong></p>
-![Enter folder name](enter-folder-name.png){ width=70% }
+![Enter folder name](enter-folder-name.png){ width=640 }
 
 
 #### 2.1.2 Renaming a folder
@@ -66,7 +66,7 @@ You can rename an existing folder using either of the following methods:
 4. Press Enter to confirm.
 <p>Rename a folder</p>
 
-![Rename a folder](rename-folder.png){ width=70% }
+![Rename a folder](rename-folder.png){ width=640 }
 
 #### 2.1.3 Deleting a Folder
 You can delete a folder using either of the following methods:
@@ -76,7 +76,7 @@ You can delete a folder using either of the following methods:
 3. Confirm the action when prompted.
 <p>Delete a folder</p>
 
-![Delete a folder](delete-folder.png){ width=70% }
+![Delete a folder](delete-folder.png){ width=640 }
 
 #### 2.1.4 Moving a Folder to another Folder
 In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to a different parent folder:
@@ -87,7 +87,7 @@ In BlueGrid, every folder may contain sub-folders or Pages. To move a folder to 
 <p>In the demo below, Folder-4 is moved to Folder-3</p>
 <p>Move a folder to another</p>
 
-![Move a folder to another folder](move-folder.png){ width=70% }
+![Move a folder to another folder](move-folder.png){ width=640 }
 
 #### 2.1.5 Sorting Folders
 You can sort folders using either the Folder Menu or the Context Menu.
@@ -96,14 +96,14 @@ You can sort folders using either the Folder Menu or the Context Menu.
 <p>Sort again to reverse sorting</p>
 <p>Sort folders</p>
 
-![Sort folders](sort-folders.png){ width=70% }
+![Sort folders](sort-folders.png){ width=640 }
 
 #### 2.1.6 Filter Folders
 In BlueGrid, you can filter folders by typing the filtering text into folder filter field.
 
-![Filter folders](filter-folders.png){ width=70% }
+![Filter folders](filter-folders.png){ width=640 }
 
-##### Notes
+##### Clear Notes
 Clear the filter text to show all folders again.
 
 ### 2.2 Pages:
@@ -112,9 +112,9 @@ Clear the filter text to show all folders again.
 2. Double-click the page or right-click to open context menu and choose Open.
 <p>Open a page</p>
 
-![Open a page](open-page.png){ width=70% }
+![Open a page](open-page.png){ width=640 }
 
-##### Notes:
+[//]: # (##### Notes:)
 By default, BlueGrid opens the latest version of a page. If you want to open a specific version, please refer to section 2.2.3 Open Version.
 
 #### 2.2.2 Open with
@@ -126,9 +126,9 @@ BlueGrid allows users to open a page with different applications.
 
 <p>Open with external programs</p>
 
-![Open PDF with external programs](open-with.png){ width=70% }
+![Open PDF with external programs](open-with.png){ width=640 }
 
-##### Notes:
+[//]: # (##### Notes:)
 The applications users used to open pages will be saved in the Open With list for future use.
 
 #### 2.2.3 Open version
@@ -141,7 +141,7 @@ The applications users used to open pages will be saved in the Open With list fo
 
 <p>Open version</p>
 
-![Open version](open-version.png){ width=70% }
+![Open version](open-version.png){ width=640 }
 
 #### 2.2.4 Add PDF pages to a folder
 BlueGrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu, or context menu or drag-and-drop feature.
@@ -155,7 +155,7 @@ Method 1: Using the Page Menu / context menu
 
 <p>Add PDF pages to a folder</p>
 
-![Add PDF pages to a folder](add-pdf.png){ width=70% }
+![Add PDF pages to a folder](add-pdf.png){ width=640 }
 
 Method 2: Using Drag and Drop
 1. Select the folder you want to import PDF pages into.
@@ -164,11 +164,11 @@ Method 2: Using Drag and Drop
 4. Click Yes or No to either split the files into pages or keep them as they are.
 <p>Drop files to add PDFs to a folder</p>
 
-![Drag and Drop PDF pages to a folder](drag-drop-pdf.png){ width=70% }
+![Drag and Drop PDF pages to a folder](drag-drop-pdf.png){ width=640 }
 
 <p>Confirm splitting PDFs</p>
 
-![Confirm splitting PDF files into pages](confirm-split-pdf.png){ width=70% }
+![Confirm splitting PDF files into pages](confirm-split-pdf.png){ width=640 }
 
 #### 2.2.5 Replace page
 1. Select the page you want to replace.
@@ -179,11 +179,11 @@ Method 2: Using Drag and Drop
 6. Click OK to confirm the replacement.
 <p>Replace a page</p>
 
-![Replace a page](replace-page.png){ width=70% }
+![Replace a page](replace-page.png){ width=640 }
 
 <p>Select page to replace with</p>
 
-![Select page to replace with](select-replace-page.png){ width=70% }
+![Select page to replace with](select-replace-page.png){ width=640 }
 
 #### 2.2.6 Duplicate a page
 1. Select the page you want to duplicate.
@@ -192,7 +192,7 @@ Method 2: Using Drag and Drop
 4. A copy of the selected page will be created in the same folder.
 <p>Duplicate a page</p>
 
-![Duplicate a page](duplicate-page.png){ width=70% }
+![Duplicate a page](duplicate-page.png){ width=640 }
 
 #### 2.2.7 Add versions to a page
 In BlueGrid, you can add multiple versions to a page. Each version is a separate PDF page or image associated with the main page. To add a new version to an existing page, follow these steps:
@@ -204,10 +204,10 @@ In BlueGrid, you can add multiple versions to a page. Each version is a separate
 
 <p>Add version to a page</p>
 
-![Add version to a page](add-version.png){ width=70% }
+![Add version to a page](add-version.png){ width=640 }
 
 <p>Select the page as the new  version</p>
-![Select the page as the new version](select-version-page.png){ width=70% }
+![Select the page as the new version](select-version-page.png){ width=640 }
 
 #### 2.2.8 Rotate pages
 1. Select the page or pages you want to rotate.
@@ -217,7 +217,7 @@ In BlueGrid, you can add multiple versions to a page. Each version is a separate
 5. The selected page(s) will be rotated accordingly.
 <p>Rotate a page</p>
 
-![Rotate a page](rotate-pages.png){ width=70% }
+![Rotate a page](rotate-pages.png){ width=640 }
 
 #### 2.2.9 Export pages
 In BlueGrid, you can export one or more pages as PDF files, the exported pages will contain all user-added shapes, markups, text, annotation... To export pages, follow these steps:
@@ -228,7 +228,7 @@ In BlueGrid, you can export one or more pages as PDF files, the exported pages w
 5. Click OK to begin the export process.
 <p>Export pages</p>
 
-![Export pages](export-pages.png){ width=70% }
+![Export pages](export-pages.png){ width=640 }
 
 #### 2.2.10 Delete pages
 1. Select the pages you want to delete.
@@ -237,7 +237,7 @@ In BlueGrid, you can export one or more pages as PDF files, the exported pages w
 4. Confirm the action when prompted.
 <p>Delete pages</p>
 
-![Delete pages](delete-page.png){ width=70% }
+![Delete pages](delete-page.png){ width=640 }
 
 #### 2.2.11 Delete versions
 In BlueGrid, by doing delete version, you can remove the last PDF version of a page while keeping the main page intact.
@@ -246,7 +246,7 @@ In BlueGrid, by doing delete version, you can remove the last PDF version of a p
 3. Choose Delete Version
 <p>Delete page version</p>
 
-![Delete page version](delete-version.png){ width=70% }
+![Delete page version](delete-version.png){ width=640 }
 
 #### 2.2.12 Change thumbnail size
 1. Open the Page menu or right-click to open context menu
@@ -254,7 +254,7 @@ In BlueGrid, by doing delete version, you can remove the last PDF version of a p
 3. Select the desired thumbnail size from the available options (Small, Medium, Large).
 <p>Change thumbnail size</p>
 
-![Change thumbnail size](change-thumbnail-size.png){ width=70% }
+![Change thumbnail size](change-thumbnail-size.png){ width=640 }
 
 #### 2.2.13 Sort pages
 In BlueGrid, you can sort pages either by index or by name.
@@ -262,7 +262,7 @@ In BlueGrid, you can sort pages either by index or by name.
 2. Choose Sort, then select either By Index or By Name. Sort again to reverse sorting.
 <p>Sort pages</p>
 
-![Sort pages](sort-pages.png){ width=70% }
+![Sort pages](sort-pages.png){ width=640 }
 
 #### 2.2.14 Select all pages
 1. Open the Page menu or right-click to open context menu
@@ -276,7 +276,7 @@ In BlueGrid, you can sort pages either by index or by name.
 5. Click OK to apply the new names to the selected pages.
 <p>Batch rename pages</p>
 
-![Batch rename pages](batch-rename-pages.png){ width=70% }
+![Batch rename pages](batch-rename-pages.png){ width=640 }
 
 #### 2.2.16 Batch set unit
 To set the unit for multiple pages at once:
@@ -287,7 +287,7 @@ To set the unit for multiple pages at once:
 5. Click OK to apply the selected unit to the chosen pages.
 <p>Set unit to multiple pages</p>
 
-![Set unit to multiple pages](batch-set-unit.png){ width=70% }
+![Set unit to multiple pages](batch-set-unit.png){ width=640 }
 
 #### 2.2.17 Re-index pages
 1. Select the pages you want to re-index.
@@ -301,7 +301,7 @@ To set the unit for multiple pages at once:
 
 <p>Move a page to another folder</p>
 
-![Move a page to another folder](move-page-to-folder.png){ width=70% }
+![Move a page to another folder](move-page-to-folder.png){ width=640 }
 
 #### 2.2.19 Edit page properties
 In BlueGrid, each page has properties such as name, scale, and unit that can be modified. To edit the properties of a page.
@@ -314,7 +314,7 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 5. Click Apply to confirm the change.
 <p>Change page name</p>
 
-![Set page name](edit-page-name.png){ width=70% }
+![Set page name](edit-page-name.png){ width=640 }
 
 ##### 2.2.19.2 Set page scale
 1. Select the page you want to edit properties for.
@@ -323,7 +323,7 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 4. In the Properties dialog, enter the new scale value in the appropriate field.
 5. Click Apply to confirm the change.
 <p>Change page scale</p>  
-![Set page scale](edit-page-scale.png){ width=70% }
+![Set page scale](edit-page-scale.png){ width=640 }
 
 
 ##### 2.2.19.3 Set page unit
@@ -334,7 +334,7 @@ In BlueGrid, each page has properties such as name, scale, and unit that can be 
 5. Click OK to confirm the change.
 <p>Change page unit</p>
 
-![Set page unit](edit-page-unit.png){ width=70% }
+![Set page unit](edit-page-unit.png){ width=640 }
 
 
 ## 3. Draw / Takeoff
@@ -347,7 +347,7 @@ In BlueGrid, setting the correct scale for your drawing is crucial for accurate 
 5. Click Apply to apply the scale to the page.
 <p>Set page scale with Scale Tool</p>
 
-![Set page scale with Scale Tool](scale-tool.png){ width=70% }
+![Set page scale with Scale Tool](scale-tool.png){ width=640 }
 
 ### 3.2 Measure distances with dim tool
 The Dim Tool in BlueGrid allows you to measure distances directly on your drawing. This tool is useful for verifying dimensions and ensuring accuracy in your takeoffs. To have correct distance measurement, page scale should be set in advance.
@@ -358,7 +358,7 @@ To measure distances using the Dim Tool, follow these steps:
 4. The measured distance will be displayed on the drawing.
 <p>Measure distances with Dim Tool</p>
 
-![Measure distances with Dim Tool](dim-tool.png){ width=70% }
+![Measure distances with Dim Tool](dim-tool.png){ width=640 }
 
 ### 3.3 Pan / Select tool
 
@@ -370,7 +370,7 @@ The Pan Tool allows you to navigate around your drawing by clicking and dragging
 4. Release the mouse button to stop panning.
 <p>Pan tool</p>
 
-![Pan tool](pan-tool.png){ width=70% }
+![Pan tool](pan-tool.png){ width=640 }
 
 #### 3.3.2 Select tool
 The Select Tool allows you to select shapes and objects on your drawing for editing or manipulation. To use the Select Tool, follow these steps:
@@ -386,7 +386,7 @@ The Select Tool allows you to select shapes and objects on your drawing for edit
 4. Release the mouse button to complete the selection. All shapes within the rectangle will be selected.
 <p>Select multiple shapes with Select tool</p>
 
-![Select tool](select-tool.png){ width=70% }
+![Select tool](select-tool.png){ width=640 }
 
 ##### 3.3.3 Select PDF-Shape tool
 The Select PDF-Shape Tool allows you to select and manipulate shapes that are part of the original PDF content. To use the Select PDF-Shape Tool, follow these steps:
@@ -398,7 +398,7 @@ The Select PDF-Shape Tool allows you to select and manipulate shapes that are pa
 BlueGrid provides a variety of shape tools that allow you to create different geometric shapes on your PDF page. These shapes can be used for takeoffs, annotations, and other purposes. The available shape tools include Rectangle, Line, Polyline, Polygon, Path, and more. Below are the descriptions of each shape tool and how to use them.
 <p>Shape tool</p>
 
-![Shape tools](shape-tool.png){ width=70% }
+![Shape tools](shape-tool.png){ width=640 }
 
 #### 3.4.1 Rectangle
 The Rectangle Tool allows you to create rectangular shapes on your drawing. To use the Rectangle Tool, follow these steps:
@@ -408,7 +408,7 @@ The Rectangle Tool allows you to create rectangular shapes on your drawing. To u
 4. Click the left mouse button again to complete the rectangle.
 <p><strong>Create rectangle shape</strong></p>
 
-![Create rectangle shape](rectangle-tool.png){ width=70% }
+![Create rectangle shape](rectangle-tool.png){ width=640 }
 
 #### 3.4.2 Polyline
 The Polyline Tool allows you to create a series of connected line segments. A polyline is usually used to take-off linear items. To use the Polyline Tool, follow these steps:
@@ -420,7 +420,7 @@ The Polyline Tool allows you to create a series of connected line segments. A po
 
 <p>Create polyline shape</p>
 
-![Create polyline shape](polyline-shape.png){ width=70% }
+![Create polyline shape](polyline-shape.png){ width=640 }
 
 #### 3.4.3 Polygon
 The Polygon Tool allows you to create closed shapes with multiple sides. A polygon is usually used to take-off area items. To use the Polygon Tool, follow these steps:
@@ -432,7 +432,7 @@ The Polygon Tool allows you to create closed shapes with multiple sides. A polyg
 
 <p>Create polygon shape</p>
 
-![Create polygon shape](polygon-shape.png){ width=70% }
+![Create polygon shape](polygon-shape.png){ width=640 }
 
 #### 3.4.4 Line
 The L**ine Tool allows you to create straight line segments on your drawing. Line tool is usually used to take-off linear items. To use the Line Tool, follow these steps:
@@ -441,7 +441,7 @@ The L**ine Tool allows you to create straight line segments on your drawing. Lin
 3. Move the mouse to the endpoint of the line and click again to complete the line.
 <p>Create line shape</p>
 
-![Create line shape](line-shape.png){ width=70% }
+![Create line shape](line-shape.png){ width=640 }
 
 #### 3.4.5 Path
 The Path Tool allows you to create freeform shapes by drawing curves and lines. To use the Path Tool, follow these steps:
@@ -453,7 +453,7 @@ The Path Tool allows you to create freeform shapes by drawing curves and lines. 
 
 <p>Create path shape</p>
 
-![Create path shape](path-shape.png){ width=70% }
+![Create path shape](path-shape.png){ width=640 }
 
 #### 3.4.6 Other shape tools
 In addition to the Rectangle, Line, Polyline, Polygon, and Path tools, BlueGrid also offers other shape tools such as Ellipse, Circle, Arc, and more. These tools can be accessed from the shape tools dropdown menu in the toolbar.
@@ -469,7 +469,7 @@ The Text Tool allows you to add plain text annotations to your drawing. To use t
 4. Click outside the text to complete the text annotation.
 <p>Add text annotation</p>
 
-![Add text annotation](text-tool.png){ width=70% }
+![Add text annotation](text-tool.png){ width=640 }
 
 #### 3.5.2 Textbox tool
 The Textbox Tool allows you to add text annotations within a defined rectangular area. To use the Textbox Tool, follow these steps:
@@ -479,7 +479,7 @@ The Textbox Tool allows you to add text annotations within a defined rectangular
 4. Click outside the textbox to complete the text annotation.
 <p>Add textbox annotation</p>
 
-![Add textbox annotation](textbox-tool.png){ width=70% }
+![Add textbox annotation](textbox-tool.png){ width=640 }
 
 #### 3.5.3 Cloud tool
 The Cloud Tool allows you to draw cloud-shaped annotations around areas of interest on your drawing. To use the Cloud Tool, follow these steps:
@@ -490,7 +490,7 @@ The Cloud Tool allows you to draw cloud-shaped annotations around areas of inter
 
 <p>Cloud tool</p>
 
-![Add cloud annotation](cloud-tool.png){ width=70% }
+![Add cloud annotation](cloud-tool.png){ width=640 }
 
 #### 3.5.4 Multiple point cloud tool
 The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by specifying multiple points on your drawing. To use the Multiple Point Cloud Tool, follow these steps:
@@ -499,7 +499,7 @@ The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by spe
 3. Right-click to complete the cloud annotation.
 <p>Multiple point cloud</p>
 
-![Add multiple point cloud annotation](multiple-point-cloud.png){ width=70% }
+![Add multiple point cloud annotation](multiple-point-cloud.png){ width=640 }
 
 #### 3.5.4 Arrow tool
 The Arrow Tool allows you to draw arrows on your drawing to point out specific areas or items. To use the Arrow Tool, follow these steps:
@@ -508,7 +508,7 @@ The Arrow Tool allows you to draw arrows on your drawing to point out specific a
 3. Move the mouse to the endpoint of the arrow and click again to complete the arrow.
 <p>Add arrow annotation</p>
 
-![Add arrow annotation](arrow-tool.png){ width=70% }
+![Add arrow annotation](arrow-tool.png){ width=640 }
 
 #### 3.5.5 Callout tool
 The Callout Tool allows you to create callouts to highlight specific areas on your drawing. There are three types of callouts available: Linear Callout, Quadratic Callout, and Cubic Callout. To use the Callout Tool, follow these steps:
@@ -521,7 +521,7 @@ The Callout Tool allows you to create callouts to highlight specific areas on yo
 
 <p>Callout annotation</p>
 
-![Add callout annotation](callout-tool.png){ width=70% }
+![Add callout annotation](callout-tool.png){ width=640 }
 
 ### 3.6 Count tools
 The Count Tool in BlueGrid allows you to count and mark items on your drawing. This tool is useful for quantifying items such as fixtures, equipment, or any other countable objects. When count blocks are subscribed to a material, count indices with automatically increase. To use the Count Tool, follow these steps:
@@ -530,7 +530,7 @@ The Count Tool in BlueGrid allows you to count and mark items on your drawing. T
 3. Each click will place a count marker with an incremented index number if the count block is associated with a material.
 <p>Count tool</p>
 
-![Count tool](count-tool.png){ width=70% }
+![Count tool](count-tool.png){ width=640 }
 
 ### 3.7 Stamps
 The Stamp Tool in BlueGrid allows you to add predefined stamp shapes to your drawing. Stamps can be used for various purposes, such as marking areas, indicating status, or adding symbols. To use the Stamp Tool, follow these steps:
@@ -539,7 +539,7 @@ The Stamp Tool in BlueGrid allows you to add predefined stamp shapes to your dra
 3. Click on the drawing area where you want to place the stamp.
 <p>Add stamp to drawings</p>
 
-![Add stamp to drawing](stamp-tool.png){ width=70% }
+![Add stamp to drawing](stamp-tool.png){ width=640 }
 
 ### 3.8 Point snaps
 In BlueGrid, Point snaps are optional while drawing shapes to have precise points as well as to deliver the best accurate quantity take-offs. To access and modify the Snap Settings, follow these steps:
@@ -549,7 +549,7 @@ In BlueGrid, Point snaps are optional while drawing shapes to have precise point
 
 <p>Snap settings</p>
 
-![Snap settings](snap-setting.png){ width=70% }
+![Snap settings](snap-setting.png){ width=640 }
 
 ### 3.9 Material table
 
@@ -565,7 +565,7 @@ To add a new material to your project, follow these steps:
 
 <p>Add a new material</p>
 
-![Add a new material](add-material.png){ width=70% }
+![Add a new material](add-material.png){ width=640 }
 
 #### 3.9.2 Edit material properties
 To edit the properties of an existing material, follow these steps:
@@ -574,7 +574,7 @@ To edit the properties of an existing material, follow these steps:
 
 <p>Edit material</p>
 
-![Edit material](edit-material.png){ width=70% }
+![Edit material](edit-material.png){ width=640 }
 
 #### 3.9.3 Import materials
 In BlueGrid, you can import materials from CSV files into your current project. To import materials, follow these steps:
@@ -585,7 +585,7 @@ In BlueGrid, you can import materials from CSV files into your current project. 
 5. Click OK to complete the import process.
 <p>Import materials</p>
 
-![Import materials](import-materials.png){ width=70% }
+![Import materials](import-materials.png){ width=640 }
 
 #### 3.9.4 Pull materials from catalog
 To pull materials from another catalog into your current project, follow these steps:
@@ -596,11 +596,11 @@ To pull materials from another catalog into your current project, follow these s
 5. Choose the materials you want to import and click Pull to add them to your project.
 <p>Pull materials</p>
 
-![Pull materials](pull-material.png){ width=70% }
+![Pull materials](pull-material.png){ width=640 }
 
 <p>Select catalog item to pull materials</p>
 
-![Select catalog item to pull materials](select-catalog.png){ width=70% }
+![Select catalog item to pull materials](select-catalog.png){ width=640 }
 
 #### 3.9.5 Delete materials
 To delete an existing material from your current page, follow these steps:
@@ -610,7 +610,7 @@ To delete an existing material from your current page, follow these steps:
 4. Select Delete Material.
 <p>Delete material</p>
 
-![Delete material](delete-materials.png){ width=70% }
+![Delete material](delete-materials.png){ width=640 }
 
 #### 3.9.6 Export materials as templates
 In BlueGrid, you can export materials as templates for use in other pages or projects. To export materials, follow these steps:
@@ -621,7 +621,7 @@ In BlueGrid, you can export materials as templates for use in other pages or pro
 5. Click OK to complete the export process.
 <p>Export materials</p>
 
-![Export materials](export-materials.png){ width=70% }
+![Export materials](export-materials.png){ width=640 }
 
 #### 3.9.7 Export page quantity report to excel
 In BlueGrid, you can export the quantity report of your materials to an Excel file for further analysis and documentation. To export the quantity report, follow these steps:
@@ -632,7 +632,7 @@ In BlueGrid, you can export the quantity report of your materials to an Excel fi
 5. Click OK to complete the export process.
 <p>Export quantity report to excel</p>
 
-![Export quantity report to excel](export-quantity-report.png){ width=70% }
+![Export quantity report to excel](export-quantity-report.png){ width=640 }
 
 #### 3.9.8 Assign materials to shapes
 In BlueGrid, shapes drawn on your PDF pages can be assigned to specific materials for accurate quantity takeoffs. By assigning a material to a shape, the shape's measurements will contribute to the total quantity of the associated material.
@@ -644,12 +644,12 @@ To assign a material to a shape on your drawing, follow these steps:
 4. Drag the material onto the shape you want to assign it to.
 5. Release the mouse button to complete the assignment.
 
-##### Notes
+[//]: # (##### Notes)
 Besides drag-and-drop method, you can also assign a material to a shape by selecting the material before drawing the shape. The selected material will be automatically assigned to the shape once it is created.
 
 <p>Assign material to shape</p>
 
-![Assign material to shape](assign-material.png){ width=70% }
+![Assign material to shape](assign-material.png){ width=640 }
 
 #### 3.9.9 Remove shapes from materials
 In BlueGrid, you can unassign a material from a shape if you need to change the material assignment or if the shape no longer requires a material association. To unassign a material from a shape, follow these steps:
@@ -659,7 +659,7 @@ In BlueGrid, you can unassign a material from a shape if you need to change the 
 4. Select Dematerialize.
 <p>Unassign material from shape</p>
 
-![Unassign material from shape](remove-shapes-from-material.png){ width=70% }
+![Unassign material from shape](remove-shapes-from-material.png){ width=640 }
 
 #### 3.9.10  Unsubscribe shapes to no material
 In BlueGrid, you can unsubscribe shapes from any material, effectively removing their association with all materials. This is useful when you want to reset the material assignments for specific shapes. To unsubscribe shapes from all materials, follow these steps:
@@ -668,7 +668,7 @@ In BlueGrid, you can unsubscribe shapes from any material, effectively removing 
 3. Select Dematerialize menu item.
 <p>Unsubscribe shapes from all materials</p>
 
-![Unsubscribe shapes from all materials](dematerialize-shape.png){ width=70% }
+![Unsubscribe shapes from all materials](dematerialize-shape.png){ width=640 }
 
 #### 3.9.11 List page quantity report
 In BlueGrid, you can view a detailed quantity report for the materials used on the current page on PDF.
@@ -679,8 +679,7 @@ To list the page quantity report, follow these steps:
 4. The quantity list will be added to the drawboard as an annotation and can be exported along with the PDF page.
 <p>List page quantity report</p>
 
-[//]: # (<img src="list-quantity-report.png" alt="List page quantity report" title="List page quantity report" style="width:auto; height:auto; max-width:70%;">)
-![List page quantity report](list-quantity-report.png){ width=70% }
+![List page quantity report](list-quantity-report.png){ width=640 }
 
 ### 3.9.12 Select shapes by material
 In BlueGrid, you can select all shapes that are assigned to a specific material. This feature is useful for quickly identifying and manipulating shapes associated with a particular material. To select shapes by material, follow these steps:
@@ -690,8 +689,7 @@ In BlueGrid, you can select all shapes that are assigned to a specific material.
 4. Select item Select tagged shapes.
 <p>Select shapes by material</p>
 
-[//]: # (<img src="select-shapes-by-material.png" alt="Select shapes by material" title="Select shapes by material" style="width:auto; height:auto; max-width:70%;">)
-![Select shapes by material](select-shapes-by-material.png){ width=70% }
+![Select shapes by material](select-shapes-by-material.png){ width=640 }
 
 ### 3.9.13 Sort materials
 In BlueGrid, you can sort the materials in the Materials table either by clicking to a column header of the material table. Sorting materials helps you organize and find specific materials more easily. To sort materials, follow these steps:
@@ -700,7 +698,7 @@ In BlueGrid, you can sort the materials in the Materials table either by clickin
 4. Sort again to reverse sorting.
 <p>Sort materials</p>
 
-![Sort materials](sort-materials.png){ width=70% }
+![Sort materials](sort-materials.png){ width=640 }
 
 ### 3.9.14 Filter materials
 In BlueGrid, you can filter the materials in the Materials table to display only those that meet specific criteria. This feature helps you quickly find and manage materials based on your needs. To filter materials, follow these steps:
@@ -709,7 +707,7 @@ In BlueGrid, you can filter the materials in the Materials table to display only
 3. The Materials table will automatically update to show only the materials that match the filter criteria.
 <p>Filter materials</p>
 
-![Filter materials](filter-materials.png){ width=70% }
+![Filter materials](filter-materials.png){ width=640 }
 
 ## 3.10 Drawboard menu
 In BlueGrid, the Drawboard Menu provides various options for managing and interacting with the drawing area. The Drawboard Menu can be accessed by right-clicking on the drawboard or by clicking on the menu icon in the toolbar. The available options in the Drawboard Menu include Undo, Redo, Cut, Copy, Paste, Delete, Group, Ungroup, Bring to Front, Send to Back, and more. These options allow you to perform common actions on shapes and annotations within the drawboard.
@@ -732,7 +730,7 @@ Catalog view has two main sections, the catalog header list in the left and the 
 
 <p>Add a new catalog</p>
 
-![Create a new catalog](add-catalog-entry.png){ width=70% }
+![Create a new catalog](add-catalog-entry.png){ width=640 }
 
 ### 4.3 Build a catalog 
 After creating a new catalog entry, you can build the catalog tree by adding categories and materials.
@@ -745,8 +743,7 @@ Before adding categories and materials, you need to create a root item for the c
 4. Enter a name for the root item and press Enter to confirm.
 <p>Add catalog tree root item</p>
 
-[//]: # (<img src="add-catalog-root-item.png" alt="Add catalog tree root item" title="Add catalog tree root item" style="width:auto; height:auto; max-width:70%;">)
-![Add catalog tree root item](add-catalog-root-item.png){ width=70% }
+![Add catalog tree root item](add-catalog-root-item.png){ width=640 }
 
 #### 4.3.2 Add category group items
 
@@ -760,7 +757,7 @@ To add a new category to the catalog tree, follow these steps:
 <p>Add catalog group</p>
 
 [//]: # (<img src="add-catalog-group.png" alt="Add catalog group" title="Add catalog group" style="width:auto; height:auto; max-width:70%;">)
-![Add catalog group](add-catalog-group.png){ width=70% }
+![Add catalog group](add-catalog-group.png){ width=640 }
 
 #### 4.3.3 Add catalog material items
 To add a new material to the catalog tree, follow these steps:
@@ -772,7 +769,7 @@ To add a new material to the catalog tree, follow these steps:
 
 <p>Add catalog material</p>
 
-![Add catalog material](add-catalog-material.png){ width=70% }
+![Add catalog material](add-catalog-material.png){ width=640 }
 
 #### 4.3.4 Edit catalog items
 To edit an existing catalog item (category or material), follow these steps:
@@ -780,7 +777,7 @@ To edit an existing catalog item (category or material), follow these steps:
 2. In the Properties panel, modify the desired properties such as name, description, type, fill color, stroke color...
 <p>Edit catalog item</p>
 
-![Edit catalog item](edit-catalog-item.png){ width=70% }
+![Edit catalog item](edit-catalog-item.png){ width=640 }
 
 #### 4.3.5 Delete catalog items
 To delete an existing catalog item (category or material), follow these steps:
@@ -789,7 +786,7 @@ To delete an existing catalog item (category or material), follow these steps:
 3. Choose Delete Item.
 <p>Delete catalog item</p>
 
-![Delete catalog item](delete-catalog-item.png){ width=70% }
+![Delete catalog item](delete-catalog-item.png){ width=640 }
 
 ### 4.4 Import catalogs
 
@@ -801,7 +798,7 @@ In BlueGrid, you can import material catalogs from external files into your curr
 5. Click OK to complete the import process.
 <p>Import a catalog</p>
 
-![Import catalog](import-catalog.png){ width=70% }
+![Import catalog](import-catalog.png){ width=640 }
 
 ### 4.5 Export catalogs
 In BlueGrid, you can export material catalogs to external files for backup, sharing purposes or using across projects. To export a catalog, follow these steps:
@@ -813,4 +810,4 @@ In BlueGrid, you can export material catalogs to external files for backup, shar
 6. Click OK to complete the export process.
 <p>Export a catalog</p>
 
-![Export catalog](export-catalog.png){ width=70% }
+![Export catalog](export-catalog.png){ width=640 }
