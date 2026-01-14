@@ -366,7 +366,3 @@ In Bluegrid, you can filter the materials in the Materials table to display only
 
 ![Filter materials](filter-materials.png){ width=640 }
 
-### 4.15 Drawboard menu
-In Bluegrid, the Drawboard Menu provides various options for managing and interacting with the drawing area. The Drawboard Menu can be accessed by right-clicking on the drawboard or by clicking on the menu icon in the toolbar. The available options in the Drawboard Menu include Undo, Redo, Cut, Copy, Paste, Delete, Group, Ungroup, Bring to Front, Send to Back, and more. These options allow you to perform common actions on shapes and annotations within the drawboard.
-
-
