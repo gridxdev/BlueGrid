@@ -8,6 +8,10 @@
 >
 
     <toc-element topic="index.md"/>
+    <toc-element topic="projects.md"/>
+    <toc-element topic="Document-View.md"/>
+    <toc-element topic="Catalog-View.md"/>
+    <toc-element topic="Draw-View.md"/>
 
 
 </instance-profile>
