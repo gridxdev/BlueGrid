@@ -8,7 +8,9 @@ In Bluegrid, Draw View is at page level, meaning to work on a specific page, you
 3. Click Open
    ![Open PDF in Draw view](open-page.png){ width=640 }
 
-## 2. Set page scale with scale tool
+## 2. Draw tools
+
+### 2.1 Set page scale with scale tool
 In Bluegrid, setting the correct scale for your drawing is crucial for accurate measurements and takeoffs. The Scale Tool allows you to define the scale of your drawing by specifying a known distance on the page. To set the page scale using the Scale Tool, follow these steps:
 1. In  the  Draw view select the Scale Tool from the toolbar.
 2. Click on the starting point of the known distance on the drawing.
@@ -19,7 +21,7 @@ In Bluegrid, setting the correct scale for your drawing is crucial for accurate 
 
 ![Set page scale with Scale Tool](scale-tool.png){ width=640 }
 
-## 3. Measure distances with dim tool
+### 2.2 Measure distances with dim tool
 The Dim Tool in Bluegrid allows you to measure distances directly on your drawing. This tool is useful for verifying dimensions and ensuring accuracy in your takeoffs. To have correct distance measurement, page scale should be set in advance.
 To measure distances using the Dim Tool, follow these steps:
 1. In the Draw view, select the Dim Tool from the toolbar.
@@ -30,9 +32,7 @@ To measure distances using the Dim Tool, follow these steps:
 
 ![Measure distances with Dim Tool](dim-tool.png){ width=640 }
 
-## 4. Drawboard tools
-
-### 4.1 Pan tool
+### 2.3 Pan tool
 The Pan Tool allows you to navigate around your drawing by clicking and dragging the view. To use the Pan Tool, follow these steps:
 1. In the Draw view, select the Pan Tool from the toolbar.
 2. Click and hold the left mouse button on the drawing area.
@@ -42,43 +42,38 @@ The Pan Tool allows you to navigate around your drawing by clicking and dragging
 
 ![Pan tool](pan-tool.png){ width=640 }
 
-### 4.2 Select tool
+### 2.4 Select tool
 The Select Tool allows you to select shapes and objects on your drawing for editing or manipulation. To use the Select Tool, follow these steps:
-#### 4.2.1 Select single shape
+#### 2.4.1 Select single shape
 1. In the Draw view, select the Select Tool from the toolbar.
 2. Click on a shape or object to select it. To select multiple shapes, hold down the Control key while clicking on each shape.
 3. Once selected, you can move, resize, or modify the shapes as needed.
 
-#### 4.2.2 Select multiple shapes
+#### 2.4.2 Select multiple shapes
 1. In the Draw view, select the Select Tool from the toolbar.
 2. Click and hold the left mouse button on an empty area of the drawing.
 3. Drag the mouse to create a selection rectangle that encompasses the shapes you want to select.
 4. Release the mouse button to complete the selection. All shapes within the rectangle will be selected.
 <p>Select multiple shapes with Select tool</p>
-
 ![Select tool](select-tool.png){ width=640 }
 
-### 4.3 Select PDF-Shape tool
+### 2.5 Select PDF-Shape tool
 The Select PDF-Shape Tool allows you to select and manipulate shapes that are part of the original PDF content. To use the Select PDF-Shape Tool, follow these steps:
 1. In the Draw view, select the Select PDF-Shape Tool from the toolbar.
 2. Press and hold the left mouse button and drag to create a selection rectangle around the PDF shapes you want to select.
 3. Release the mouse button to complete the selection. All PDF shapes within the rectangle will be selected.
-
-
-
 ![Shape tools](shape-tool.png){ width=640 }
 
-### 4.4 Rectangle
+### 2.6 Rectangle
 The Rectangle Tool allows you to create rectangular shapes on your drawing. To use the Rectangle Tool, follow these steps:
 1. In the Draw view, select the Rectangle Tool from the toolbar.
 2. Click the left mouse button at the starting point of the rectangle.
 3. Move the mouse to define the size of the rectangle.
 4. Click the left mouse button again to complete the rectangle.
 <p><strong>Create rectangle shape</strong></p>
-
 ![Create rectangle shape](rectangle-tool.png){ width=640 }
 
-### 4.5 Polyline
+### 2.7 Polyline
 The Polyline Tool allows you to create a series of connected line segments. A polyline is usually used to take-off linear items. To use the Polyline Tool, follow these steps:
 1. In the Draw view, select the Polyline Tool from the toolbar.
 2. Click the left mouse button at the starting point of the polyline.
@@ -87,10 +82,9 @@ The Polyline Tool allows you to create a series of connected line segments. A po
 5. Right-click to complete the polyline.
 
 <p>Create polyline shape</p>
-
 ![Create polyline shape](polyline-shape.png){ width=640 }
 
-### 4.6 Polygon
+### 2.8 Polygon
 The Polygon Tool allows you to create closed shapes with multiple sides. A polygon is usually used to take-off area items. To use the Polygon Tool, follow these steps:
 1. In the Draw view, select the Polygon Tool from the toolbar.
 2. Click the left mouse button at the starting point of the polygon.
@@ -99,19 +93,17 @@ The Polygon Tool allows you to create closed shapes with multiple sides. A polyg
 5. Right-click to complete the polygon.
 
 <p>Create polygon shape</p>
-
 ![Create polygon shape](polygon-shape.png){ width=640 }
 
-### 4.7 Line
+### 2.9 Line
 The L**ine Tool allows you to create straight line segments on your drawing. Line tool is usually used to take-off linear items. To use the Line Tool, follow these steps:
 1. In the Draw view, select the Line Tool from the toolbar.
 2. Click the left mouse button at the starting point of the line.
 3. Move the mouse to the endpoint of the line and click again to complete the line.
 <p>Create line shape</p>
-
 ![Create line shape](line-shape.png){ width=640 }
 
-### 4.8 Path
+### 2.10 Path
 The Path Tool allows you to create freeform shapes by drawing curves and lines. To use the Path Tool, follow these steps:
 1. In the Draw view, select the Path Tool from the toolbar.
 2. Click and hold the left mouse button to start drawing the path.
@@ -123,8 +115,7 @@ The Path Tool allows you to create freeform shapes by drawing curves and lines. 
 
 ![Create path shape](path-shape.png){ width=640 }
 
-
-#### 4.9 Text tool
+### 2.11 Text tool
 The Text Tool allows you to add plain text annotations to your drawing. To use the Text Tool, follow these steps:
 1. In the Draw view, select the Text Tool from the toolbar.
 2. Click on the drawing area where you want to add the text.
@@ -134,7 +125,7 @@ The Text Tool allows you to add plain text annotations to your drawing. To use t
 
 ![Add text annotation](text-tool.png){ width=640 }
 
-#### 4.10 Textbox tool
+### 2.12 Textbox tool
 The Textbox Tool allows you to add text annotations within a defined rectangular area. To use the Textbox Tool, follow these steps:
 1. In the Draw view, select the Textbox Tool from the toolbar.
 2. Click on the drawing area to define the top-left corner of the textbox.
@@ -144,18 +135,16 @@ The Textbox Tool allows you to add text annotations within a defined rectangular
 
 ![Add textbox annotation](textbox-tool.png){ width=640 }
 
-### 4.11 Cloud tool
+### 2.13 Cloud tool
 The Cloud Tool allows you to draw cloud-shaped annotations around areas of interest on your drawing. To use the Cloud Tool, follow these steps:
 1. In the Draw view, select the Cloud Tool from the toolbar.
 2. Click and hold the left mouse button to start drawing the cloud shape.
 3. Move the mouse to create the cloud shape.
 4. Release the mouse button to complete the cloud annotation.
 
-<p>Cloud tool</p>
-
 ![Add cloud annotation](cloud-tool.png){ width=640 }
 
-### 4.12 Multiple point cloud tool
+### 2.14 Multiple point cloud tool
 The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by specifying multiple points on your drawing. To use the Multiple Point Cloud Tool, follow these steps:
 1. In the Draw view, select the Multiple Point Cloud Tool from the toolbar.
 2. Click the left mouse button at each point to define the cloud shape.
@@ -164,7 +153,7 @@ The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by spe
 
 ![Add multiple point cloud annotation](multiple-point-cloud.png){ width=640 }
 
-### 4.13 Arrow tool
+### 2.15 Arrow tool
 The Arrow Tool allows you to draw arrows on your drawing to point out specific areas or items. To use the Arrow Tool, follow these steps:
 1. In the Draw view, select the Arrow Tool from the toolbar.
 2. Click the left mouse button at the starting point of the arrow.
@@ -173,7 +162,7 @@ The Arrow Tool allows you to draw arrows on your drawing to point out specific a
 
 ![Add arrow annotation](arrow-tool.png){ width=640 }
 
-### 4.14 Callout tool
+### 2.16 Callout tool
 The Callout Tool allows you to create callouts to highlight specific areas on your drawing. There are three types of callouts available: Linear Callout, Quadratic Callout, and Cubic Callout. To use the Callout Tool, follow these steps:
 1. In the Draw view, select the Callout Tool from the toolbar.
 2. Choose the desired callout type from the dropdown menu.
@@ -186,7 +175,7 @@ The Callout Tool allows you to create callouts to highlight specific areas on yo
 
 ![Add callout annotation](callout-tool.png){ width=640 }
 
-### 4.15 Count tools
+### 2.17 Count tools
 The Count Tool in Bluegrid allows you to count and mark items on your drawing. This tool is useful for quantifying items such as fixtures, equipment, or any other countable objects. When count blocks are subscribed to a material, count indices with automatically increase. To use the Count Tool, follow these steps:
 1. In the Draw view, select the Count Tool from the toolbar.
 2. Click on each item you want to count on the drawing.
@@ -195,7 +184,7 @@ The Count Tool in Bluegrid allows you to count and mark items on your drawing. T
 
 ![Count tool](count-tool.png){ width=640 }
 
-### 4.16 Stamps
+### 2.18 Stamps
 The Stamp Tool in Bluegrid allows you to add predefined stamp shapes to your drawing. Stamps can be used for various purposes, such as marking areas, indicating status, or adding symbols. To use the Stamp Tool, follow these steps:
 1. In the Draw view, select the Stamp Tool from the toolbar.
 2. Choose the desired stamp from the stamp library.
@@ -204,7 +193,7 @@ The Stamp Tool in Bluegrid allows you to add predefined stamp shapes to your dra
 
 ![Add stamp to drawing](stamp-tool.png){ width=640 }
 
-### 4.17 Point snaps
+### 2.19 Point snaps
 In Bluegrid, Point snaps are optional while drawing shapes to have precise points as well as to deliver the best accurate quantity take-offs. To access and modify the Snap Settings, follow these steps:
 1. In the Draw view, locate the Snap Settings icon in the status bar at the bottom of the window.
 2. Click the Snap Settings icon to open the Snap Settings dialog.
@@ -214,12 +203,15 @@ In Bluegrid, Point snaps are optional while drawing shapes to have precise point
 
 ![Snap settings](snap-setting.png){ width=640 }
 
-### 4.18 Material table
+## 3. Drawboard
+Drawboard tutorial is under development....
+
+## 4. Material table
 
 Materials feature allows you to manage and organize the materials used in a page. Materials can be created, edited, imported, exported, and assigned to shapes in your drawings. The quantity of each material is calculated based on the shapes it is assigned to. This section provides an overview of the various functionalities related to materials in Bluegrid.
 Material table is at page level, meaning each page has its own material list. Materials created in one page will not be available in other pages unless you pull or import them. To have consistent material list across multiple pages, you can create a material catalog and pull materials from the catalog into each page as needed.
 
-### 4.19 Add a new material
+### 4.1 Add a new material
 To add a new material to your project, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -230,7 +222,7 @@ To add a new material to your project, follow these steps:
 
 ![Add a new material](add-material.png){ width=640 }
 
-### 4.20 Edit material properties
+### 4.2 Edit material properties
 To edit the properties of an existing material, follow these steps:
 1. Select the material you want to edit from the Materials table.
 2. In the Properties panel, modify the desired properties such as name, type, description, and type, fill color, stroke color...
@@ -239,7 +231,7 @@ To edit the properties of an existing material, follow these steps:
 
 ![Edit material](edit-material.png){ width=640 }
 
-### 4.21 Import materials
+### 4.3 Import materials
 In Bluegrid, you can import materials from CSV files into your current project. To import materials, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -250,7 +242,7 @@ In Bluegrid, you can import materials from CSV files into your current project. 
 
 ![Import materials](import-materials.png){ width=640 }
 
-### 4.9.4 Pull materials from catalog
+### 4.4 Pull materials from catalog
 To pull materials from another catalog into your current project, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -265,7 +257,7 @@ To pull materials from another catalog into your current project, follow these s
 
 ![Select catalog item to pull materials](select-catalog.png){ width=640 }
 
-#### 3.9.5 Delete materials
+### 4.5 Delete materials
 To delete an existing material from your current page, follow these steps:
 1. Open the Materials panel.
 2. Select the material you want to delete from the Materials table.
@@ -275,7 +267,7 @@ To delete an existing material from your current page, follow these steps:
 
 ![Delete material](delete-materials.png){ width=640 }
 
-#### 3.9.6 Export materials as templates
+### 4.6 Export materials as templates
 In Bluegrid, you can export materials as templates for use in other pages or projects. To export materials, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -286,7 +278,7 @@ In Bluegrid, you can export materials as templates for use in other pages or pro
 
 ![Export materials](export-materials.png){ width=640 }
 
-#### 3.9.7 Export page quantity report to excel
+### 4.7 Export page quantity report to excel
 In Bluegrid, you can export the quantity report of your materials to an Excel file for further analysis and documentation. To export the quantity report, follow these steps:
 1. Open the Materials panel.
 2. Open the Material Menu or right-click to open context menu.
@@ -297,7 +289,7 @@ In Bluegrid, you can export the quantity report of your materials to an Excel fi
 
 ![Export quantity report to excel](export-quantity-report.png){ width=640 }
 
-#### 3.9.8 Assign materials to shapes
+### 4.8 Assign materials to shapes
 In Bluegrid, shapes drawn on your PDF pages can be assigned to specific materials for accurate quantity takeoffs. By assigning a material to a shape, the shape's measurements will contribute to the total quantity of the associated material.
 To assign a material to a shape on your drawing, follow these steps:
 
@@ -314,7 +306,7 @@ Besides drag-and-drop method, you can also assign a material to a shape by selec
 
 ![Assign material to shape](assign-material.png){ width=640 }
 
-#### 3.9.9 Remove shapes from materials
+### 4.9 Remove shapes from materials
 In Bluegrid, you can unassign a material from a shape if you need to change the material assignment or if the shape no longer requires a material association. To unassign a material from a shape, follow these steps:
 1. Select the shape from which you want to unassign the material.
 2. Open the Materials panel.
@@ -324,7 +316,7 @@ In Bluegrid, you can unassign a material from a shape if you need to change the 
 
 ![Unassign material from shape](remove-shapes-from-material.png){ width=640 }
 
-#### 3.9.10  Unsubscribe shapes to no material
+### 4.10  Unsubscribe shapes to no material
 In Bluegrid, you can unsubscribe shapes from any material, effectively removing their association with all materials. This is useful when you want to reset the material assignments for specific shapes. To unsubscribe shapes from all materials, follow these steps:
 1. Select the shapes you want to unsubscribe from materials.
 2. Open draw menu or right-click to open context menu.
@@ -333,7 +325,7 @@ In Bluegrid, you can unsubscribe shapes from any material, effectively removing 
 
 ![Unsubscribe shapes from all materials](dematerialize-shape.png){ width=640 }
 
-#### 3.9.11 List page quantity report
+### 4.11 List page quantity report
 In Bluegrid, you can view a detailed quantity report for the materials used on the current page on PDF.
 To list the page quantity report, follow these steps:
 1. Open the Materials panel.
@@ -344,7 +336,7 @@ To list the page quantity report, follow these steps:
 
 ![List page quantity report](list-quantity-report.png){ width=640 }
 
-### 3.9.12 Select shapes by material
+### 4.12 Select shapes by material
 In Bluegrid, you can select all shapes that are assigned to a specific material. This feature is useful for quickly identifying and manipulating shapes associated with a particular material. To select shapes by material, follow these steps:
 1. Open the Materials panel.
 2. Select the material whose associated shapes you want to select from the Materials table.
@@ -354,7 +346,7 @@ In Bluegrid, you can select all shapes that are assigned to a specific material.
 
 ![Select shapes by material](select-shapes-by-material.png){ width=640 }
 
-### 3.9.13 Sort materials
+### 4.13 Sort materials
 In Bluegrid, you can sort the materials in the Materials table either by clicking to a column header of the material table. Sorting materials helps you organize and find specific materials more easily. To sort materials, follow these steps:
 1. Open the Materials panel.
 2. Click to the column header you want to sort by, such as Name, Type, Quantity, Description, etc.
@@ -363,7 +355,7 @@ In Bluegrid, you can sort the materials in the Materials table either by clickin
 
 ![Sort materials](sort-materials.png){ width=640 }
 
-### 3.9.14 Filter materials
+### 4.14 Filter materials
 In Bluegrid, you can filter the materials in the Materials table to display only those that meet specific criteria. This feature helps you quickly find and manage materials based on your needs. To filter materials, follow these steps:
 1. Open the Materials panel.
 2. Type the desired filter criteria into the filter box located at the top of the Materials table.
@@ -372,7 +364,7 @@ In Bluegrid, you can filter the materials in the Materials table to display only
 
 ![Filter materials](filter-materials.png){ width=640 }
 
-### 3.10 Drawboard menu
+### 4.15 Drawboard menu
 In Bluegrid, the Drawboard Menu provides various options for managing and interacting with the drawing area. The Drawboard Menu can be accessed by right-clicking on the drawboard or by clicking on the menu icon in the toolbar. The available options in the Drawboard Menu include Undo, Redo, Cut, Copy, Paste, Delete, Group, Ungroup, Bring to Front, Send to Back, and more. These options allow you to perform common actions on shapes and annotations within the drawboard.
-<p>Drawboard menu</p>
+
 
