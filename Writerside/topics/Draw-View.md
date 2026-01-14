@@ -204,6 +204,8 @@ In Bluegrid, Point snaps are optional while drawing shapes to have precise point
 ![Snap settings](snap-setting.png){ width=640 }
 
 ## 3. Drawboard
+Drawboard is the workspace to perform drawing and take-off activities on a PDF page. It provides various tools and functionalities to create, edit, and manage shapes and annotations on the drawing. Shapes, texts and annotations created in the Drawboard are associated with the current page and can be exported as a PDF page.
+
 Drawboard tutorial is under development....
 
 ## 4. Material table
