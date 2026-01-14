@@ -1,8 +1,8 @@
 # Document View
 
-## 2.1 Folders
+## 1. Folders
 **Using the Folder Menu or Context Menu by right-clicking within the folder view.**
-### 2.1.1 Creating a New Folder
+### 1.1 Creating a New Folder
 In Bluegrid, PDF pages are organized into folders. A folder may contain sub-folders. You can create a new folder using the following methods:
 
 1. Click the Folder menu or right-click within the folder view to open the context menu.
@@ -19,7 +19,7 @@ In Bluegrid, PDF pages are organized into folders. A folder may contain sub-fold
 ![Enter folder name](enter-folder-name.png){ width=640 }
 
 
-### 2.1.2 Renaming a folder
+### 1.2 Renaming a folder
 You can rename an existing folder using either of the following methods:
 
 1. Select the folder you want to rename.
@@ -30,7 +30,7 @@ You can rename an existing folder using either of the following methods:
 
 ![Rename a folder](rename-folder.png){ width=640 }
 
-### 2.1.3 Deleting a Folder
+### 1.3 Deleting a Folder
 You can delete a folder using either of the following methods:
 
 1. Select the folder you want to delete.
@@ -40,7 +40,7 @@ You can delete a folder using either of the following methods:
 
 ![Delete a folder](delete-folder.png){ width=640 }
 
-### 2.1.4 Moving a Folder to another Folder
+### 1.4 Moving a Folder to another Folder
 In Bluegrid, every folder may contain sub-folders or Pages. To move a folder to a different parent folder:
 1. Select and hold the folder you want to move.
 2. Drag the folder to the desired parent folder in the folder view.
@@ -51,7 +51,7 @@ In Bluegrid, every folder may contain sub-folders or Pages. To move a folder to 
 
 ![Move a folder to another folder](move-folder.png){ width=640 }
 
-### 2.1.5 Sorting Folders
+### 1.5 Sorting Folders
 You can sort folders using either the Folder Menu or the Context Menu.
 1. Open the Folder menu.
 2. Select Sort.
@@ -60,7 +60,7 @@ You can sort folders using either the Folder Menu or the Context Menu.
 
 ![Sort folders](sort-folders.png){ width=640 }
 
-### 2.1.6 Filter Folders
+### 1.6 Filter Folders
 In Bluegrid, you can filter folders by typing the filtering text into folder filter field.
 
 ![Filter folders](filter-folders.png){ width=640 }
@@ -68,8 +68,8 @@ In Bluegrid, you can filter folders by typing the filtering text into folder fil
 ### Clear Notes
 Clear the filter text to show all folders again.
 
-## 2.2 Pages
-### 2.2.1 Open a page
+## 2. Pages
+### 2.1 Open a page
 1. Select the page you want to open.
 2. Double-click the page or right-click to open context menu and choose Open.
 <p>Open a page</p>
@@ -79,7 +79,7 @@ Clear the filter text to show all folders again.
 [//]: # (##### Notes:)
 By default, Bluegrid opens the latest version of a page. If you want to open a specific version, please refer to section 2.2.3 Open Version.
 
-### 2.2.2 Open with
+### 2.2 Open with
 Bluegrid allows users to open a page with different applications.
 1. Select the page you want to open with a different application.
 2. Right-click to open context menu, hover mouse to Open With. If the application you want to use is listed, click on it to open the page with that application. Otherwise, click Find to navigate the application...
@@ -93,7 +93,7 @@ Bluegrid allows users to open a page with different applications.
 [//]: # (##### Notes:)
 The applications users used to open pages will be saved in the Open With list for future use.
 
-### 2.2.3 Open version
+### 2.3 Open version
 <p>In Bluegrid, each page can have multiple versions, each version is a PDF page or image. By default, Bluegrid opens the latest version of a page. However, users can choose to open a specific version of a page by following these steps:</p>
 
 1. Select the page you want to open a specific version of.
@@ -105,7 +105,7 @@ The applications users used to open pages will be saved in the Open With list fo
 
 ![Open version](open-version.png){ width=640 }
 
-### 2.2.4 Add PDF pages to a folder
+### 2.4 Add PDF pages to a folder
 Bluegrid allows users to import PDF pages directly into a selected folder. You can perform this action using either the Page menu, or context menu or drag-and-drop feature.
 
 Method 1: Using the Page Menu / context menu
@@ -132,7 +132,7 @@ Method 2: Using Drag and Drop
 
 ![Confirm splitting PDF files into pages](confirm-split-pdf.png){ width=640 }
 
-### 2.2.5 Replace page
+### 2.5 Replace page
 1. Select the page you want to replace.
 2. Open the Page menu or right-click to open context menu
 3. Choose Replace.
@@ -147,7 +147,7 @@ Method 2: Using Drag and Drop
 
 ![Select page to replace with](select-replace-page.png){ width=640 }
 
-### 2.2.6 Duplicate a page
+### 2.6 Duplicate a page
 1. Select the page you want to duplicate.
 2. Open the Page menu or right-click to open context menu
 3. Choose Duplicate.
@@ -156,7 +156,7 @@ Method 2: Using Drag and Drop
 
 ![Duplicate a page](duplicate-page.png){ width=640 }
 
-### 2.2.7 Add versions to a page
+### 2.7 Add versions to a page
 In Bluegrid, you can add multiple versions to a page. Each version is a separate PDF page or image associated with the main page. To add a new version to an existing page, follow these steps:
 1. Select the page you want to add a version to.
 2. Open the Page menu or right-click to open context menu
@@ -171,7 +171,7 @@ In Bluegrid, you can add multiple versions to a page. Each version is a separate
 <p>Select the page as the new  version</p>
 ![Select the page as the new version](select-version-page.png){ width=640 }
 
-### 2.2.8 Rotate pages
+### 2.8 Rotate pages
 1. Select the page or pages you want to rotate.
 2. Open the Page menu or right-click to open context menu
 3. Choose Rotate.
@@ -182,7 +182,7 @@ In Bluegrid, you can add multiple versions to a page. Each version is a separate
 ![Rotate a page](rotate-pages.png){ width=640 }
 
 
-### 2.2.9 Export pages
+### 2.9 Export pages
 In Bluegrid, you can export one or more pages as PDF files, the exported pages will contain all user-added shapes, markups, text, annotation... To export pages, follow these steps:
 1. Select the page or pages you want to export.
 2. Open the Page menu or right-click to open context menu
@@ -193,7 +193,7 @@ In Bluegrid, you can export one or more pages as PDF files, the exported pages w
 
 ![Export pages](export-pages.png){ width=640 }
 
-### 2.2.10 Delete pages
+### 2.10 Delete pages
 1. Select the pages you want to delete.
 2. Open the Page menu or right-click to open context menu
 3. Choose Delete.
@@ -202,7 +202,7 @@ In Bluegrid, you can export one or more pages as PDF files, the exported pages w
 
 ![Delete pages](delete-page.png){ width=640 }
 
-### 2.2.11 Delete versions
+### 2.11 Delete versions
 In Bluegrid, by doing delete version, you can remove the last PDF version of a page while keeping the main page intact.
 1. Select the page whose version you want to delete.
 2. Open the Page menu or right-click to open context menu
@@ -211,7 +211,7 @@ In Bluegrid, by doing delete version, you can remove the last PDF version of a p
 
 ![Delete page version](delete-version.png){ width=640 }
 
-### 2.2.12 Change thumbnail size
+### 2.12 Change thumbnail size
 1. Open the Page menu or right-click to open context menu
 2. Hover mouse to View
 3. Select the desired thumbnail size from the available options (Small, Medium, Large).
@@ -219,7 +219,7 @@ In Bluegrid, by doing delete version, you can remove the last PDF version of a p
 
 ![Change thumbnail size](change-thumbnail-size.png){ width=640 }
 
-### 2.2.13 Sort pages
+### 2.13 Sort pages
 In Bluegrid, you can sort pages either by index or by name.
 1. Open the Page menu or right-click to open context menu
 2. Choose Sort, then select either By Index or By Name. Sort again to reverse sorting.
@@ -227,11 +227,11 @@ In Bluegrid, you can sort pages either by index or by name.
 
 ![Sort pages](sort-pages.png){ width=640 }
 
-### 2.2.14 Select all pages
+### 2.14 Select all pages
 1. Open the Page menu or right-click to open context menu
 2. Choose Select All.
 
-### 2.2.15 Batch rename pages
+### 2.15 Batch rename pages
 1. Select the pages you want to batch rename.
 2. Open the Page menu or right-click to open context menu
 3. Choose Batch Rename.
@@ -241,7 +241,7 @@ In Bluegrid, you can sort pages either by index or by name.
 
 ![Batch rename pages](batch-rename-pages.png){ width=640 }
 
-### 2.2.16 Batch set unit
+### 2.16 Batch set unit
 To set the unit for multiple pages at once:
 1. Select the pages you want to batch set unit.
 2. Open the Page menu or right-click to open context menu
@@ -252,12 +252,12 @@ To set the unit for multiple pages at once:
 
 ![Set unit to multiple pages](batch-set-unit.png){ width=640 }
 
-### 2.2.17 Re-index pages
+### 2.17 Re-index pages
 1. Select the pages you want to re-index.
 2. Open the Page menu or right-click to open context menu
 3. Choose Re-index.
 
-### 2.2.18 Move a page to another folder
+### 2.18 Move a page to another folder
 1. Select and hold the page you want to move.
 2. Drag the page to the desired folder in the folder view.
 3. Release the mouse button to complete the move.
@@ -266,10 +266,10 @@ To set the unit for multiple pages at once:
 
 ![Move a page to another folder](move-page-to-folder.png){ width=640 }
 
-### 2.2.19 Edit page properties
+### 2.19 Edit page properties
 In Bluegrid, each page has properties such as name, scale, and unit that can be modified. To edit the properties of a page.
 
-#### 2.2.19.1 Set page name
+#### 2.19.1 Set page name
 1. Select the page you want to edit properties for.
 2. Open the Page menu or right-click to open context menu
 3. Choose Properties.
@@ -279,7 +279,7 @@ In Bluegrid, each page has properties such as name, scale, and unit that can be 
 
 ![Set page name](edit-page-name.png){ width=640 }
 
-#### 2.2.19.2 Set page scale
+#### 2.19.2 Set page scale
 1. Select the page you want to edit properties for.
 2. Open the Page menu or right-click to open context menu
 3. Choose Properties.
@@ -289,7 +289,7 @@ In Bluegrid, each page has properties such as name, scale, and unit that can be 
 ![Set page scale](edit-page-scale.png){ width=640 }
 
 
-#### 2.2.19.3 Set page unit
+#### 2.19.3 Set page unit
 1. Select the page you want to edit properties for.
 2. Open the Page menu or right-click to open context menu
 3. Choose Properties.

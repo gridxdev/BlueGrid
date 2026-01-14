@@ -1,5 +1,5 @@
 # Projects
-### 1.1 Creating a Project
+## 1. Creating a Project
 In Bluegrid, before executing a take-off project, you need to create or open a project.
 Follow these steps to create a new project in Bluegrid:
 
@@ -21,7 +21,7 @@ Follow these steps to create a new project in Bluegrid:
 
 
 
-### 1.2 Opening a Project
+## 2. Opening a Project
 You can open an existing project using one of the following methods:
 
 - Click **Open** and browse to your project file and then click Open in the file dialog.
