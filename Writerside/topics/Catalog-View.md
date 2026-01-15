@@ -25,7 +25,9 @@ To rename an existing catalog entry, follow these steps:
 4. Choose Rename.
 5. Type in the new name and press Enter to confirm.
 <p>Rename a catalog entry</p>
+
 ![Rename a catalog entry](rename-catalog-entry.png){ width=640 }
+
 
 ## 3. Build a catalog
 After creating a new catalog entry, you can build the catalog tree by adding categories and materials.

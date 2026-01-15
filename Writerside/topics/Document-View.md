@@ -13,9 +13,11 @@ In Bluegrid, PDF pages are organized into folders. A folder may contain sub-fold
 #### Notes: In a folder, folder names must be unique.
 
 <p>Adding new a folder</p>
+
 ![Create a new folder](add-new-folder.png){ width=640 }
 
 <p><strong>Enter folder name</strong></p>
+
 ![Enter folder name](enter-folder-name.png){ width=640 }
 
 
