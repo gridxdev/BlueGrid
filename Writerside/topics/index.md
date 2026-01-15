@@ -36,10 +36,17 @@
 - [Edit page properties](Document-View.md#2-19-edit-page-properties)
 
 ## Catalog View Functions
+
+### Catalog entries
 - [Add catalog entry ](Catalog-View.md#2-add-a-new-catalog-entry) 
 - [Rename catalog entry](Catalog-View.md#rename-a-catalog-entry)
 - [Delete catalog entry](Catalog-View.md#delete-a-catalog-entry)
 - [Sort catalog entries](Catalog-View.md#sort-catalog-entries)
 
+### Catalog tree and items
 
-
+- [Add tree root item](Catalog-View.md#3-1-add-tree-root-item)
+- [Add category group items](Catalog-View.md#3-2-add-category-group-items)
+- [Add material items](Catalog-View.md#3-3-add-catalog-material-items)
+- [Import catalog from file](Catalog-View.md#3-6-import-catalogs)
+- [Export catalog to file](Catalog-View.md#3-7-export-catalogs)
