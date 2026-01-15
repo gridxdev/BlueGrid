@@ -59,3 +59,8 @@ Catalog view has two main sections, the catalog header list in the left and the 
 - [Add material items](Catalog-View.md#3-3-add-catalog-material-items)
 - [Import catalog from file](Catalog-View.md#3-6-import-catalogs)
 - [Export catalog to file](Catalog-View.md#3-7-export-catalogs)
+
+## Drawing View Overview and Functions
+Drawing view is the main workspace in Bluegrid where you can perform take-off measurements on your project drawings. The drawing view consists of several key components, including the toolbar, measurement tools, annotation tools, properties panel, and the drawing canvas.
+
+![Drawing View](draw-overview.png){ width=1080 }
