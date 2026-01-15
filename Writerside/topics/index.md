@@ -4,6 +4,7 @@
 ![Bluegrid Logo](app-overview.jpg){ width=1080 }
 
 
+
 ## Document View Functions
 ### 1. Folder Features and Functions
 - [Create New Folder](Document-View.md#1-1-creating-a-new-folder)  
@@ -31,8 +32,11 @@
 - [Batch rename pages](Document-View.md#2-15-batch-rename-pages)
 - [Bat set unit](Document-View.md#2-16-batch-set-unit)
 - [Re-index pages](Document-View.md#2-17-re-index-pages)
-- [Move a page to anotherr folder](Document-View.md#2-18-move-a-page-to-another-folder)
+- [Move a page to another folder](Document-View.md#2-18-move-a-page-to-another-folder)
 - [Edit page properties](Document-View.md#2-19-edit-page-properties)
+
+## Catalog View Functions
+- [Add catalog entry ](Catalog-View.md#2-add-a-new-catalog-entry)  
 
 
 
