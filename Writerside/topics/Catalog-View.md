@@ -74,7 +74,6 @@ To add a new category to the catalog tree, follow these steps:
 5. Enter a name and description for the new Group and press click Add.
 <p>Add catalog group</p>
 
-[//]: # (<img src="add-catalog-group.png" alt="Add catalog group" title="Add catalog group" style="width:auto; height:auto; max-width:70%;">)
 ![Add catalog group](add-catalog-group.png){ width=640 }
 
 ### 3.3 Add catalog material items

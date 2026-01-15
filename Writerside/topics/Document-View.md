@@ -78,7 +78,7 @@ Clear the filter text to show all folders again.
 
 ![Open a page](open-page.png){ width=640 }
 
-[//]: # (##### Notes:)
+
 By default, Bluegrid opens the latest version of a page. If you want to open a specific version, please refer to section 2.2.3 Open Version.
 
 ### 2.2 Open with
@@ -92,7 +92,7 @@ Bluegrid allows users to open a page with different applications.
 
 ![Open PDF with external programs](open-with.png){ width=640 }
 
-[//]: # (##### Notes:)
+
 The applications users used to open pages will be saved in the Open With list for future use.
 
 ### 2.3 Open version
@@ -288,6 +288,7 @@ In Bluegrid, each page has properties such as name, scale, and unit that can be 
 4. In the Properties dialog, enter the new scale value in the appropriate field.
 5. Click Apply to confirm the change.
 <p>Change page scale</p>  
+
 ![Set page scale](edit-page-scale.png){ width=640 }
 
 
