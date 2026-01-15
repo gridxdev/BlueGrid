@@ -39,6 +39,10 @@
 
 ### 2.1 Catalog entries
 
+Catalog view has two main sections, the catalog header list in the left and the catalog tree table view is in the right. Each catalog in the catalog entry list associates to a catalog tree.
+
+![Catalog View](catalog-overview.png){ width=1080 }
+
 - [Add catalog entry ](Catalog-View.md#2-add-a-new-catalog-entry) 
 - [Rename catalog entry](Catalog-View.md#rename-a-catalog-entry)
 - [Delete catalog entry](Catalog-View.md#delete-a-catalog-entry)
