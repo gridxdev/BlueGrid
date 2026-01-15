@@ -204,6 +204,8 @@ In Bluegrid, Point snaps are optional while drawing shapes to have precise point
 ![Snap settings](snap-setting.png){ width=640 }
 
 ## 3. Drawboard
+Drawboard is the workspace to perform drawing and take-off activities on a PDF page. It provides various tools and functionalities to create, edit, and manage shapes and annotations on the drawing. Shapes, texts and annotations created in the Drawboard are associated with the current page and can be exported as a PDF page.
+
 Drawboard tutorial is under development....
 
 ## 4. Material table
@@ -363,8 +365,4 @@ In Bluegrid, you can filter the materials in the Materials table to display only
 <p>Filter materials</p>
 
 ![Filter materials](filter-materials.png){ width=640 }
-
-### 4.15 Drawboard menu
-In Bluegrid, the Drawboard Menu provides various options for managing and interacting with the drawing area. The Drawboard Menu can be accessed by right-clicking on the drawboard or by clicking on the menu icon in the toolbar. The available options in the Drawboard Menu include Undo, Redo, Cut, Copy, Paste, Delete, Group, Ungroup, Bring to Front, Send to Back, and more. These options allow you to perform common actions on shapes and annotations within the drawboard.
-
 
