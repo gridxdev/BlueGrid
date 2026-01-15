@@ -1,6 +1,5 @@
 # Videos
-## Measure area by drawing shapes
-<video controls width="800">
-  <source src="videos/area.mp4" type="video/mp4">
-</video>
 
+<p>Apply Materials onto shapes to account quantities</p> 
+<video src="https://youtu.be/Uz40lwhQTkg" preview-src="preview_apply_materials.png"/>
+   
