@@ -62,6 +62,7 @@ The Select PDF-Shape Tool allows you to select and manipulate shapes that are pa
 1. In the Draw view, select the Select PDF-Shape Tool from the toolbar.
 2. Press and hold the left mouse button and drag to create a selection rectangle around the PDF shapes you want to select.
 3. Release the mouse button to complete the selection. All PDF shapes within the rectangle will be selected.
+
 ![Shape tools](shape-tool.png){ width=640 }
 
 ### 2.6 Rectangle
@@ -70,7 +71,9 @@ The Rectangle Tool allows you to create rectangular shapes on your drawing. To u
 2. Click the left mouse button at the starting point of the rectangle.
 3. Move the mouse to define the size of the rectangle.
 4. Click the left mouse button again to complete the rectangle.
+
 <p><strong>Create rectangle shape</strong></p>
+
 ![Create rectangle shape](rectangle-tool.png){ width=640 }
 
 ### 2.7 Polyline
@@ -82,6 +85,7 @@ The Polyline Tool allows you to create a series of connected line segments. A po
 5. Right-click to complete the polyline.
 
 <p>Create polyline shape</p>
+
 ![Create polyline shape](polyline-shape.png){ width=640 }
 
 ### 2.8 Polygon
@@ -93,6 +97,7 @@ The Polygon Tool allows you to create closed shapes with multiple sides. A polyg
 5. Right-click to complete the polygon.
 
 <p>Create polygon shape</p>
+
 ![Create polygon shape](polygon-shape.png){ width=640 }
 
 ### 2.9 Line
@@ -101,6 +106,7 @@ The L**ine Tool allows you to create straight line segments on your drawing. Lin
 2. Click the left mouse button at the starting point of the line.
 3. Move the mouse to the endpoint of the line and click again to complete the line.
 <p>Create line shape</p>
+
 ![Create line shape](line-shape.png){ width=640 }
 
 ### 2.10 Path
@@ -301,7 +307,7 @@ To assign a material to a shape on your drawing, follow these steps:
 4. Drag the material onto the shape you want to assign it to.
 5. Release the mouse button to complete the assignment.
 
-[//]: # (##### Notes)
+
 Besides drag-and-drop method, you can also assign a material to a shape by selecting the material before drawing the shape. The selected material will be automatically assigned to the shape once it is created.
 
 <p>Assign material to shape</p>
