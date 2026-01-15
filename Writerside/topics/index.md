@@ -6,6 +6,10 @@
 
 
 ## 1. Document View Functions
+Document view is the main workspace in Bluegrid where you can manage your project documents, including folders and pages. The document view consists of two primary sections: the folder tree on the left and the page thumbnails on the right.
+
+![Document View](document-overview.png){ width=1080 }
+
 ### 1.1 Folder Features and Functions
 - [Create New Folder](Document-View.md#1-1-creating-a-new-folder)  
 - [Rename Folder](Document-View.md#1-2-renaming-a-folder)  
