@@ -5,8 +5,8 @@
 
 
 
-## Document View Functions
-### 1. Folder Features and Functions
+## 1. Document View Functions
+### 1.1 Folder Features and Functions
 - [Create New Folder](Document-View.md#1-1-creating-a-new-folder)  
 - [Rename Folder](Document-View.md#1-2-renaming-a-folder)  
 - [Delete Folder](Document-View.md#1-3-deleting-a-folder)  
@@ -14,7 +14,7 @@
 - [Sort Folders](Document-View.md#1-5-sorting-folders)
 - [Filter Folders](Document-View.md#1-6-filter-folders)
 
-### 2. Page Features and Functions
+### 1.2 Page Features and Functions
 - [Open Page](Document-View.md#2-1-open-a-page)
 - [Open page with external viewer](Document-View.md#2-2-open-with)
 - [Open a page version](Document-View.md#2-3-open-version)
@@ -35,15 +35,16 @@
 - [Move a page to another folder](Document-View.md#2-18-move-a-page-to-another-folder)
 - [Edit page properties](Document-View.md#2-19-edit-page-properties)
 
-## Catalog View Functions
+## 2. Catalog View Functions
 
-### Catalog entries
+### 2.1 Catalog entries
+
 - [Add catalog entry ](Catalog-View.md#2-add-a-new-catalog-entry) 
 - [Rename catalog entry](Catalog-View.md#rename-a-catalog-entry)
 - [Delete catalog entry](Catalog-View.md#delete-a-catalog-entry)
 - [Sort catalog entries](Catalog-View.md#sort-catalog-entries)
 
-### Catalog tree and items
+### 2.3 Catalog tree and items
 
 - [Add tree root item](Catalog-View.md#3-1-add-tree-root-item)
 - [Add category group items](Catalog-View.md#3-2-add-category-group-items)
