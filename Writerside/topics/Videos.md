@@ -4,4 +4,4 @@
 <video src="https://youtu.be/Uz40lwhQTkg" preview-src="preview_apply_materials.png"/>
    
 <p>Pull materials into material table</p>
-<video src="https://youtu.be/fr8qpFk2q_A" />
+<video src="https://youtu.be/fr8qpFk2q_A" preview-src="pull-material.png" />
