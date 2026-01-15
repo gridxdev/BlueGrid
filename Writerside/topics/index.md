@@ -64,3 +64,5 @@ Catalog view has two main sections, the catalog header list in the left and the 
 Drawing view is the main workspace in Bluegrid where you can perform take-off measurements on your project drawings. The drawing view consists of several key components, including the toolbar, measurement tools, annotation tools, properties panel, and the drawing canvas.
 
 ![Drawing View](draw-overview.png){ width=1080 }
+
+### -----Under construction-----
