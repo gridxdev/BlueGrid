@@ -36,7 +36,10 @@
 - [Edit page properties](Document-View.md#2-19-edit-page-properties)
 
 ## Catalog View Functions
-- [Add catalog entry ](Catalog-View.md#2-add-a-new-catalog-entry)  
+- [Add catalog entry ](Catalog-View.md#2-add-a-new-catalog-entry) 
+- [Rename catalog entry](Catalog-View.md#rename-a-catalog-entry)
+- [Delete catalog entry](Catalog-View.md#delete-a-catalog-entry)
+- [Sort catalog entries](Catalog-View.md#sort-catalog-entries)
 
 
 

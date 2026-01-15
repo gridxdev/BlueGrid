@@ -28,6 +28,27 @@ To rename an existing catalog entry, follow these steps:
 
 ![Rename a catalog entry](rename-catalog-entry.png){ width=640 }
 
+## Delete a catalog entry
+To delete an existing catalog entry, follow these steps:
+1. Open the Catalog Manager from the main menu.
+2. In the catalog entry list, select the catalog you want to delete.
+3. Open catalog menu or right-click to open the context menu.
+4. Choose Delete.
+
+<p>Delete a catalog entry</p>
+
+![Delete a catalog entry](delete-catalog-entry.png){ width=640 }
+
+## Sort catalog entries
+To sort catalog entries in the catalog header list, follow these steps:
+1. Open the Catalog Manager from the main menu.
+2. In the catalog entry list, open catalog menu or right-click to open the context menu.
+3. Choose Sort.
+
+<p>Sort catalog entries</p>
+
+![Sort catalog entries](sort-catalog-entries.png){ width=640 }
+
 
 ## 3. Build a catalog
 After creating a new catalog entry, you can build the catalog tree by adding categories and materials.
