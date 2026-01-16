@@ -73,22 +73,28 @@ Drawing view is the main workspace in Bluegrid where you can perform take-off me
 - [Pan tool](Draw-View.md#2-3-pan-tool)
 - [Shape Select tool](Draw-View.md#2-4-select-tool)
 - [PDF select tool](Draw-View.md#2-5-select-pdf-shape-tool)
-- [Rectangle tool](Draw-View.md#2-6-rectangle)
-- [Polyline tool](Draw-View.md#2-7-polyline)
-- [Polygon tool](Draw-View.md#2-8-polygon)
-- [Line tool](Draw-View.md#2-9-line)
-- [Path tool](Draw-View.md#2-10-path)
-- [Text tool](Draw-View.md#2-11-text-tool)
-- [Textbox tool](Draw-View.md#2-12-textbox-tool)
-- [Cloud tool](Draw-View.md#2-13-cloud-tool)
-- [Multiple point cloud](Draw-View.md#2-14-multiple-point-cloud-tool)
-- [Arrow tool](Draw-View.md#2-15-arrow-tool)
-- [Callout tool](Draw-View.md#2-16-callout-tool)
-- [Stamps tool](Draw-View.md#2-18-stamps)
-- [Point snaps](Draw-View.md#2-19-point-snaps)
+- [Shape info tool](Draw-View.md#2-6-shape-info-tool)
+- [Rectangle tool](Draw-View.md#2-7-rectangle)
+- [Polyline tool](Draw-View.md#2-8-polyline)
+- [Polygon tool](Draw-View.md#2-9-polygon)
+- [Line tool](Draw-View.md#2-10-line)
+- [Path tool](Draw-View.md#2-11-path)
+- [Text tool](Draw-View.md#2-12-text-tool)
+- [Textbox tool](Draw-View.md#2-13-textbox-tool)
+- [Cloud tool](Draw-View.md#2-14-cloud-tool)
+- [Multiple point cloud](Draw-View.md#2-15-multiple-point-cloud-tool)
+- [Arrow tool](Draw-View.md#2-16-arrow-tool)
+- [Callout tool](Draw-View.md#2-17-callout-tool)
+- [Count tool](Draw-View.md#2-18-count-tools)
+- [Stamps tool](Draw-View.md#2-19-stamps)
+- [Point snaps](Draw-View.md#2-20-point-snaps)
 
 
 ### 3.2 Drawboard
+
+ - [Open drawboard](Draw-View.md#3-1-open-drawboard)
+ - [Perform drawing shapes and annotations](Draw-View.md#3-2-perform-drawing-shapes-annotations)
+ - [Drawboard menu and functions](Draw-View.md#3-3-drawboard-menu-functions)
 
 ### 3.3 Material table
 

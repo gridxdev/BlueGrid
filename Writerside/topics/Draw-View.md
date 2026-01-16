@@ -65,7 +65,9 @@ The Select PDF-Shape Tool allows you to select and manipulate shapes that are pa
 
 ![Shape tools](shape-tool.png){ width=640 }
 
-### 2.6 Rectangle
+### 2.6 Shape info tool
+
+### 2.7 Rectangle
 The Rectangle Tool allows you to create rectangular shapes on your drawing. To use the Rectangle Tool, follow these steps:
 1. In the Draw view, select the Rectangle Tool from the toolbar.
 2. Click the left mouse button at the starting point of the rectangle.
@@ -76,7 +78,7 @@ The Rectangle Tool allows you to create rectangular shapes on your drawing. To u
 
 ![Create rectangle shape](rectangle-tool.png){ width=640 }
 
-### 2.7 Polyline
+### 2.8 Polyline
 The Polyline Tool allows you to create a series of connected line segments. A polyline is usually used to take-off linear items. To use the Polyline Tool, follow these steps:
 1. In the Draw view, select the Polyline Tool from the toolbar.
 2. Click the left mouse button at the starting point of the polyline.
@@ -88,7 +90,7 @@ The Polyline Tool allows you to create a series of connected line segments. A po
 
 ![Create polyline shape](polyline-shape.png){ width=640 }
 
-### 2.8 Polygon
+### 2.9 Polygon
 The Polygon Tool allows you to create closed shapes with multiple sides. A polygon is usually used to take-off area items. To use the Polygon Tool, follow these steps:
 1. In the Draw view, select the Polygon Tool from the toolbar.
 2. Click the left mouse button at the starting point of the polygon.
@@ -100,7 +102,7 @@ The Polygon Tool allows you to create closed shapes with multiple sides. A polyg
 
 ![Create polygon shape](polygon-shape.png){ width=640 }
 
-### 2.9 Line
+### 2.10 Line
 The L**ine Tool allows you to create straight line segments on your drawing. Line tool is usually used to take-off linear items. To use the Line Tool, follow these steps:
 1. In the Draw view, select the Line Tool from the toolbar.
 2. Click the left mouse button at the starting point of the line.
@@ -109,7 +111,7 @@ The L**ine Tool allows you to create straight line segments on your drawing. Lin
 
 ![Create line shape](line-shape.png){ width=640 }
 
-### 2.10 Path
+### 2.11 Path
 The Path Tool allows you to create freeform shapes by drawing curves and lines. To use the Path Tool, follow these steps:
 1. In the Draw view, select the Path Tool from the toolbar.
 2. Click and hold the left mouse button to start drawing the path.
@@ -121,7 +123,7 @@ The Path Tool allows you to create freeform shapes by drawing curves and lines. 
 
 ![Create path shape](path-shape.png){ width=640 }
 
-### 2.11 Text tool
+### 2.12 Text tool
 The Text Tool allows you to add plain text annotations to your drawing. To use the Text Tool, follow these steps:
 1. In the Draw view, select the Text Tool from the toolbar.
 2. Click on the drawing area where you want to add the text.
@@ -131,7 +133,7 @@ The Text Tool allows you to add plain text annotations to your drawing. To use t
 
 ![Add text annotation](text-tool.png){ width=640 }
 
-### 2.12 Textbox tool
+### 2.13 Textbox tool
 The Textbox Tool allows you to add text annotations within a defined rectangular area. To use the Textbox Tool, follow these steps:
 1. In the Draw view, select the Textbox Tool from the toolbar.
 2. Click on the drawing area to define the top-left corner of the textbox.
@@ -141,7 +143,7 @@ The Textbox Tool allows you to add text annotations within a defined rectangular
 
 ![Add textbox annotation](textbox-tool.png){ width=640 }
 
-### 2.13 Cloud tool
+### 2.14 Cloud tool
 The Cloud Tool allows you to draw cloud-shaped annotations around areas of interest on your drawing. To use the Cloud Tool, follow these steps:
 1. In the Draw view, select the Cloud Tool from the toolbar.
 2. Click and hold the left mouse button to start drawing the cloud shape.
@@ -150,7 +152,7 @@ The Cloud Tool allows you to draw cloud-shaped annotations around areas of inter
 
 ![Add cloud annotation](cloud-tool.png){ width=640 }
 
-### 2.14 Multiple point cloud tool
+### 2.15 Multiple point cloud tool
 The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by specifying multiple points on your drawing. To use the Multiple Point Cloud Tool, follow these steps:
 1. In the Draw view, select the Multiple Point Cloud Tool from the toolbar.
 2. Click the left mouse button at each point to define the cloud shape.
@@ -159,7 +161,7 @@ The Multiple Point Cloud Tool allows you to draw cloud-shaped annotations by spe
 
 ![Add multiple point cloud annotation](multiple-point-cloud.png){ width=640 }
 
-### 2.15 Arrow tool
+### 2.16 Arrow tool
 The Arrow Tool allows you to draw arrows on your drawing to point out specific areas or items. To use the Arrow Tool, follow these steps:
 1. In the Draw view, select the Arrow Tool from the toolbar.
 2. Click the left mouse button at the starting point of the arrow.
@@ -168,7 +170,7 @@ The Arrow Tool allows you to draw arrows on your drawing to point out specific a
 
 ![Add arrow annotation](arrow-tool.png){ width=640 }
 
-### 2.16 Callout tool
+### 2.17 Callout tool
 The Callout Tool allows you to create callouts to highlight specific areas on your drawing. There are three types of callouts available: Linear Callout, Quadratic Callout, and Cubic Callout. To use the Callout Tool, follow these steps:
 1. In the Draw view, select the Callout Tool from the toolbar.
 2. Choose the desired callout type from the dropdown menu.
@@ -181,7 +183,7 @@ The Callout Tool allows you to create callouts to highlight specific areas on yo
 
 ![Add callout annotation](callout-tool.png){ width=640 }
 
-### 2.17 Count tools
+### 2.18 Count tools
 The Count Tool in Bluegrid allows you to count and mark items on your drawing. This tool is useful for quantifying items such as fixtures, equipment, or any other countable objects. When count blocks are subscribed to a material, count indices with automatically increase. To use the Count Tool, follow these steps:
 1. In the Draw view, select the Count Tool from the toolbar.
 2. Click on each item you want to count on the drawing.
@@ -190,7 +192,7 @@ The Count Tool in Bluegrid allows you to count and mark items on your drawing. T
 
 ![Count tool](count-tool.png){ width=640 }
 
-### 2.18 Stamps
+### 2.19 Stamps
 The Stamp Tool in Bluegrid allows you to add predefined stamp shapes to your drawing. Stamps can be used for various purposes, such as marking areas, indicating status, or adding symbols. To use the Stamp Tool, follow these steps:
 1. In the Draw view, select the Stamp Tool from the toolbar.
 2. Choose the desired stamp from the stamp library.
@@ -199,7 +201,7 @@ The Stamp Tool in Bluegrid allows you to add predefined stamp shapes to your dra
 
 ![Add stamp to drawing](stamp-tool.png){ width=640 }
 
-### 2.19 Point snaps
+### 2.20 Point snaps
 In Bluegrid, Point snaps are optional while drawing shapes to have precise points as well as to deliver the best accurate quantity take-offs. To access and modify the Snap Settings, follow these steps:
 1. In the Draw view, locate the Snap Settings icon in the status bar at the bottom of the window.
 2. Click the Snap Settings icon to open the Snap Settings dialog.
@@ -212,7 +214,23 @@ In Bluegrid, Point snaps are optional while drawing shapes to have precise point
 ## 3. Drawboard
 Drawboard is the workspace to perform drawing and take-off activities on a PDF page. It provides various tools and functionalities to create, edit, and manage shapes and annotations on the drawing. Shapes, texts and annotations created in the Drawboard are associated with the current page and can be exported as a PDF page.
 
-Drawboard tutorial is under development....
+### 3.1 Open drawboard
+The drawboard is the workspace to perform drawing and take-off activities on a PDF page. To open the drawboard for a specific page, follow these steps:
+1. In Document view, select the page you want to open in Drawboard.
+2. Double-click the page or right-click to open context menu and choose Open in Draw View.
+3. Click Open to open the Drawboard for the selected page.
+
+### 3.2 Perform drawing shapes / annotations 
+
+Once the Drawboard is opened, you can use various drawing tools available in the toolbar to create shapes and annotations on the PDF page. Select the desired tool from the toolbar and follow the instructions to draw shapes or add annotations as needed.
+
+### 3.3 Drawboard menu / functions
+
+
+
+
+
+
 
 ## 4. Material table
 
