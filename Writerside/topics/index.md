@@ -66,24 +66,51 @@ Drawing view is the main workspace in Bluegrid where you can perform take-off me
 ![Drawing View](draw-overview.png){ width=1080 }
 
 - [Open PDF](Draw-View.md#1-open-pdf-in-draw-view)
+
+### 3.1 Draw toolset 
 - [Set page scale](Draw-View.md#2-1-set-page-scale-with-scale-tool)
 - [Dim tool](Draw-View.md#2-2-measure-distances-with-dim-tool)
 - [Pan tool](Draw-View.md#2-3-pan-tool)
 - [Shape Select tool](Draw-View.md#2-4-select-tool)
 - [PDF select tool](Draw-View.md#2-5-select-pdf-shape-tool)
-- [Rectangle tool](Draw-View.md#2-6-rectangle)
-- [Polyline tool](Draw-View.md#2-7-polyline)
-- [Polygon tool](Draw-View.md#2-8-polygon)
-- [Line tool](Draw-View.md#2-9-line)
-- [Path tool](Draw-View.md#2-10-path)
-- [Text tool](Draw-View.md#2-11-text-tool)
-- [Textbox tool](Draw-View.md#2-12-textbox-tool)
-- [Cloud tool](Draw-View.md#2-13-cloud-tool)
-- [Multiple point cloud](Draw-View.md#2-14-multiple-point-cloud-tool)
-- [Arrow tool](Draw-View.md#2-15-arrow-tool)
-- [Callout tool](Draw-View.md#2-16-callout-tool)
-- [Stamps tool](Draw-View.md#2-18-stamps)
-- [Point snaps](Draw-View.md#2-19-point-snaps)
+- [Shape info tool](Draw-View.md#2-6-shape-info-tool)
+- [Rectangle tool](Draw-View.md#2-7-rectangle)
+- [Polyline tool](Draw-View.md#2-8-polyline)
+- [Polygon tool](Draw-View.md#2-9-polygon)
+- [Line tool](Draw-View.md#2-10-line)
+- [Path tool](Draw-View.md#2-11-path)
+- [Text tool](Draw-View.md#2-12-text-tool)
+- [Textbox tool](Draw-View.md#2-13-textbox-tool)
+- [Cloud tool](Draw-View.md#2-14-cloud-tool)
+- [Multiple point cloud](Draw-View.md#2-15-multiple-point-cloud-tool)
+- [Arrow tool](Draw-View.md#2-16-arrow-tool)
+- [Callout tool](Draw-View.md#2-17-callout-tool)
+- [Count tool](Draw-View.md#2-18-count-tools)
+- [Stamps tool](Draw-View.md#2-19-stamps)
+- [Point snaps](Draw-View.md#2-20-point-snaps)
+
+
+### 3.2 Drawboard
+
+ - [Open drawboard](Draw-View.md#3-1-open-drawboard)
+ - [Perform drawing shapes and annotations](Draw-View.md#3-2-perform-drawing-shapes-annotations)
+ - [Drawboard menu and functions](Draw-View.md#3-3-drawboard-menu-functions)
+
+### 3.3 Material table
+
+- [Create material table](Draw-View.md#4-1-add-a-new-material)
+- [Edit materials](Draw-View.md#4-2-edit-material-properties)
+- [Import materials to tables ](Draw-View.md#4-3-import-materials)
+- [Pull materials from project catalogs](Draw-View.md#4-4-pull-materials-from-catalog)
+- [Delete materials](Draw-View.md#4-5-delete-materials)
+- [Export materials](Draw-View.md#4-6-export-materials-as-templates)
+- [Export quantity takeoffs to excel files](Draw-View.md#4-7-export-page-quantity-report-to-excel)
+- [Drag & drop materials onto shapes ](Draw-View.md#4-8-assign-materials-to-shapes)
+- [Remove subscribed shapes from materials](Draw-View.md#4-9-remove-shapes-from-materials)
+- [Unsubscribe shapes to no materials](Draw-View.md#4-10-unsubscribe-shapes-to-no-material)
+- [Sort materials](Draw-View.md#4-13-sort-materials)
+- [Filter materials](Draw-View.md#4-14-filter-materials)
+
 
 
 
