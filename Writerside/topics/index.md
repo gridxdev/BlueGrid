@@ -60,9 +60,36 @@ Catalog view has two main sections, the catalog header list in the left and the 
 - [Import catalog from file](Catalog-View.md#3-6-import-catalogs)
 - [Export catalog to file](Catalog-View.md#3-7-export-catalogs)
 
-## Drawing View Overview and Functions
+## 3. Drawing View Overview and Functions
 Drawing view is the main workspace in Bluegrid where you can perform take-off measurements on your project drawings. The drawing view consists of several key components, including the toolbar, measurement tools, annotation tools, properties panel, and the drawing canvas.
 
 ![Drawing View](draw-overview.png){ width=1080 }
 
-### -----Under construction-----
+- [Open PDF](Draw-View.md#1-open-pdf-in-draw-view)
+- [Set page scale](Draw-View.md#2-1-set-page-scale-with-scale-tool)
+- [Dim tool](Draw-View.md#2-2-measure-distances-with-dim-tool)
+- [Pan tool](Draw-View.md#2-3-pan-tool)
+- [Shape Select tool](Draw-View.md#2-4-select-tool)
+- [PDF select tool](Draw-View.md#2-5-select-pdf-shape-tool)
+- [Rectangle tool](Draw-View.md#2-6-rectangle)
+- [Polyline tool](Draw-View.md#2-7-polyline)
+- [Polygon tool](Draw-View.md#2-8-polygon)
+- [Line tool](Draw-View.md#2-9-line)
+- [Path tool](Draw-View.md#2-10-path)
+- [Text tool](Draw-View.md#2-11-text-tool)
+- [Textbox tool](Draw-View.md#2-12-textbox-tool)
+- [Cloud tool](Draw-View.md#2-13-cloud-tool)
+- [Multiple point cloud](Draw-View.md#2-14-multiple-point-cloud-tool)
+- [Arrow tool](Draw-View.md#2-15-arrow-tool)
+- [Callout tool](Draw-View.md#2-16-callout-tool)
+- [Stamps tool](Draw-View.md#2-18-stamps)
+- [Point snaps](Draw-View.md#2-19-point-snaps)
+
+
+
+
+
+
+
+
+

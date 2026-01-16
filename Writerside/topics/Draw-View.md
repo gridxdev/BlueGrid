@@ -1,12 +1,12 @@
 # Draw View
 
-
 ## 1. Open PDF in Draw view
 In Bluegrid, Draw View is at page level, meaning to work on a specific page, you need to open that page in Draw View. To open a PDF page in Draw View, follow these steps:
 1. Select the page you want to open in Document view.
 2. Double-click the page or right-click to open context menu and choose Open in Draw View.
 3. Click Open
-   ![Open PDF in Draw view](open-page.png){ width=640 }
+
+![Open PDF in Draw view](open-page.png){ width=640 }
 
 ## 2. Draw tools
 
