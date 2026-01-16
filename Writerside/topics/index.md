@@ -66,6 +66,8 @@ Drawing view is the main workspace in Bluegrid where you can perform take-off me
 ![Drawing View](draw-overview.png){ width=1080 }
 
 - [Open PDF](Draw-View.md#1-open-pdf-in-draw-view)
+
+### 3.1 Draw toolset 
 - [Set page scale](Draw-View.md#2-1-set-page-scale-with-scale-tool)
 - [Dim tool](Draw-View.md#2-2-measure-distances-with-dim-tool)
 - [Pan tool](Draw-View.md#2-3-pan-tool)
@@ -84,6 +86,25 @@ Drawing view is the main workspace in Bluegrid where you can perform take-off me
 - [Callout tool](Draw-View.md#2-16-callout-tool)
 - [Stamps tool](Draw-View.md#2-18-stamps)
 - [Point snaps](Draw-View.md#2-19-point-snaps)
+
+
+### 3.2 Drawboard
+
+### 3.3 Material table
+
+- [Create material table](Draw-View.md#4-1-add-a-new-material)
+- [Edit materials](Draw-View.md#4-2-edit-material-properties)
+- [Import materials to tables ](Draw-View.md#4-3-import-materials)
+- [Pull materials from project catalogs](Draw-View.md#4-4-pull-materials-from-catalog)
+- [Delete materials](Draw-View.md#4-5-delete-materials)
+- [Export materials](Draw-View.md#4-6-export-materials-as-templates)
+- [Export quantity takeoffs to excel files](Draw-View.md#4-7-export-page-quantity-report-to-excel)
+- [Drag & drop materials onto shapes ](Draw-View.md#4-8-assign-materials-to-shapes)
+- [Remove subscribed shapes from materials](Draw-View.md#4-9-remove-shapes-from-materials)
+- [Unsubscribe shapes to no materials](Draw-View.md#4-10-unsubscribe-shapes-to-no-material)
+- [Sort materials](Draw-View.md#4-13-sort-materials)
+- [Filter materials](Draw-View.md#4-14-filter-materials)
+
 
 
 
